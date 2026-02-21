@@ -34,6 +34,9 @@ jobs:
       - name: Build Next.js output
         run: npm run build:gh
 
+      - name: Add .nojekyll to bypass GitHub Pages limits
+        run: touch ./out/.nojekyll
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
