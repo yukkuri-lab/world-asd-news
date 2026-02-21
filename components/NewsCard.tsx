@@ -166,14 +166,17 @@ const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
 
             {/* ─── 日本語タイトル（大・メイン） ─── */}
             {titleJa ? (
-                <a
-                    href={news.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="nc-title-ja-link"
-                >
-                    {titleJa}
-                </a>
+                <>
+                    <a
+                        href={news.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="nc-title-ja-link"
+                    >
+                        {titleJa}
+                    </a>
+                    <p className="nc-title-en">{news.title}</p>
+                </>
             ) : (
                 <a
                     href={news.link}
