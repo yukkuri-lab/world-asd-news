@@ -21,7 +21,7 @@ async function updateNews() {
     console.log('Starting news update...');
     try {
         const freshNews = await fetchRSS();
-        const storedNews = getStoredNews();
+        const storedNews = await getStoredNews();
         const existingIds = new Set(storedNews.map(item => item.id));
 
         const newItems: StoredNewsItem[] = [];
@@ -35,12 +35,17 @@ async function updateNews() {
                 console.log(`New article found: ${item.title}`);
 
                 // Summarize
-                const summary = await summarizeNews(item.title, item.contentSnippet || '', item.source);
+                const analysis = await summarizeNews(item.title, item.contentSnippet || '', item.source);
 
                 newItems.push({
                     ...item,
                     id,
-                    summary,
+                    summary: analysis.summary,
+                    country: analysis.country,
+                    category: analysis.category,
+                    reliability: analysis.reliability,
+                    parentMeaning: analysis.parentMeaning,
+                    todayAction: analysis.todayAction,
                     fetchedAt: new Date().toISOString()
                 });
 
@@ -56,7 +61,7 @@ async function updateNews() {
             // Keep only the latest 50 items to keep the file size manageable
             const keptNews = updatedNews.slice(0, 50);
 
-            saveNews(keptNews);
+            await saveNews(keptNews);
             console.log(`Updated news with ${newItems.length} new articles.`);
         } else {
             console.log('No new articles found.');

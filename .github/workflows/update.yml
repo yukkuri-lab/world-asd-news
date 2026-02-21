@@ -1,0 +1,42 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # 毎日 日本時間の朝7時（UTCの夜22時）と 夜19時（UTCの10時）に実行
+    - cron: '0 22 * * *'
+    - cron: '0 10 * * *'
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # gh-pagesへのプッシュ権限
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run News Updater
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npx tsx scripts/scheduler.ts --run-now
+
+      - name: Build Next.js output
+        run: npm run build:gh
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          commit_message: "Automated news update & deploy"
