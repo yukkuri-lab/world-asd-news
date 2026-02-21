@@ -1,26 +1,375 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* ═══════════════════════════════════════
+   Design Tokens (Apple-inspired Minimalist)
+═══════════════════════════════════════ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #F5F5F7;
+  /* Apple standard light gray background */
+  --card-bg: #FFFFFF;
+  --fg: #1D1D1F;
+  /* Apple standard text black */
+  --fg-sub: #515154;
+  /* Secondary text */
+  --fg-muted: #86868B;
+  /* Muted text (metadata) */
+  --border: rgba(0, 0, 0, 0.08);
+  /* Extremely subtle border */
+  --radius: 18px;
+  /* Refined squircle-like radius */
+  --accent: #0071E3;
+  /* Apple standard blue */
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* ═══════════════════════════════════════
+   Base
+═══════════════════════════════════════ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  /* Absolute best font stack for Apple-like readability */
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Hiragino Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  letter-spacing: -0.015em;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ═══════════════════════════════════════
+   News Card (Premium Refinement)
+═══════════════════════════════════════ */
+.news-card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  padding: 36px 40px;
+  /* Ultimate layered shadow for physical depth */
+  box-shadow:
+    0 2px 8px -2px rgba(0, 0, 0, 0.03),
+    0 8px 32px -4px rgba(0, 0, 0, 0.04);
+  /* iOS-like buttery smooth transition */
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.news-card:hover {
+  border-color: rgba(0, 0, 0, 0.08);
+  box-shadow:
+    0 4px 12px -2px rgba(0, 0, 0, 0.04),
+    0 16px 48px -6px rgba(0, 0, 0, 0.08);
+  transform: translateY(-3px) scale(1.002);
+}
+
+.nc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.nc-source {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+
+.nc-new-badge {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(255, 59, 48, 0.08);
+  /* Apple Red with transparency */
+  color: #D70015;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 8px;
+  letter-spacing: 0.06em;
+}
+
+.nc-new-badge::before {
+  content: '';
+  display: block;
+  width: 5px;
+  height: 5px;
+  background-color: #D70015;
+  border-radius: 50%;
+  animation: pulse-red 2s infinite;
+}
+
+@keyframes pulse-red {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.5;
+    transform: scale(0.9);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Titles */
+.nc-title-ja-link {
+  display: block;
+  font-size: 26px;
+  /* Slightly larger for editorial feel */
+  font-weight: 800;
+  line-height: 1.35;
+  color: var(--fg);
+  margin-bottom: 6px;
+  letter-spacing: -0.025em;
+  transition: color 0.3s ease;
+}
+
+.nc-title-ja-link:hover {
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 113, 227, 0.3);
+  /* Subtle underline */
+  text-underline-offset: 4px;
+  color: var(--accent);
+}
+
+/* ── 英語タイトル（小・グレー・サブ） ── */
+.nc-title-en {
+  font-size: 13px;
+  color: var(--fg-muted);
+  line-height: 1.5;
+  margin: 0 0 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+/* ── 旧データ用：英語タイトルのみの場合 ── */
+.nc-title-link {
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--fg);
+  margin-bottom: 24px;
+  letter-spacing: -0.015em;
+  transition: color 0.3s ease;
+}
+
+.nc-title-link:hover {
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 113, 227, 0.3);
+  text-underline-offset: 4px;
+  color: var(--accent);
+}
+
+/* ── 日本語要約エリア ── */
+.nc-summary {
+  background: rgba(0, 0, 0, 0.015);
+  /* Almost invisible layer */
+  border-radius: 12px;
+  padding: 24px 28px;
+  margin-bottom: 24px;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+/* ── 箇条書きリスト ── */
+.nc-bullets {
+  list-style: none !important;
+  margin: 0;
+  padding: 0 !important;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.nc-bullet-item {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 16px;
+  list-style: none !important;
+}
+
+.nc-bullet-dot {
+  display: block;
+  width: 6px;
+  height: 6px;
+  min-width: 6px;
+  border-radius: 50%;
+  background-color: var(--fg-muted);
+  margin-top: 10px;
+  flex-shrink: 0;
+}
+
+/* ブラウザデフォルトの箇条書き記号を消す */
+.nc-bullets {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
+.nc-bullet-text {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.7;
+  color: var(--fg-sub);
+  letter-spacing: -0.01em;
+  text-decoration: none !important;
+}
+
+.nc-no-summary {
+  font-size: 14px;
+  color: var(--fg-muted);
+  font-style: italic;
+  margin: 0;
+}
+
+/* ── フッター（日付＋記事を読む） ── */
+.nc-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.nc-date {
+  font-size: 13px;
+  color: var(--fg-muted);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.nc-read-btn {
+  font-size: 13px;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: 100px;
+  color: var(--accent);
+  background: rgba(0, 113, 227, 0.08);
+  /* Translucent Blue */
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  border: none;
+}
+
+.nc-read-btn:hover {
+  background: var(--accent);
+  color: #fff !important;
+  transform: scale(1.02);
+}
+
+/* ═══════════════════════════════════════
+   メタ情報バー（国・カテゴリ・信頼度）
+═══════════════════════════════════════ */
+.nc-meta-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.nc-meta-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 8px;
+  /* Squircle */
+  letter-spacing: 0.02em;
+  background: rgba(0, 0, 0, 0.03);
+  /* Translucent, inherits background tone */
+  color: var(--fg-sub);
+  border: 1px solid rgba(0, 0, 0, 0.02);
+}
+
+.nc-meta-reliability {
+  color: #B58500;
+  /* Subtle gold */
+}
+
+/* ═══════════════════════════════════════
+   独自コンテンツ（親への意味・今日の1アクション）
+═══════════════════════════════════════ */
+.nc-extras {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 32px;
+}
+
+.nc-extra-item {
+  padding: 16px 20px;
+  border-radius: 12px;
+  background: #F5F5F7;
+  /* Flat, clean background */
+}
+
+.nc-extra-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--fg-muted);
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+
+.nc-extra-icon {
+  font-size: 14px;
+  line-height: 1;
+}
+
+.nc-extra-text {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--fg);
+}
+
+/* ── モバイル対応 ── */
+@media (max-width: 640px) {
+  .news-card {
+    padding: 20px 18px;
+  }
+
+  .nc-title-ja-link {
+    font-size: 18px;
+  }
+
+  .nc-meta-bar {
+    gap: 6px;
+  }
+
+  .nc-meta-tag {
+    font-size: 10px;
+    padding: 3px 8px;
+  }
+
+  .nc-extra-item {
+    padding: 12px 14px;
+  }
+
+  .nc-extra-text {
+    font-size: 13px;
+  }
 }
