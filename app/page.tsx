@@ -5,9 +5,10 @@ import UpdateButton from '@/components/UpdateButton';
 
 export const revalidate = 3600;
 
-export default function Home() {
+export default async function Home() {
   // 最新記事を上に表示（pubDate降順）
-  const newsItems = (getStoredNews() as NewsItem[]).sort((a, b) => {
+  const storedNews = await getStoredNews();
+  const newsItems = (storedNews as NewsItem[]).sort((a, b) => {
     const dateA = new Date(a.pubDate || a.fetchedAt).getTime();
     const dateB = new Date(b.pubDate || b.fetchedAt).getTime();
     return dateB - dateA; // 新しい順

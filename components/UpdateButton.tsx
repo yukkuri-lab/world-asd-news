@@ -14,10 +14,28 @@ export default function UpdateButton() {
         setStatus('loading');
         setMessage('');
 
-        try {
-            const response = await fetch('/api/update', {
+        const sendRequest = async (pwd?: string) => {
+            return await fetch('/api/update', {
                 method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(pwd ? { password: pwd } : {}),
             });
+        };
+
+        try {
+            let response = await sendRequest();
+
+            // もしパスワードが必要な環境で、パスワードがないor間違っている場合（401 Unauthorized）
+            if (response.status === 401) {
+                const pwd = prompt('サーバーから保護されています。\n家族専用の「更新パスワード」を入力してください:');
+                if (!pwd) {
+                    setStatus('idle');
+                    setMessage('');
+                    return; // キャンセル
+                }
+                // パスワードと共に再送信
+                response = await sendRequest(pwd);
+            }
 
             const data = await response.json();
 

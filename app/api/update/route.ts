@@ -15,9 +15,21 @@ const MAX_ARTICLES_PER_UPDATE = 10;
 // 記事ごとのAPIリクエスト間隔（ミリ秒）
 const DELAY_BETWEEN_REQUESTS_MS = 4500;
 
-export async function POST() {
+export async function POST(request: Request) {
     try {
         console.log('🔄 手動更新リクエストを受信しました...');
+
+        // ネット公開時の連打防止（環境変数 UPDATE_PASSWORD が設定されていればチェック）
+        if (process.env.UPDATE_PASSWORD) {
+            const body = await request.json().catch(() => ({}));
+            if (body.password !== process.env.UPDATE_PASSWORD) {
+                console.warn('⚠️ 不正な更新リクエストをブロックしました（パスワード不一致）');
+                return NextResponse.json(
+                    { success: false, error: '更新パスワードが違います' },
+                    { status: 401 }
+                );
+            }
+        }
 
         // RSSフィードを取得
         const rawFreshNews = await fetchRSS();
@@ -30,7 +42,8 @@ export async function POST() {
             return true;
         });
 
-        const storedNews = getStoredNews();
+        // データベース（またはローカルファイル）から既存記事を取得
+        const storedNews = await getStoredNews();
         const existingIds = new Set(storedNews.map(item => item.id));
         // 2. 過去の保存済み記事とのタイトル重複もチェック
         const existingTitles = new Set(storedNews.map(item => item.title));
@@ -84,7 +97,7 @@ export async function POST() {
             // 既存データと結合し、最新50件を保持
             const updatedNews = [...newItems, ...storedNews];
             const keptNews = updatedNews.slice(0, 50);
-            saveNews(keptNews);
+            await saveNews(keptNews);
 
             const remaining = unprocessedArticles.length - newItems.length;
             const message = remaining > 0

@@ -17,7 +17,7 @@ export async function GET(request: Request) {
 
         console.log('Manual news update triggered via API...');
         const freshNews = await fetchRSS();
-        const storedNews = getStoredNews();
+        const storedNews = await getStoredNews();
         const existingIds = new Set(storedNews.map(item => item.id));
 
         const newItems: StoredNewsItem[] = [];
@@ -27,12 +27,17 @@ export async function GET(request: Request) {
 
             if (!existingIds.has(id)) {
                 console.log(`New article found: ${item.title}`);
-                const summary = await summarizeNews(item.title, item.contentSnippet || '', item.source);
+                const analysis = await summarizeNews(item.title, item.contentSnippet || '', item.source);
 
                 newItems.push({
                     ...item,
                     id,
-                    summary,
+                    summary: analysis.summary,
+                    country: analysis.country,
+                    category: analysis.category,
+                    reliability: analysis.reliability,
+                    parentMeaning: analysis.parentMeaning,
+                    todayAction: analysis.todayAction,
                     fetchedAt: new Date().toISOString()
                 });
             }
@@ -41,7 +46,7 @@ export async function GET(request: Request) {
         if (newItems.length > 0) {
             const updatedNews = [...newItems, ...storedNews];
             const keptNews = updatedNews.slice(0, 50);
-            saveNews(keptNews);
+            await saveNews(keptNews);
             return NextResponse.json({ success: true, message: `Updated with ${newItems.length} new articles.` });
         } else {
             return NextResponse.json({ success: true, message: 'No new articles found.' });
