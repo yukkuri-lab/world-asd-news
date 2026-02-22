@@ -1,4 +1,4 @@
 :HL["/world-asd-news/_next/static/chunks/ee3af81fab2b8d42.css","style"]
 :HL["/world-asd-news/_next/static/chunks/16a36657d1a5a144.css","style"]
 :HL["/world-asd-news/_next/static/media/ad9c66e761fed85a-s.p.bd81a64b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"3ZLKy23LdsF7-Bc6XP46S","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"ganwliChJjbPIEbWR92cT","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
