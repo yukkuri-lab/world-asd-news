@@ -1,3 +1,3 @@
 :HL["/world-asd-news/_next/static/chunks/ee3af81fab2b8d42.css","style"]
-:HL["/world-asd-news/_next/static/chunks/16a36657d1a5a144.css","style"]
-0:{"buildId":"3es93-VgJyIB9assUOaMN","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/world-asd-news/_next/static/chunks/9e153786d84bc6e9.css","style"]
+0:{"buildId":"FPOr6e2uXcxX-1gRu5u82","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
