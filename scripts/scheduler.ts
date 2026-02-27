@@ -26,35 +26,35 @@ async function updateNews() {
 
         const newItems: StoredNewsItem[] = [];
 
-        // Process only new items
-        for (const item of freshNews) {
+        // Process only up to 5 new items per run to avoid hitting rate limits or hanging
+        const newFeedItems = freshNews.filter(item => !existingIds.has(Buffer.from(item.link).toString('base64')));
+        const itemsToProcess = newFeedItems.slice(0, 5); // Take max 5
+
+        for (const item of itemsToProcess) {
             // Create a simple ID based on the link
             const id = Buffer.from(item.link).toString('base64');
 
-            if (!existingIds.has(id)) {
-                console.log(`New article found: ${item.title}`);
+            console.log(`New article found: ${item.title}`);
 
-                // Summarize
-                const analysis = await summarizeNews(item.title, item.contentSnippet || '', item.source);
+            // Summarize
+            const analysis = await summarizeNews(item.title, item.contentSnippet || '', item.source);
 
-                newItems.push({
-                    ...item,
-                    id,
-                    summary: analysis.summary,
-                    country: analysis.country,
-                    category: analysis.category,
-                    reliability: analysis.reliability,
-                    parentMeaning: analysis.parentMeaning,
-                    todayAction: analysis.todayAction,
-                    fetchedAt: new Date().toISOString()
-                });
+            newItems.push({
+                ...item,
+                id,
+                summary: analysis.summary,
+                country: analysis.country,
+                category: analysis.category,
+                reliability: analysis.reliability,
+                parentMeaning: analysis.parentMeaning,
+                todayAction: analysis.todayAction,
+                fetchedAt: new Date().toISOString()
+            });
 
-                // Wait 5 seconds to respect Gemini Free Tier rate limits (15 RPM)
-                console.log('Waiting 5s for rate limit...');
-                await new Promise(resolve => setTimeout(resolve, 5000));
-            }
+            // Wait 5 seconds to respect Gemini Free Tier rate limits (15 RPM)
+            console.log('Waiting 5s for rate limit...');
+            await new Promise(resolve => setTimeout(resolve, 5000));
         }
-
         if (newItems.length > 0) {
             // Add new items to the beginning of the list
             const updatedNews = [...newItems, ...storedNews];
