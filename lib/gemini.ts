@@ -1,8 +1,5 @@
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from '@google/generative-ai';
 
-// Gemini クライアント初期化
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || '');
-
 // Geminiのレスポンスを構造化して返す型
 export interface GeminiAnalysis {
     summary: string;         // TITLE + 3行要約（従来形式）
@@ -35,6 +32,8 @@ export async function summarizeNews(
         console.warn('GEMINI_API_KEY is not set. Using fallback data.');
         return fallback;
     }
+
+    const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
     // gemini-2.5-flash（医療系・科学系のニュースが誤ってブロックされないようセーフティを下げる）
     const model = genAI.getGenerativeModel({

@@ -1,7 +1,6 @@
 import { getStoredNews } from '@/lib/storage';
 import NewsCard from '@/components/NewsCard';
 import { NewsItem } from '@/components/types';
-import UpdateButton from '@/components/UpdateButton';
 
 export const revalidate = 3600;
 
@@ -47,9 +46,6 @@ export default async function Home() {
               World ASD News
             </span>
           </div>
-
-          {/* 更新ボタン */}
-          <UpdateButton />
         </div>
       </header>
 
@@ -61,27 +57,15 @@ export default async function Home() {
           {/* ラベル */}
           <span style={{
             display: 'inline-block',
-            fontSize: 11, fontWeight: 600,
-            letterSpacing: '0.06em',
-            textTransform: 'uppercase',
-            color: '#86868B', // Muted Apple gray
+            fontSize: 24, fontWeight: 700,
+            letterSpacing: '-0.01em',
+            color: '#1D1D1F',
             marginBottom: 16,
           }}>
             ASD × AI News Aggregator
           </span>
 
-          {/* キャッチコピー（SF Pro Display Like） */}
-          <h2 style={{
-            margin: '0 0 16px',
-            fontSize: 'clamp(32px, 6vw, 48px)',
-            fontWeight: 800,
-            lineHeight: 1.15,
-            letterSpacing: '-0.03em',
-            color: '#1D1D1F',
-          }}>
-            世界の自閉症研究を、<br />
-            <span style={{ color: '#0071E3' }}>3行</span>で明確に。
-          </h2>
+
 
           {/* サブコピー */}
           <p style={{
@@ -121,7 +105,7 @@ export default async function Home() {
               まだ記事がありません
             </p>
             <p style={{ fontSize: 14, color: '#86868B' }}>
-              右上の「今すぐ更新」ボタンを押してください
+              自動更新されるまでしばらくお待ちください
             </p>
           </div>
         ) : (
