@@ -39,17 +39,21 @@ async function updateNews() {
             // Summarize
             const analysis = await summarizeNews(item.title, item.contentSnippet || '', item.source);
 
-            newItems.push({
-                ...item,
-                id,
-                summary: analysis.summary,
-                country: analysis.country,
-                category: analysis.category,
-                reliability: analysis.reliability,
-                parentMeaning: analysis.parentMeaning,
-                todayAction: analysis.todayAction,
-                fetchedAt: new Date().toISOString()
-            });
+            if (!analysis.summary.includes('英語見出しのため準備中')) {
+                newItems.push({
+                    ...item,
+                    id,
+                    summary: analysis.summary,
+                    country: analysis.country,
+                    category: analysis.category,
+                    reliability: analysis.reliability,
+                    parentMeaning: analysis.parentMeaning,
+                    todayAction: analysis.todayAction,
+                    fetchedAt: new Date().toISOString()
+                });
+            } else {
+                console.log(`Summary failed for ${item.title}, skipping save to retry later.`);
+            }
 
             // Wait 5 seconds to respect Gemini Free Tier rate limits (15 RPM)
             console.log('Waiting 5s for rate limit...');

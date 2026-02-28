@@ -27,11 +27,7 @@ async function testGemini() {
     }
 
     const modelsToTry = [
-        'gemini-1.5-flash-001',
-        'gemini-1.5-flash-002',
-        'gemini-1.5-flash-8b',
-        'gemini-1.5-flash-latest',
-        'gemini-pro'
+        'gemini-2.5-flash'
     ];
 
     for (const modelName of modelsToTry) {
