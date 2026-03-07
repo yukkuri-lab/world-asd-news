@@ -130,7 +130,13 @@ const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
     const hasExtras = news.country || news.category || news.reliability;
 
     return (
-        <div className="news-card">
+        <a
+            href={news.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="news-card"
+            style={{ display: 'block' }}
+        >
 
             {/* ─── ヘッダー：ソース ＋ NEWバッジ ─── */}
             <div className="nc-header">
@@ -167,25 +173,15 @@ const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
             {/* ─── 日本語タイトル（大・メイン） ─── */}
             {titleJa ? (
                 <>
-                    <a
-                        href={news.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="nc-title-ja-link"
-                    >
+                    <span className="nc-title-ja-link">
                         {titleJa}
-                    </a>
+                    </span>
                     <p className="nc-title-en">{news.title}</p>
                 </>
             ) : (
-                <a
-                    href={news.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="nc-title-link"
-                >
+                <span className="nc-title-link">
                     {news.title}
-                </a>
+                </span>
             )}
 
             {/* ─── 日本語要約（箇条書き） ─── */}
@@ -208,7 +204,7 @@ const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
             </div>
 
             {/* ─── 独自コンテンツ：親への意味＋今日の1アクション ─── */}
-            {(news.parentMeaning || news.todayAction) && (
+            {(news.parentMeaning || news.todayAction || news.japanHint) && (
                 <div className="nc-extras">
                     {news.parentMeaning && (
                         <div className="nc-extra-item nc-parent-meaning">
@@ -228,23 +224,36 @@ const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
                             <p className="nc-extra-text">{news.todayAction}</p>
                         </div>
                     )}
+                    {news.japanHint && (
+                        <div className="nc-extra-item nc-japan-hint" style={{ background: 'rgba(52, 199, 89, 0.08)', border: '1px solid rgba(52, 199, 89, 0.2)' }}>
+                            <div className="nc-extra-label" style={{ color: '#15803D' }}>
+                                <span className="nc-extra-icon" style={{ fontSize: '15px' }}>👨‍👩‍👧‍👦</span>
+                                パパの視点 / 日本でのヒント
+                            </div>
+                            <p className="nc-extra-text" style={{ color: '#166534', fontWeight: 500 }}>{news.japanHint}</p>
+                        </div>
+                    )}
                 </div>
             )}
 
             {/* ─── フッター ─── */}
             <div className="nc-footer">
                 <time className="nc-date">{formattedDate}</time>
-                <a
-                    href={news.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="nc-read-btn"
-                    style={{ color: accentColor, borderColor: accentColor }}
-                >
-                    記事を読む →
-                </a>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+                    <span
+                        style={{ fontSize: 11, fontWeight: 600, color: 'var(--fg-muted)', letterSpacing: '0.05em' }}
+                    >
+                        クリックして
+                    </span>
+                    <span
+                        className="nc-read-btn"
+                        style={{ color: accentColor, borderColor: accentColor }}
+                    >
+                        元のサイトを読む ↗
+                    </span>
+                </div>
             </div>
-        </div>
+        </a>
     );
 };
 

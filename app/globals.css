@@ -63,6 +63,7 @@ a {
     0 8px 32px -4px rgba(0, 0, 0, 0.04);
   /* iOS-like buttery smooth transition */
   transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
 }
 
 .news-card:hover {

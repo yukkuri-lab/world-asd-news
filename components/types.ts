@@ -15,4 +15,5 @@ export interface NewsItem {
     reliability?: string;      // 信頼度（★★★ / ★★ / ★）
     parentMeaning?: string;    // 親への意味（具体的メリット）
     todayAction?: string;      // 今日の1アクション（家庭でできること）
+    japanHint?: string;        // 日本でのヒント・パパの視点
 }

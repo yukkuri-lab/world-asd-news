@@ -49,6 +49,7 @@ async function updateNews() {
                     reliability: analysis.reliability,
                     parentMeaning: analysis.parentMeaning,
                     todayAction: analysis.todayAction,
+                    japanHint: analysis.japanHint,
                     fetchedAt: new Date().toISOString()
                 });
             } else {

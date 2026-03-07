@@ -8,6 +8,7 @@ export interface GeminiAnalysis {
     reliability: string;     // 信頼度
     parentMeaning: string;   // 親への意味
     todayAction: string;     // 今日の1アクション
+    japanHint: string;       // 日本でのヒント・パパの視点
 }
 
 /**
@@ -26,6 +27,7 @@ export async function summarizeNews(
         reliability: '★★',
         parentMeaning: '詳細は元記事をご確認ください。',
         todayAction: '最新の研究動向に関心を持ち、情報を集めましょう。',
+        japanHint: '日本での活用方法についても関心を持ってみましょう。',
     };
 
     if (!process.env.GEMINI_API_KEY) {
@@ -78,7 +80,8 @@ export async function summarizeNews(
   "category": "以下から1つ選択: 研究 / 制度・政策 / 支援・療育 / 学校教育 / 当事者の声 / テクノロジー",
   "reliability": "情報源の信頼度を以下から選択: ★★★ / ★★ / ★",
   "parentMeaning": "この記事が保護者にとってどんな意味があるか（40文字以内、具体的に）",
-  "todayAction": "この記事を読んだ保護者が今日できる具体的なアクション1つ（40文字以内）"
+  "todayAction": "この記事を読んだ保護者が今日できる具体的なアクション1つ（40文字以内）",
+  "japanHint": "「日本でもこんなことできないかな？」という期待や、パパ・ママの視点での感想・ヒント（40〜60文字程度）"
 }
 
 【信頼度の基準】
@@ -123,6 +126,7 @@ export async function summarizeNews(
             reliability: parsed.reliability || '★★',
             parentMeaning: parsed.parentMeaning || '詳細な内容は記事リンクよりご確認ください。',
             todayAction: parsed.todayAction || '見出しから気になるポイントをチェックしてみましょう。',
+            japanHint: parsed.japanHint || '',
         };
     } catch (error) {
         console.error('Error generating summary with Gemini:', error);
