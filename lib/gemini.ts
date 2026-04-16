@@ -9,6 +9,8 @@ export interface GeminiAnalysis {
     parentMeaning: string;   // 親への意味
     todayAction: string;     // 今日の1アクション
     japanHint: string;       // 日本でのヒント・パパの視点
+    targetAge: string;       // 対象年齢
+    isRelevant: boolean;     // ASD関連ニュースとして掲載すべきかどうか
 }
 
 /**
@@ -28,6 +30,7 @@ export async function summarizeNews(
         parentMeaning: '詳細は元記事をご確認ください。',
         todayAction: '最新の研究動向に関心を持ち、情報を集めましょう。',
         japanHint: '日本での活用方法についても関心を持ってみましょう。',
+        targetAge: '全年齢',
     };
 
     if (!process.env.GEMINI_API_KEY) {
@@ -70,6 +73,7 @@ export async function summarizeNews(
 以下のJSON形式で出力してください。JSONのみを出力し、他のテキストは一切含めないでください。
 
 {
+  "isRelevant": true または false,
   "titleJa": "25文字以内の日本語タイトル",
   "bullets": [
     "要約1行目（必ず「。」で終わる完結した文）",
@@ -81,8 +85,18 @@ export async function summarizeNews(
   "reliability": "情報源の信頼度を以下から選択: ★★★ / ★★ / ★",
   "parentMeaning": "この記事が保護者にとってどんな意味があるか（40文字以内、具体的に）",
   "todayAction": "この記事を読んだ保護者が今日できる具体的なアクション1つ（40文字以内）",
-  "japanHint": "「日本でもこんなことできないかな？」という期待や、パパ・ママの視点での感想・ヒント（40〜60文字程度）"
+  "japanHint": "「日本でもこんなことできないかな？」という期待や、パパ・ママの視点での感想・ヒント（40〜60文字程度）",
+  "targetAge": "もっとも関連の深い対象年齢を1つ選択: 共通 / 乳幼児 / 幼児・小学生 / 小学生 / 中高生 / 青年期・大人"
 }
+
+【isRelevant の判定基準】
+- true にすべき記事：ASDに関する新しい研究成果、新制度・法改正、新しい支援プログラム、当事者の新しい体験談、新技術の発表など「ニュース性」がある記事
+- false にすべき記事：以下のような「常設・汎用コンテンツ」はニュースではないため false にしてください
+  ・団体の一般的なガイド・FAQ・相談窓口の案内
+  ・イベントやセミナーの告知・募集
+  ・既知の情報をまとめただけの一般解説ページ
+  ・ASDと直接関係のない記事（autism等のキーワードがタイトルに含まれていても内容が無関係な場合）
+  ・求人情報、寄付の呼びかけ、広告的な内容
 
 【信頼度の基準】
 - ★★★：政府機関（CDC, NIH等）、学会誌、大学の査読付き研究
@@ -127,11 +141,14 @@ export async function summarizeNews(
             parentMeaning: parsed.parentMeaning || '詳細な内容は記事リンクよりご確認ください。',
             todayAction: parsed.todayAction || '見出しから気になるポイントをチェックしてみましょう。',
             japanHint: parsed.japanHint || '',
+            targetAge: parsed.targetAge || '共通',
+            isRelevant: parsed.isRelevant !== false, // 明示的にfalseの場合のみ除外
         };
     } catch (error) {
         console.error('Error generating summary with Gemini:', error);
         return {
             ...fallback,
+            isRelevant: true, // エラー時は安全側（掲載する側）に倒す
             // フォールバック時にも極力「エラー感」を出さず、優しく見せる
             summary: `TITLE: 英語見出しのため準備中\n- こちらの記事は現在、日本語への翻訳・要約処理を行っています。\n- しばらく経ってから「今すぐ更新」を押すか、リンク先の元記事をご確認ください。`,
         };

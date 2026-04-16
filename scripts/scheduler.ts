@@ -36,10 +36,13 @@ async function updateNews() {
 
             console.log(`New article found: ${item.title}`);
 
-            // Summarize
+            // AIによる要約・関連性判定
             const analysis = await summarizeNews(item.title, item.contentSnippet || '', item.source);
 
-            if (!analysis.summary.includes('英語見出しのため準備中')) {
+            // AIが「ニュース性なし」と判定した記事はスキップ
+            if (!analysis.isRelevant) {
+                console.log(`[除外] ニュース性なしと判定: ${item.title}`);
+            } else if (!analysis.summary.includes('英語見出しのため準備中')) {
                 newItems.push({
                     ...item,
                     id,
@@ -50,6 +53,7 @@ async function updateNews() {
                     parentMeaning: analysis.parentMeaning,
                     todayAction: analysis.todayAction,
                     japanHint: analysis.japanHint,
+                    targetAge: analysis.targetAge,
                     fetchedAt: new Date().toISOString()
                 });
             } else {
