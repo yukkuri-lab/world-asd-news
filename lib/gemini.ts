@@ -31,6 +31,7 @@ export async function summarizeNews(
         todayAction: '最新の研究動向に関心を持ち、情報を集めましょう。',
         japanHint: '日本での活用方法についても関心を持ってみましょう。',
         targetAge: '全年齢',
+        isRelevant: true, // フォールバック時は安全側（掲載する側）に倒す
     };
 
     if (!process.env.GEMINI_API_KEY) {
