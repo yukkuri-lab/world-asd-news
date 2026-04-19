@@ -1,13 +1,23 @@
 import type { Metadata } from 'next';
-import { Noto_Sans_JP } from 'next/font/google';
+import { Noto_Sans_JP, Noto_Serif_JP } from 'next/font/google';
 import './globals.css';
 
+// 本文・UI用のサンセリフ体
 const notoSansJP = Noto_Sans_JP({
   subsets: ['latin'],
-  weight: ['400', '500', '700'],
+  weight: ['400', '500', '600', '700'],
   preload: true,
   display: 'swap',
-  variable: '--font-noto-sans-jp',
+  variable: '--font-sans',
+});
+
+// 見出し用のセリフ体（MONOCLE風のエディトリアル感）
+const notoSerifJP = Noto_Serif_JP({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700', '900'],
+  preload: true,
+  display: 'swap',
+  variable: '--font-serif',
 });
 
 export const metadata: Metadata = {
@@ -22,7 +32,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
-      <body className={`${notoSansJP.className} antialiased`}>
+      <body className={`${notoSansJP.variable} ${notoSerifJP.variable} antialiased`}>
         {children}
       </body>
     </html>
