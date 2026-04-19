@@ -26,6 +26,7 @@ export interface StoredNewsItem extends NewsItem {
     parentMeaning?: string;  // 親への意味
     todayAction?: string;    // 今日の1アクション
     japanHint?: string;      // 日本でのヒント・パパの視点
+    targetAge?: string;      // 対象年齢
 }
 
 export async function saveNews(newsItems: StoredNewsItem[]) {

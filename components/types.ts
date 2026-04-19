@@ -16,4 +16,5 @@ export interface NewsItem {
     parentMeaning?: string;    // 親への意味（具体的メリット）
     todayAction?: string;      // 今日の1アクション（家庭でできること）
     japanHint?: string;        // 日本でのヒント・パパの視点
+    targetAge?: string;        // 対象年齢
 }

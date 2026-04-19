@@ -1,6 +1,6 @@
 import { getStoredNews } from '@/lib/storage';
-import NewsCard from '@/components/NewsCard';
 import { NewsItem } from '@/components/types';
+import NewsFeed from '@/components/NewsFeed';
 
 export const revalidate = 3600;
 
@@ -51,28 +51,29 @@ export default async function Home() {
 
       {/* ─── ヒーロー ─── */}
       <section
-        style={{ padding: '56px 24px 40px', textAlign: 'center' }}
+        style={{ padding: '72px 24px 56px', textAlign: 'center' }}
       >
-        <div style={{ maxWidth: 560, margin: '0 auto' }}>
+        <div style={{ maxWidth: 640, margin: '0 auto' }}>
           {/* ラベル */}
-          <span style={{
-            display: 'inline-block',
-            fontSize: 24, fontWeight: 700,
-            letterSpacing: '-0.01em',
+          <h1 style={{
+            margin: '0 0 16px',
+            fontSize: 'max(36px, 5vw)',
+            fontWeight: 800,
+            letterSpacing: '-0.025em',
             color: '#1D1D1F',
-            marginBottom: 16,
+            lineHeight: 1.15
           }}>
             ASD × AI News Aggregator
-          </span>
-
-
+          </h1>
 
           {/* サブコピー */}
           <p style={{
             margin: 0,
-            fontSize: 16,
+            fontSize: 18,
             lineHeight: 1.6,
             color: '#515154',
+            fontWeight: 500,
+            letterSpacing: '-0.01em'
           }}>
             最新のASD研究ニュースを、<br />
             Gemini AIが日本語で要約してお届けします。
@@ -83,38 +84,7 @@ export default async function Home() {
       {/* ─── 記事一覧 ─── */}
       <div style={{ maxWidth: 720, margin: '0 auto', padding: '0 24px' }}>
 
-        {/* 記事数バナー */}
-        {newsItems.length > 0 && (
-          <p style={{
-            fontSize: 13, color: '#86868B', fontWeight: 500,
-            marginBottom: 20,
-          }}>
-            {newsItems.length}件の記事
-          </p>
-        )}
-
-        {/* カード一覧（シングルカラム） */}
-        {newsItems.length === 0 ? (
-          <div style={{
-            textAlign: 'center', padding: '72px 24px',
-            background: '#fff', borderRadius: 18,
-            border: '1px solid rgba(0, 0, 0, 0.04)',
-          }}>
-            <div style={{ fontSize: 48, marginBottom: 12 }}>📭</div>
-            <p style={{ fontSize: 17, fontWeight: 600, color: '#1D1D1F', marginBottom: 8 }}>
-              まだ記事がありません
-            </p>
-            <p style={{ fontSize: 14, color: '#86868B' }}>
-              自動更新されるまでしばらくお待ちください
-            </p>
-          </div>
-        ) : (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
-            {newsItems.map((item) => (
-              <NewsCard key={item.id} news={item} />
-            ))}
-          </div>
-        )}
+        <NewsFeed initialNewsItems={newsItems} />
       </div>
 
       {/* ─── フッター ─── */}

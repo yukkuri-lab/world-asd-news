@@ -1,6 +1,7 @@
 import React from 'react';
 import { NewsItem } from './types';
 import { differenceInDays } from 'date-fns';
+import ReactionButtons from './ReactionButtons';
 
 interface NewsCardProps {
     news: NewsItem;
@@ -167,6 +168,11 @@ const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
                             {news.reliability}
                         </span>
                     )}
+                    {news.targetAge && (
+                        <span className="nc-meta-tag nc-meta-age" style={{ background: '#34C75914', color: '#1A6B32', border: '1px solid #34C75933' }}>
+                            👶 {news.targetAge}
+                        </span>
+                    )}
                 </div>
             )}
 
@@ -237,20 +243,24 @@ const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
             )}
 
             {/* ─── フッター ─── */}
-            <div className="nc-footer">
-                <time className="nc-date">{formattedDate}</time>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-                    <span
-                        style={{ fontSize: 11, fontWeight: 600, color: 'var(--fg-muted)', letterSpacing: '0.05em' }}
-                    >
-                        クリックして
-                    </span>
-                    <span
-                        className="nc-read-btn"
-                        style={{ color: accentColor, borderColor: accentColor }}
-                    >
-                        元のサイトを読む ↗
-                    </span>
+            <div className="nc-footer" style={{ flexDirection: 'column', alignItems: 'flex-start', paddingTop: '24px' }}>
+                <ReactionButtons newsId={news.id} />
+
+                <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'center' }}>
+                    <time className="nc-date">{formattedDate}</time>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+                        <span
+                            style={{ fontSize: 11, fontWeight: 600, color: 'var(--fg-muted)', letterSpacing: '0.05em' }}
+                        >
+                            クリックして
+                        </span>
+                        <span
+                            className="nc-read-btn"
+                            style={{ color: accentColor, borderColor: accentColor }}
+                        >
+                            元のサイトを読む ↗
+                        </span>
+                    </div>
                 </div>
             </div>
         </a>
