@@ -11,41 +11,16 @@ export interface NewsItem {
 const parser = new Parser();
 
 const RSS_FEEDS = [
-  // ─── 世界のASD最重要ソース（ご指定の6機関） ───
+  // ─── ASD専門サイト（直接RSSフィード取得） ───
 
   // 米国 (CDC): 世界基準の出現率や政府指針。
   { url: 'https://tools.cdc.gov/api/v2/resources/media/132608.rss', source: 'CDC Autism News' },
-
-  // 英国 (NAS): 支援、教育、権利に関するニュースが豊富。 (公式RSSがないためGoogle Newsドメイン指定検索)
-  { url: 'https://news.google.com/rss/search?q=site:autism.org.uk+autism+when:30d&hl=en-GB&gl=GB&ceid=GB:en', source: 'National Autistic Society' },
 
   // 米国 (Spectrum): 自閉症研究における世界最高峰のニュースサイト。（旧The Transmitter）
   { url: 'https://www.thetransmitter.org/spectrum/feed/', source: 'Spectrum News' },
 
   // 世界 (Nature): 脳科学や遺伝子などの最新論文・発見。
   { url: 'https://www.nature.com/subjects/autism-spectrum-disorders.rss', source: 'Nature' },
-
-  // 米国 (NIH): 米国国立衛生研究所の公式発表。(プレスリリースをドメイン指定取得)
-  { url: 'https://news.google.com/rss/search?q=site:nih.gov+autism+when:30d&hl=en-US&gl=US&ceid=US:en', source: 'NIH News Releases' },
-
-  // 豪州 (OTARC): オセアニアの最新療育・早期発見ニュース。(ラ・トローブ大の自閉症研究センター)
-  { url: 'https://news.google.com/rss/search?q=site:latrobe.edu.au+autism+when:30d&hl=en-AU&gl=AU&ceid=AU:en', source: 'OTARC' },
-
-  // ─── 世界の信頼できるASD支援・研究機関（5カ国追加） ───
-  // 欧州 (Autism-Europe): ヨーロッパ全体の自閉症権利・政策の推進・支援ネットワーク。
-  { url: 'https://news.google.com/rss/search?q=site:autismeurope.org+autism+when:30d&hl=en-GB&gl=GB&ceid=GB:en', source: 'Autism-Europe' },
-
-  // カナダ (Autism Canada): カナダを代表する自閉症の家族支援・情報提供機関。
-  { url: 'https://news.google.com/rss/search?q=site:autismcanada.org+autism+when:30d&hl=en-CA&gl=CA&ceid=CA:en', source: 'Autism Canada' },
-
-  // 豪州 (Amaze): オーストラリア南東部の最大級の自閉症支援・情報提供団体。
-  { url: 'https://news.google.com/rss/search?q=site:amaze.org.au+autism+when:30d&hl=en-AU&gl=AU&ceid=AU:en', source: 'Amaze (Australia)' },
-
-  // 英国 (Cambridge ARC): 世界トップレベルのケンブリッジ大学自閉症研究センター。
-  { url: 'https://news.google.com/rss/search?q=site:autismresearchcentre.com+autism+when:30d&hl=en-GB&gl=GB&ceid=GB:en', source: 'Cambridge ARC' },
-
-  // スウェーデン (Karolinska KIND): ノーベル賞選考機関でもあるカロリンスカ研究所の神経発達障害センター。
-  { url: 'https://news.google.com/rss/search?q=site:ki.se+autism+when:30d&hl=en-US&gl=US&ceid=US:en', source: 'Karolinska Institutet' },
 
   // ─── その他の有力なASD専門・研究メディア ───
   { url: 'https://www.sciencedaily.com/rss/mind_brain/autism.xml', source: 'ScienceDaily' },
@@ -57,16 +32,8 @@ const RSS_FEEDS = [
 // ASD専用サイトや特定キーワード検索のソース（キーワードフィルタをバイパスし全記事取得）
 const ASD_DEDICATED_SOURCES = [
   'CDC Autism News',
-  'National Autistic Society',
   'Spectrum News',
   'Nature',
-  'NIH News Releases',
-  'OTARC',
-  'Autism-Europe',
-  'Autism Canada',
-  'Amaze (Australia)',
-  'Cambridge ARC',
-  'Karolinska Institutet',
   'ScienceDaily',
   'Neuroscience News',
   'Autism Spectrum News',
