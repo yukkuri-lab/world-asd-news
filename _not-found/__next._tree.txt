@@ -1,4 +1,4 @@
 :HL["/world-asd-news/_next/static/chunks/c1bb60725794a77d.css","style"]
 :HL["/world-asd-news/_next/static/chunks/757917e35a3451b7.css","style"]
 :HL["/world-asd-news/_next/static/chunks/221088f5261791d9.css","style"]
-0:{"buildId":"PkcU_FRbhYEhZQldaassV","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"WBQ12jOMiXvu9HY1w02sW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

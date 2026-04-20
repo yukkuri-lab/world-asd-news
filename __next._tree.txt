@@ -3,4 +3,4 @@
 :HL["/world-asd-news/_next/static/chunks/221088f5261791d9.css","style"]
 :HL["/world-asd-news/_next/static/media/68d0ad77fd2c49e3-s.p.25e41569.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/world-asd-news/_next/static/media/ad9c66e761fed85a-s.p.bd81a64b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"PkcU_FRbhYEhZQldaassV","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"WBQ12jOMiXvu9HY1w02sW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
