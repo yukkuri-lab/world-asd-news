@@ -1,5 +1,22 @@
 [
   {
+    "title": "Uncoupling memory impairments from autism-associated behaviors in Chd2 deficient mice",
+    "link": "https://www.nature.com/articles/s41380-026-03539-x",
+    "pubDate": "Mon, 23 Mar 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNTM5LXg=",
+    "summary": "TITLE: ASDの行動と記憶、マウス研究で新展開\n- ASDを持つ子どもたちの行動特性と記憶の課題は、それぞれ異なるメカニズムを持っている可能性が示されました。\n- このマウス研究は、ASDの特性をより深く理解し、一人ひとりに合わせた支援を考える上で大切な一歩となります。\n- 記憶のサポートと行動へのアプローチを分けて考えることで、より効果的な支援方法が見つかるかもしれません。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "子どもの困りごとに合わせた、より個別的な支援のヒントになる。",
+    "todayAction": "子どもの記憶力と行動特性、得意・不得意な点を記録してみましょう。",
+    "japanHint": "日本でも、子ども一人ひとりの特性に応じた、記憶と行動の両面からのきめ細やかなサポートが広がると嬉しいですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-04-27T11:42:50.299Z"
+  },
+  {
     "title": "Temporal point process modeling of aggressive behavior onset in psychiatric inpatient youths with autism",
     "link": "https://www.nature.com/articles/s41598-026-46996-8",
     "pubDate": "Sat, 18 Apr 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "この研究が、将来日本でもASDの子どもたちが安心して暮らせる社会を作るための支援や制度へと繋がることを願っています。",
     "targetAge": "共通",
     "fetchedAt": "2026-04-19T10:36:35.493Z"
-  },
-  {
-    "title": "Ceruloplasmin deficiency drives a fusiform-centric lipid–myelin pathology underlying a visual subtype in autism",
-    "link": "https://www.nature.com/articles/s41380-026-03613-4",
-    "pubDate": "Fri, 17 Apr 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNjEzLTQ=",
-    "summary": "TITLE: ASD児の視覚特性、脳の仕組みに新知見\n- ASD（自閉スペクトラム症）の子どもたちの中には、独特な「見え方」の特性を持つタイプがいることが、最新の研究で示唆されました。\n- この見え方の違いは、脳の中で神経の情報を伝える大切な部分の健康と関連する、ある特定のタンパク質が影響している可能性が見つかりました。\n- 今回の発見は、ASDの子どもたちの多様な特性をより深く理解し、一人ひとりに合ったサポートを考える上で役立つ重要な一歩となるでしょう。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの視覚の困り感への理解とサポートのヒントに。",
-    "todayAction": "子どもの視覚に不便がないか、普段の様子を優しく観察してみましょう。",
-    "japanHint": "この研究が、日本の学校や療育現場で、視覚からの支援に繋がると嬉しいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-04-19T10:36:50.272Z"
   }
 ]
