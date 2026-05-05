@@ -1,5 +1,22 @@
 [
   {
+    "title": "Processing facial emotions, and more",
+    "link": "https://www.thetransmitter.org/spectrum/processing-facial-emotions-and-more/",
+    "pubDate": "Tue, 05 May 2026 04:00:04 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 4 May.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3Byb2Nlc3NpbmctZmFjaWFsLWVtb3Rpb25zLWFuZC1tb3JlLw==",
+    "summary": "TITLE: ASDと表情理解の最新研究情報\n- ASDのある子どもが、他者の表情をどう感じ取り、理解するかについての最新情報が共有されました。\n- この研究は、表情の読み取りにくさがASDの子どもたちの社会生活にどう影響するかを探っています。\n- 日常生活での表情理解を促す具体的な支援方法のヒントにつながる可能性があります。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "ASDのお子さんの表情理解を助けるヒントが見つかるかもしれません。",
+    "todayAction": "絵本や写真を使って、色々な表情についてお子さんと話してみましょう。",
+    "japanHint": "海外の知見を日本でも活かし、家庭や学校で表情理解支援が広がることを期待します。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-05-05T11:14:14.231Z"
+  },
+  {
     "title": "Life Through an Autistic Lens: All Those Steps",
     "link": "https://autismspectrumnews.org/life-through-an-autistic-lens-all-those-steps/",
     "pubDate": "Wed, 08 Apr 2026 13:20:45 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、個々の特性に合わせたきめ細やかな視覚支援の教育プログラムが広がることを期待します。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-04-27T22:57:44.178Z"
-  },
-  {
-    "title": "Uncoupling memory impairments from autism-associated behaviors in Chd2 deficient mice",
-    "link": "https://www.nature.com/articles/s41380-026-03539-x",
-    "pubDate": "Mon, 23 Mar 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNTM5LXg=",
-    "summary": "TITLE: ASDの行動と記憶、マウス研究で新展開\n- ASDを持つ子どもたちの行動特性と記憶の課題は、それぞれ異なるメカニズムを持っている可能性が示されました。\n- このマウス研究は、ASDの特性をより深く理解し、一人ひとりに合わせた支援を考える上で大切な一歩となります。\n- 記憶のサポートと行動へのアプローチを分けて考えることで、より効果的な支援方法が見つかるかもしれません。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの困りごとに合わせた、より個別的な支援のヒントになる。",
-    "todayAction": "子どもの記憶力と行動特性、得意・不得意な点を記録してみましょう。",
-    "japanHint": "日本でも、子ども一人ひとりの特性に応じた、記憶と行動の両面からのきめ細やかなサポートが広がると嬉しいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-04-27T11:42:50.299Z"
   }
 ]
