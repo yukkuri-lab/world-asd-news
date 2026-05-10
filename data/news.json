@@ -1,5 +1,22 @@
 [
   {
+    "title": "Brain scans reveal a shocking difference between psychopaths and other people",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
+    "pubDate": "Sun, 10 May 2026 07:05:08 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "Scientists have uncovered a striking brain difference linked to psychopathy: people with psychopathic traits were found to have a striatum — a brain region tied to reward, motivation, and decision-making — that was about 10% larger on average than those without such traits. Using MRI scans and psychological assessments on 120 participants, researchers connected this enlarged brain region to thrill-seeking, impulsive behavior, and a stronger drive for stimulation.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA1LzI2MDUxMDAzMDk0Ni5odG0=",
+    "summary": "TITLE: 脳の個性と行動、刺激欲求の新発見\n- 脳の一部の領域が、新しい刺激や挑戦を求める気持ち、そして衝動的な行動と関連していることが、最新の研究で分かりました。\n- この脳の領域は、ご褒美への意欲や何かを決める時に大切な役割を持ち、一人ひとりの行動や興味の傾向が脳の個性と深くつながっていることを示唆します。\n- この発見は、お子さんがなぜ強い刺激を求めたり、時に衝動的な行動をすることがあるのか、その背景にある脳の個性への理解を深める一歩となるでしょう。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの特定の行動を脳の個性と理解するヒントに。",
+    "todayAction": "お子さんの「なぜ？」「やりたい！」の背景にある興味を見つけ、安全に体験できる場を探してみましょう。",
+    "japanHint": "脳の多様性を理解し、個別最適な教育や支援に繋がる日本の研究も進むと良いですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-10T22:53:08.657Z"
+  },
+  {
     "title": "Autism experts venture to set the narrative for INSAR, and more",
     "link": "https://www.thetransmitter.org/spectrum/autism-experts-venture-to-set-the-narrative-for-insar-and-more/",
     "pubDate": "Tue, 21 Apr 2026 04:00:17 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも世界と協力し、研究成果を早く支援に活かせると嬉しいですね。",
     "targetAge": "共通",
     "fetchedAt": "2026-05-01T11:04:08.328Z"
-  },
-  {
-    "title": "CDC Disease Detectives Present at Annual CDC EIS Conference",
-    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765027",
-    "pubDate": "Mon, 20 Apr 2026 08:00:00 GMT",
-    "source": "CDC Autism News",
-    "contentSnippet": "CDC's Epidemic Intelligence Service officers are gathering this week for the 2026 EIS Conference",
-    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTAyNw==",
-    "summary": "TITLE: CDC専門家、公衆衛生会議で知見共有へ\n- アメリカの公衆衛生機関CDCの専門家たちが、年次会議に集まり最新の調査研究を発表します。\n- CDCの「自閉スペクトラム症に関するニュース」から発信されており、関連する新たな知見が共有される可能性も期待されます。\n- この会議で発表される情報が、将来的にASDの子どもたちのより良い支援へとつながる光となるでしょう。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "世界の最新研究が、未来の子育て支援に役立つ希望を感じられます。",
-    "todayAction": "会議後の発表を気に留め、今後のASD研究の進展に注目してみましょう。",
-    "japanHint": "国際的な研究成果が、日本の子どもたちの支援向上にも役立つことを願っています。私たちも関心を持ち続けたいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-01T11:04:26.766Z"
   }
 ]
