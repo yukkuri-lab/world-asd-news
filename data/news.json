@@ -1,5 +1,22 @@
 [
   {
+    "title": "Offspring genetic diversity regulates rearing experiences that predict differential susceptibility to Chd8 haploinsufficiency",
+    "link": "https://www.nature.com/articles/s42003-026-09908-0",
+    "pubDate": "Mon, 11 May 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDIwMDMtMDI2LTA5OTA4LTA=",
+    "summary": "TITLE: 遺伝と育ち方、子どもの個性を育むカギ\n- お子さんの遺伝的な特性だけでなく、成長環境や日々の育て方が、その子の個性や特性の発現に大きく影響することが示唆されています。\n- これは、日々の親御さんの温かい関わり方や、家庭でのポジティブな経験がお子さんの持つ可能性を広げる大切な要素だという希望を与えてくれます。\n- それぞれの子どもが持つ多様な遺伝的背景に対して、どのように環境を整えるかが、良い成長を促すためのヒントになるでしょう。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "遺伝に加え育て方が子どもの可能性を広げることを示唆。",
+    "todayAction": "今日はお子さんとゆっくり話す時間を作り、良いところを伝えてみましょう。",
+    "japanHint": "日本でも、子ども一人ひとりの遺伝と環境の相互作用に注目した、きめ細やかな個別支援がもっと広がると嬉しいですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-11T22:58:44.393Z"
+  },
+  {
     "title": "CDC Disease Detectives Present at Annual CDC EIS Conference",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765027",
     "pubDate": "Mon, 20 Apr 2026 08:00:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、この研究が子どもたちの未来に繋がり、家庭でできる支援の選択肢が増えることを期待します。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-01T22:54:48.628Z"
-  },
-  {
-    "title": "Cortical evolution, ZBTB18, and more",
-    "link": "https://www.thetransmitter.org/spectrum/cortical-evolution-zbtb18-and-more/",
-    "pubDate": "Tue, 31 Mar 2026 04:00:48 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 30 March.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2NvcnRpY2FsLWV2b2x1dGlvbi16YnRiMTgtYW5kLW1vcmUv",
-    "summary": "TITLE: ASD研究の最前線：脳と遺伝子の解明へ一歩。\n- 自閉スペクトラム症（ASD）に関する世界中の最新研究が毎週のように報告されています。\n- 脳の発達や特定の遺伝子についての解明が進み、ASDの特性理解を深める鍵となっています。\n- これらの研究は、お子さんの未来のサポートや子育てのヒントにつながる希望を私たちに与えてくれます。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "ASD特性の根本理解が進み、より良い支援への期待が高まります。",
-    "todayAction": "子どもの得意なことや苦手なことを観察し、成長記録をつけてみましょう。",
-    "japanHint": "日本でも、最新研究が子育て現場に役立つよう、情報発信や連携を期待したいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-01T22:55:05.509Z"
   }
 ]
