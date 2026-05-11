@@ -1,5 +1,22 @@
 [
   {
+    "title": "CDC Disease Detectives Present at Annual CDC EIS Conference",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765027",
+    "pubDate": "Mon, 20 Apr 2026 08:00:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "CDC's Epidemic Intelligence Service officers are gathering this week for the 2026 EIS Conference",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTAyNw==",
+    "summary": "TITLE: CDC専門家会議：ASD研究に期待\n- アメリカ疾病対策センター（CDC）の専門家が、公衆衛生に関する大切な年次会議を開催します。\n- 「CDC Autism News」でこの会議が紹介されていることから、自閉スペクトラム症に関する最新の調査や知見が発表される可能性があります。\n- 世界中の専門家が議論することで、お子さんの未来の支援や、より良い社会の実現に繋がる情報が生まれることが期待されます。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "世界の専門家が、お子さんの未来を良くするために動いていることを知る機会です。",
+    "todayAction": "お子さんの成長や日々の楽しい発見を、短く書き出して記録してみましょう。",
+    "japanHint": "日本でも、このような専門家会議の知見が現場の支援に早く届き、多くの子どもたちが恩恵を受けられることを期待します。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-05-11T12:37:53.614Z"
+  },
+  {
     "title": "Brain scans reveal a shocking difference between psychopaths and other people",
     "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
     "pubDate": "Sun, 10 May 2026 07:05:08 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、最新研究が子育て現場に役立つよう、情報発信や連携を期待したいですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-01T22:55:05.509Z"
-  },
-  {
-    "title": "At 25, INSAR needs to bring autism scientists together more than ever",
-    "link": "https://www.thetransmitter.org/spectrum/at-25-insar-needs-to-bring-autism-scientists-together-more-than-ever/",
-    "pubDate": "Wed, 22 Apr 2026 04:00:23 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "As the International Society for Autism Research’s annual meeting in Prague this week celebrates its quarter-century anniversary, its president reflects on the field’s past successes, current challenges and needs for the future",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2F0LTI1LWluc2FyLW5lZWRzLXRvLWJyaW5nLWF1dGlzbS1zY2llbnRpc3RzLXRvZ2V0aGVyLW1vcmUtdGhhbi1ldmVyLw==",
-    "summary": "TITLE: 自閉症研究、協力が未来を拓く\n- 世界中の自閉症スペクトラム症の研究者が集まり、過去25年の成果を振り返り、これからの課題について深く話し合っています。\n- 研究者同士がさらに手を取り合うことで、お子さんのための新しい支援方法や、より良い教育環境が生まれる可能性が高まります。\n- 今回の会議を通して、自閉症スペクトラムのお子さんが自信を持って社会で活躍できるよう、未来に向けた研究が加速することが期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "お子さんへの新しい支援や教育が生まれるきっかけになるかも。",
-    "todayAction": "世界の研究動向に目を向け、未来への希望を持ちましょう。",
-    "japanHint": "日本でも世界と協力し、研究成果を早く支援に活かせると嬉しいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-01T11:04:08.328Z"
   }
 ]
