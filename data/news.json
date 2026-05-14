@@ -1,5 +1,22 @@
 [
   {
+    "title": "Scientists discover a hidden brain “cleaning” effect triggered by movement",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260501052832.htm",
+    "pubDate": "Fri, 01 May 2026 23:04:01 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA1LzI2MDUwMTA1MjgzMi5odG0=",
+    "summary": "TITLE: 体の動きが脳をキレイにする新発見！\n- 体を少し動かすだけで、脳の健康に良い影響があることが新たに分かってきました。\n- お腹の筋肉を軽く使うと、脳が優しく揺れて、脳を洗う液体の流れが促されるようです。\n- この動きが、脳の中の不要なものを流し出し、脳を元気にする助けになる可能性があります。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "運動が子どもの脳の健康に繋がる希望を教えてくれます。",
+    "todayAction": "お子さんと一緒に、お腹を意識して体を動かす遊びをしてみましょう。",
+    "japanHint": "学校の体育や家庭での遊びで、もっと脳に良い動きを取り入れられないか考えたいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-05-14T23:01:29.472Z"
+  },
+  {
     "title": "How basic neuroscientists can connect with autistic people and their communities",
     "link": "https://www.thetransmitter.org/spectrum/how-basic-neuroscientists-can-connect-with-autistic-people-and-their-communities/",
     "pubDate": "Thu, 14 May 2026 04:00:27 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも一人ひとりに合わせた脳科学的な支援が進み、多くのお子さんが楽になる日が来ることを期待します。希望の光ですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-03T22:51:12.547Z"
-  },
-  {
-    "title": "Multiomics analysis identifies VPA-induced changes in neural progenitor cells, ventricular-like regions, and cellular microenvironment in dorsal forebrain organoids",
-    "link": "https://www.nature.com/articles/s41380-026-03585-5",
-    "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNTg1LTU=",
-    "summary": "TITLE: ASD脳発達の謎を解く新研究\n- ASDの子どもの脳の発達について、新しい技術を使った研究が進められました。\n- 「ミニ脳」という小さな模型を使い、特定の薬が脳のもとになる細胞にどう影響するかを詳しく調べています。\n- この発見が、ASDの原因をさらに深く理解し、未来の支援や予防法につながる大切な一歩となることが期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDの脳発達メカニズム解明に希望が持てます。",
-    "todayAction": "子どもの脳の成長を信じ、今日できる声かけを。",
-    "japanHint": "日本でもこのような最先端研究が進み、日々の支援に繋がることを願います。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-03T10:52:10.940Z"
   }
 ]
