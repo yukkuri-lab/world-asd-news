@@ -1,5 +1,22 @@
 [
   {
+    "title": "E/I imbalance and internal noise cause weak neural representations and face recognition challenges in ASD",
+    "link": "https://www.nature.com/articles/s42003-026-10094-2",
+    "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDIwMDMtMDI2LTEwMDk0LTI=",
+    "summary": "TITLE: ASDの顔認識、脳の情報処理に新発見\n- ASDのお子さんが人の顔を見分けるのが少し苦手なのは、脳の中の神経細胞の情報のやり取りに特徴があるためだと分かってきました。\n- 脳内で情報が整理されにくかったり、「ノイズ」が多いと、顔の表情や特徴がはっきり伝わりにくくなることが、今回の研究で示唆されています。\n- この発見は、なぜお子さんが顔を覚えたり、表情から気持ちを読み取ったりしにくいのかを理解する手助けになり、今後のより良い支援につながる希望の光です。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの顔認識の苦手さに科学的な理由が示され、理解が進みます。",
+    "todayAction": "絵本で登場人物の顔や表情を指差し、「どんな気持ちかな？」と話してみましょう。",
+    "japanHint": "脳の特性理解が進めば、日本の教育現場でも個別支援に役立つヒントになりそうです。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-15T22:59:15.582Z"
+  },
+  {
     "title": "Parsing autism spectrum heterogeneity through fMRI",
     "link": "https://www.nature.com/articles/s41593-026-02269-1",
     "pubDate": "Fri, 15 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、このような遺伝子研究が進み、個々のお子さんに合わせたオーダーメイドの支援開発につながると嬉しいですね。",
     "targetAge": "共通",
     "fetchedAt": "2026-05-04T11:45:52.281Z"
-  },
-  {
-    "title": "ASN Spring 2026 Issue",
-    "link": "https://autismspectrumnews.org/asn-spring-2026-issue/",
-    "pubDate": "Fri, 03 Apr 2026 14:09:36 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "“Expanding Access to Recreation, Hobbies, and Leisure”\nThe post ASN Spring 2026 Issue appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2Fzbi1zcHJpbmctMjAyNi1pc3N1ZS8=",
-    "summary": "TITLE: ASD児の遊び・趣味、参加機会拡大へ\n- 自閉スペクトラム症（ASD）のお子さんが、もっと気軽に遊びや趣味、余暇活動を楽しめるような情報が共有されます。\n- お子さんの得意なことや好きなことを見つけ、地域や社会とのつながりを豊かにする方法が見つかるかもしれません。\n- 遊びを通じた成長は、心の健康や自信を育む大切なステップになるでしょう。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★",
-    "parentMeaning": "ASDのお子さんの放課後や休日の過ごし方、社会参加のヒントが得られます。",
-    "todayAction": "お子さんと一緒に、どんな遊びや趣味に興味があるか話してみましょう。",
-    "japanHint": "日本でも、ASDのお子さんが安心して参加できる地域の多様な活動が増えると嬉しいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-04T11:46:15.474Z"
   }
 ]
