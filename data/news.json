@@ -1,5 +1,22 @@
 [
   {
+    "title": "Multiomics analysis identifies VPA-induced changes in neural progenitor cells, ventricular-like regions, and cellular microenvironment in dorsal forebrain organoids",
+    "link": "https://www.nature.com/articles/s41380-026-03585-5",
+    "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNTg1LTU=",
+    "summary": "TITLE: 脳発達と特定の薬の影響を解明\n- この研究は、脳の初期発達段階で特定の薬が神経細胞にどのような影響を与えるかを詳しく調べています。\n- 将来的に、自閉スペクトラム症（ASD）の発達メカニズムを深く理解し、より良い支援や治療法につながる可能性を秘めています。\n- 脳の「ミニチュアモデル」を使って行われる基礎研究ですが、子どもの発達を深く理解するための大切な第一歩となるでしょう。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "子どもの発達の謎を解く一歩。未来の希望につながる研究です。",
+    "todayAction": "日々の成長を温かく見守り、子どもの可能性を信じましょう。",
+    "japanHint": "最先端の研究が子どもの未来を拓く希望。日本でも、研究と支援が連携し、安心して子育てできる社会が広がると嬉しいです。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-16T11:01:26.182Z"
+  },
+  {
     "title": "E/I imbalance and internal noise cause weak neural representations and face recognition challenges in ASD",
     "link": "https://www.nature.com/articles/s42003-026-10094-2",
     "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、もっと誰もが安心して楽しめる公園や遊び場、イベントが増えたら嬉しいですね。親として声を上げていきたいです。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-04T23:00:02.311Z"
-  },
-  {
-    "title": "Nearly 400 compounds affect behaviors tied to autism-linked genes in zebrafish",
-    "link": "https://www.thetransmitter.org/spectrum/nearly-400-compounds-affect-behaviors-tied-to-autism-linked-genes-in-zebrafish/",
-    "pubDate": "Thu, 16 Apr 2026 04:00:19 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Estropipate, paclitaxel and levocarnitine altered behaviors tied to SCN2A and DYRK1A variants specifically, a new open-source platform revealed.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL25lYXJseS00MDAtY29tcG91bmRzLWFmZmVjdC1iZWhhdmlvcnMtdGllZC10by1hdXRpc20tbGlua2VkLWdlbmVzLWluLXplYnJhZmlzaC8=",
-    "summary": "TITLE: ゼブラフィッシュ研究、ASD関連遺伝子に新知見\n- ゼブラフィッシュを使った研究で、ASDに関わる特定の遺伝子（SCN2AやDYRK1A）が影響する行動に変化をもたらす物質が見つかりました。\n- エストロピペート、パクリタキセル、レボカルニチンという3つの物質が、これらの遺伝子と関連する行動に特別な作用を示しました。\n- これは新しいオープンソースの研究手法で発見されたもので、将来的なASDの理解や支援方法に繋がる可能性を秘めています。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "ASDの行動に影響する物質の発見は、未来の個別支援の希望です。",
-    "todayAction": "お子さんの特性や得意なことを改めて発見してみましょう。",
-    "japanHint": "日本でも、このような遺伝子研究が進み、個々のお子さんに合わせたオーダーメイドの支援開発につながると嬉しいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-04T11:45:52.281Z"
   }
 ]
