@@ -1,5 +1,22 @@
 [
   {
+    "title": "Dysfunction of a SET3-like complex underlies a family of related neurological disorders",
+    "link": "https://www.nature.com/articles/s41467-026-73227-5",
+    "pubDate": "Sat, 16 May 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDI2LTczMjI3LTU=",
+    "summary": "TITLE: 神経発達の鍵握る遺伝子の研究進む\n- 国際的な科学誌Natureで、特定の遺伝子グループが神経発達に深く関わる可能性が発表されました。\n- この遺伝子グループの働きがうまくいかないと、いくつかの神経発達症につながることが示唆されています。\n- 今回の発見は、将来的に、より正確な診断や新しい支援方法の開発へと繋がる大きな一歩となるでしょう。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "新たな診断や個別支援に繋がる可能性を感じられる。",
+    "todayAction": "子どもの成長記録を見返し、専門家への相談材料を整理してみましょう。",
+    "japanHint": "日本でもこの研究が応用され、一人ひとりに合った早期支援が充実することを願います。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-05-16T22:52:26.330Z"
+  },
+  {
     "title": "Multiomics analysis identifies VPA-induced changes in neural progenitor cells, ventricular-like regions, and cellular microenvironment in dorsal forebrain organoids",
     "link": "https://www.nature.com/articles/s41380-026-03585-5",
     "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、地域で多様な特性を持つ子ども向けの余暇活動の場がもっと増えると嬉しいですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-04T22:59:48.304Z"
-  },
-  {
-    "title": "Access to Public Recreation and Leisure Opportunities for Autistic People as a Measure of Societal Acceptance and Inclusion",
-    "link": "https://autismspectrumnews.org/access-to-public-recreation-and-leisure-opportunities-for-autistic-people-as-a-measure-of-societal-acceptance-and-inclusion/",
-    "pubDate": "Fri, 03 Apr 2026 13:51:20 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "Inclusive recreation boosts mental health and social connection for autistic individuals.\nThe post Access to Public Recreation and Leisure Opportunities for Autistic People as a Measure of Societal Acceptance and Inclusion appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2FjY2Vzcy10by1wdWJsaWMtcmVjcmVhdGlvbi1hbmQtbGVpc3VyZS1vcHBvcnR1bml0aWVzLWZvci1hdXRpc3RpYy1wZW9wbGUtYXMtYS1tZWFzdXJlLW9mLXNvY2lldGFsLWFjY2VwdGFuY2UtYW5kLWluY2x1c2lvbi8=",
-    "summary": "TITLE: ASDの余暇機会が心と社会育む\n- 自閉スペクトラム症（ASD）のお子さんが安心して楽しめるレクリエーションや余暇活動は、心の健康と周りとのつながりを育む大切な時間です。\n- 地域の中に、ASDのあるお子さんを含む誰もが参加しやすい遊びの場や活動があるかどうかは、その社会がどれだけ多様な人々を受け入れているかの指標となります。\n- お子さんが自分らしく過ごせる楽しい時間を見つけ、その機会を増やすことが、成長期における心の安定と社会性を育む上で非常に重要であることが改めて示されました。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★",
-    "parentMeaning": "お子さんの心と社会性を育む余暇活動の大切さを再認識できます。",
-    "todayAction": "お子さんが本当に好きな活動や場所を一緒に話し合ってみましょう。",
-    "japanHint": "日本でも、もっと誰もが安心して楽しめる公園や遊び場、イベントが増えたら嬉しいですね。親として声を上げていきたいです。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-04T23:00:02.311Z"
   }
 ]
