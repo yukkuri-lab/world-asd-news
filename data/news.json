@@ -1,5 +1,22 @@
 [
   {
+    "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+    "pubDate": "Sat, 16 May 2026 08:41:30 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA1LzI2MDUxNTIzNDc1OS5odG0=",
+    "summary": "TITLE: 不安と脳栄養素コリンの関連発見\n- 脳スキャン研究で、不安を感じやすい人には、脳の働きに大切な「コリン」という栄養素が少ない可能性があることが分かりました。\n- 特に感情のコントロールを司る脳の前頭前野でこの不足が見られ、これが不安感と関係しているかもしれません。\n- 将来的に、食事など栄養面から子どもの不安を和らげる新しい方法が見つかる可能性があり、希望が持てますね。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "子どもの不安軽減に栄養面からのアプローチの可能性。",
+    "todayAction": "コリンが豊富な食品（卵黄、大豆など）を食卓に取り入れてみましょう。",
+    "japanHint": "日本でも、子どもの心の状態と栄養の関係を専門家と一緒に考える機会が増えると嬉しいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-05-17T11:02:11.657Z"
+  },
+  {
     "title": "Dysfunction of a SET3-like complex underlies a family of related neurological disorders",
     "link": "https://www.nature.com/articles/s41467-026-73227-5",
     "pubDate": "Sat, 16 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも日常のステップを可視化するツールがもっと身近になると、親子ともに楽になりますね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-04T22:59:33.385Z"
-  },
-  {
-    "title": "The Importance of Leisure Activities for Individuals with Autism",
-    "link": "https://autismspectrumnews.org/the-importance-of-leisure-activities-for-individuals-with-autism/",
-    "pubDate": "Fri, 03 Apr 2026 13:51:28 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "Help children with autism build confidence, social skills, and resilience through meaningful leisure activities.\nThe post The Importance of Leisure Activities for Individuals with Autism appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL3RoZS1pbXBvcnRhbmNlLW9mLWxlaXN1cmUtYWN0aXZpdGllcy1mb3ItaW5kaXZpZHVhbHMtd2l0aC1hdXRpc20v",
-    "summary": "TITLE: ASDの子どもの自信を育む余暇活動の力\n- 余暇活動は、ASDのあるお子さんの心と体の成長にとても大切だとされています。\n- お子さんが夢中になれる活動を通して、自信や前向きな気持ちを育むことができます。\n- さらに、人との関わり方や、困難を乗り越える粘り強さも自然と身につけられます。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★",
-    "parentMeaning": "お子さんの成長を促す、家庭でできるヒントが見つかります。",
-    "todayAction": "お子さんが「楽しい！」と感じる遊びや活動を一緒に探してみましょう。",
-    "japanHint": "日本でも、地域で多様な特性を持つ子ども向けの余暇活動の場がもっと増えると嬉しいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-04T22:59:48.304Z"
   }
 ]
