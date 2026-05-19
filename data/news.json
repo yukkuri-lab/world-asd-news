@@ -1,5 +1,22 @@
 [
   {
+    "title": "Outside influences on CHD8 variant phenotypes, and more",
+    "link": "https://www.thetransmitter.org/spectrum/outside-influences-on-chd8-variant-phenotypes-and-more/",
+    "pubDate": "Tue, 19 May 2026 04:00:43 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 18 May.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL291dHNpZGUtaW5mbHVlbmNlcy1vbi1jaGQ4LXZhcmlhbnQtcGhlbm90eXBlcy1hbmQtbW9yZS8=",
+    "summary": "TITLE: ASD遺伝子と環境要因の最新研究\n- ASDに関連する「CHD8遺伝子」の研究が進み、遺伝子だけでなく、お子さんの周りの環境も特性の現れ方に影響を与えることが分かってきました。\n- この遺伝子を持つお子さんの特性がどう現れるかは、家庭での関わり方や学校でのサポートなど、様々な環境要因が関係している可能性が示唆されています。\n- 遺伝子の研究は、一人ひとりのお子さんの個性をより深く理解し、その子に合ったサポートを見つけるための大切な手がかりになると期待されています。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "わが子の個性を理解し、より良い支援を見つけるヒントに。",
+    "todayAction": "子どもの好きな遊びや得意なことを見つける時間をとる。",
+    "japanHint": "個別最適な支援のために、遺伝子研究が日本の子育てにも活かされる日を願う。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-05-19T23:07:11.326Z"
+  },
+  {
     "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
     "link": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
     "pubDate": "Sat, 16 May 2026 08:41:30 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "海外の知見を日本でも活かし、家庭や学校で表情理解支援が広がることを期待します。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-05T11:14:14.231Z"
-  },
-  {
-    "title": "Life Through an Autistic Lens: All Those Steps",
-    "link": "https://autismspectrumnews.org/life-through-an-autistic-lens-all-those-steps/",
-    "pubDate": "Wed, 08 Apr 2026 13:20:45 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "Discover how everyday tasks like eating and showering involve overwhelming steps for autistic individuals seeking simplicity.\nThe post Life Through an Autistic Lens: All Those Steps appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2xpZmUtdGhyb3VnaC1hbi1hdXRpc3RpYy1sZW5zLWFsbC10aG9zZS1zdGVwcy8=",
-    "summary": "TITLE: ASDの子の日常：小さな一歩の大きな意味\n- ASDの子どもたちは、大人には簡単な日常の行動にも多くの手順を必要とし、混乱することがあります。\n- 食事や入浴など、一見シンプルな活動も、彼らにとっては複雑なタスクに感じられる場合があるのです。\n- 子どもの視点に立ち、一つ一つの手順を丁寧に理解しようとすることが、彼らの困難を和らげる鍵です。",
-    "country": "US",
-    "category": "当事者の声",
-    "reliability": "★★",
-    "parentMeaning": "子どもの「できない」に隠れた複雑さを理解するヒントが得られます。",
-    "todayAction": "子どもの日常タスクを分解し、スモールステップで声かけを試してみましょう。",
-    "japanHint": "日本でも日常のステップを可視化するツールがもっと身近になると、親子ともに楽になりますね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-04T22:59:33.385Z"
   }
 ]
