@@ -1,5 +1,22 @@
 [
   {
+    "title": "Hypoactivity, abnormal development of dendrites relevant to impaired synaptic transmission of calretinin-expressing interneurons in the medial prefrontal cortex underlies social deficits of mouse model in autism",
+    "link": "https://www.nature.com/articles/s41398-026-04123-1",
+    "pubDate": "Thu, 21 May 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MTIzLTE=",
+    "summary": "TITLE: 自閉症と脳の神経細胞研究\n- 自閉スペクトラム症（ASD）の社会的交流の難しさが、脳の特定の神経細胞の活動と関係している可能性が、マウスの研究で示されました。\n- 脳内のカルレチニン介在ニューロンという神経細胞の活動が低下したり、形が少し違うことが、脳の情報伝達に影響を与えるかもしれません。\n- この研究は、ASDの特性の背景にある脳のメカニズムを深く理解する第一歩であり、将来のより良い支援やサポートにつながる希望を与えてくれます。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの特性理解が深まり、未来の支援につながる研究。",
+    "todayAction": "お子さんの興味や得意なことを見つける時間を持ちましょう。",
+    "japanHint": "日本でも脳科学研究が進み、一人ひとりに合わせた支援が広がることに期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-21T12:42:55.897Z"
+  },
+  {
     "title": "When autistic kids grow up",
     "link": "https://www.thetransmitter.org/when-autistic-kids-grow-up/when-autistic-kids-grow-up-trailer/",
     "pubDate": "Wed, 20 May 2026 18:15:53 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、お子さん一人ひとりに合わせた未来の支援が広がることを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-05-05T22:58:43.206Z"
-  },
-  {
-    "title": "Screen Time and the Health and Well-Being of Autistic Individuals",
-    "link": "https://autismawarenesscentre.com/screen-time-and-the-health-and-well-being-of-autistic-individuals/",
-    "pubDate": "Tue, 05 May 2026 11:50:08 +0000",
-    "source": "Autism Awareness Centre",
-    "contentSnippet": "Screen time is a part of everyday life. For autistic individuals, devices can provide great opportunities for connection, learning, exploring interests or deep dives into passions, and communication without pressure. Screens can help with regulation by offering a sense of safety and predictability in an overwhelming and unpredictable world. Technology can support executive functioning with online calendars and planners or…\nThe post Screen Time and the Health and Well-Being of Autistic Individuals appeared first on Autism Awareness.",
-    "id": "aHR0cHM6Ly9hdXRpc21hd2FyZW5lc3NjZW50cmUuY29tL3NjcmVlbi10aW1lLWFuZC10aGUtaGVhbHRoLWFuZC13ZWxsLWJlaW5nLW9mLWF1dGlzdGljLWluZGl2aWR1YWxzLw==",
-    "summary": "TITLE: ASDの子のスクリーンタイム、実は良いことたくさん！\n- スクリーンタイムは、ASDの子どもたちにとって、人とのつながりや学びを深める大切なツールになります。\n- デバイスは、圧倒されるような世界で安心感を与え、落ち着いて過ごすための手助けにもなります。\n- スケジュール管理など、日々の生活をスムーズにするための便利な機能もたくさん活用できます。",
-    "country": "CA",
-    "category": "支援・療育",
-    "reliability": "★★",
-    "parentMeaning": "スクリーンタイムを前向きに捉え、子どもの成長に活かすヒントが見つかります。",
-    "todayAction": "子どもが興味を持つアプリやツールを一緒に試してみましょう。",
-    "japanHint": "日本でも、デジタル機器を子どもの強みや学習につなげる具体的な活用法がもっと広まると良いですね。学校や家庭で、安心して使える環境づくりも進めたいです。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-05T22:58:55.301Z"
   }
 ]
