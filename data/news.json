@@ -1,5 +1,22 @@
 [
   {
+    "title": "Still no proof for facilitated spelling methods",
+    "link": "https://www.thetransmitter.org/spectrum/still-no-proof-for-facilitated-spelling-methods-autism/",
+    "pubDate": "Thu, 21 May 2026 16:26:50 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "A systematic review into whether the “rapid prompting method” or “spelling to communicate” can help autistic people express themselves comes up empty yet again.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3N0aWxsLW5vLXByb29mLWZvci1mYWNpbGl0YXRlZC1zcGVsbGluZy1tZXRob2RzLWF1dGlzbS8=",
+    "summary": "TITLE: コミュニケーション支援法、効果検証に慎重な視点\n- 「迅速促進行動法」や「コミュニケーションのための綴り」といった支援方法について、その効果を裏付ける科学的な証拠が今のところ見つかっていないという報告がありました。\n- これらは、発話が難しいお子さんのコミュニケーションを助けるとして注目されてきましたが、信頼できる研究では効果が確認できていません。\n- コミュニケーション支援を選ぶ際には、科学的に有効性が認められている方法や、お子さん一人ひとりに合わせた専門的なアプローチを優先することが大切です。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "子どものコミュニケーション支援選びに、冷静な視点を持つヒントになります。",
+    "todayAction": "信頼できる専門家と、お子さんに合ったコミュニケーション支援について改めて相談してみましょう。",
+    "japanHint": "日本でも様々な支援法があります。焦らず、科学的根拠に基づいた情報を得て、子どもの可能性を信じましょう。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-21T23:06:31.268Z"
+  },
+  {
     "title": "Hypoactivity, abnormal development of dendrites relevant to impaired synaptic transmission of calretinin-expressing interneurons in the medial prefrontal cortex underlies social deficits of mouse model in autism",
     "link": "https://www.nature.com/articles/s41398-026-04123-1",
     "pubDate": "Thu, 21 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも脳科学の進歩が、個別支援や子どもの理解を深める助けになることを期待します。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-06T11:46:07.402Z"
-  },
-  {
-    "title": "Advances in genetic medicine took center stage at INSAR",
-    "link": "https://www.thetransmitter.org/spectrum/advances-in-genetic-medicine-took-center-stage-at-insar/",
-    "pubDate": "Tue, 05 May 2026 20:57:16 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "The president of the Autism Science Foundation and parent of a child with profound autism reflects on how advances in the treatment of rare gene variants bring hope to many families.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2FkdmFuY2VzLWluLWdlbmV0aWMtbWVkaWNpbmUtdG9vay1jZW50ZXItc3RhZ2UtYXQtaW5zYXIv",
-    "summary": "TITLE: ASDの遺伝子研究、新たな希望に\n- 自閉スペクトラム症（ASD）の遺伝子に関する研究が進み、これまで難しかった遺伝子変異を持つお子さんの理解や支援に希望が見え始めています。\n- ASDの子どもを持つ親御さんが、こうした遺伝子医学の進歩が多くの家族に明るい未来をもたらすと期待を寄せています。\n- お子さんのユニークな特性を深く理解し、その可能性を最大限に引き出すための道が拓かれつつあると言えるでしょう。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "お子さんの特性理解と未来の治療に希望の光。",
-    "todayAction": "お子さんの良いところを見つけて、笑顔でたくさん褒めてあげましょう。",
-    "japanHint": "日本でも、お子さん一人ひとりに合わせた未来の支援が広がることを期待します。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-05T22:58:43.206Z"
   }
 ]
