@@ -1,5 +1,22 @@
 [
   {
+    "title": "White matter structure-function coupling in neonatal brain and its association with Autism-related traits in early childhood",
+    "link": "https://www.nature.com/articles/s41398-026-04130-2",
+    "pubDate": "Fri, 22 May 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MTMwLTI=",
+    "summary": "TITLE: 赤ちゃんの脳とASD特性の新たな関連性\n- 生まれたばかりの赤ちゃんの脳にある「白質」という部分の構造や働き方が、将来のASD特性と関係している可能性が示唆されました。\n- この研究は、ASDの特性がごく早期の脳の発達と深く結びついていることを示唆しています。\n- 脳の初期の段階での特性を理解することは、将来の子どもへの理解や適切なサポートに繋がるかもしれません。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの特性が、ごく早期の脳の発達と関係している可能性を示しています。",
+    "todayAction": "今日からお子さんの「好き」や「苦手」なこと、集中する瞬間を改めて優しく観察してみましょう。",
+    "japanHint": "このような研究が、日本でも早期からの子どもの個性理解と、一人ひとりに合わせた支援に繋がることを願います。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-22T12:15:27.542Z"
+  },
+  {
     "title": "Still no proof for facilitated spelling methods",
     "link": "https://www.thetransmitter.org/spectrum/still-no-proof-for-facilitated-spelling-methods-autism/",
     "pubDate": "Thu, 21 May 2026 16:26:50 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、子どもの集中力の特性を科学的に理解し、それぞれの特性に合わせた環境調整や支援が広がることを期待します。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-06T11:45:53.327Z"
-  },
-  {
-    "title": "A social readout of circuit imbalance",
-    "link": "https://www.nature.com/articles/s41583-026-01048-y",
-    "pubDate": "Mon, 27 Apr 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1ODMtMDI2LTAxMDQ4LXk=",
-    "summary": "TITLE: 社会性と脳のつながりを探る新研究\n- この記事は、お子さんの社会的な行動と脳の神経回路のバランスとの関係を探る最新の研究について示唆しています。\n- ASDのお子さんが見せる社会性の特徴が、脳の働き方の個人差とどのように関連しているのか、その理解に一歩近づくものです。\n- 将来的に、お子さん一人ひとりの脳の特性に合わせた、よりパーソナルな支援方法の開発へとつながる大切な基礎研究となることが期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの社会性を脳科学から理解し、未来の支援への期待",
-    "todayAction": "お子さんの社会的な関心や行動を優しく見守りましょう。",
-    "japanHint": "日本でも脳科学の進歩が、個別支援や子どもの理解を深める助けになることを期待します。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-06T11:46:07.402Z"
   }
 ]
