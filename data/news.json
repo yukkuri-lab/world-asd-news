@@ -1,5 +1,22 @@
 [
   {
+    "title": "Statement: Update on Title 42 Order",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765618",
+    "pubDate": "Fri, 22 May 2026 22:30:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "Statement: Update on Title 42 Order",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTYxOA==",
+    "summary": "TITLE: 公衆衛生政策の更新とお子さんの生活\n- 米国CDCから、公衆衛生に関する特定の措置について最新情報が発表されました。\n- このような公衆衛生上の政策は、社会全体の動きとして私たちの生活にも影響を与えます。\n- お子さんの健康や毎日の生活を守るため、関連する情報に目を向けるきっかけにしましょう。",
+    "country": "US",
+    "category": "制度・政策",
+    "reliability": "★★★",
+    "parentMeaning": "公衆衛生政策がお子さんの生活に与える影響を考えるきっかけ。",
+    "todayAction": "お住まいの地域の自治体や保健所の健康情報を確認してみましょう。",
+    "japanHint": "日本でも、公衆衛生政策がお子さんやご家庭にどう影響するか注目したいですね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-05-22T23:05:15.136Z"
+  },
+  {
     "title": "White matter structure-function coupling in neonatal brain and its association with Autism-related traits in early childhood",
     "link": "https://www.nature.com/articles/s41398-026-04130-2",
     "pubDate": "Fri, 22 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本の研究機関も、このような基礎研究をさらに進め、現場で活かせる知見を期待したいです。親として応援しています。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-06T11:45:39.911Z"
-  },
-  {
-    "title": "Are attention spans really shrinking? What the science says",
-    "link": "https://www.nature.com/articles/d41586-026-01407-w",
-    "pubDate": "Wed, 6 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9kNDE1ODYtMDI2LTAxNDA3LXc=",
-    "summary": "TITLE: 集中力は本当に低下している？科学的視点\n- 世間で言われる「集中力の低下」が、科学的に見て本当なのかを分析した研究です。\n- 現代のデジタル機器などによる環境が、子どもの注意持続時間にどう影響するかを考察しています。\n- 子どもの集中力の特性を科学的に理解し、具体的な子育てや教育に役立つヒントを見つけるきっかけとなります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの集中力に対する悩みに、科学的根拠に基づいた理解と前向きな対応策のヒントを与えます。",
-    "todayAction": "お子さんが最も集中できる時間帯や活動を観察し、短時間から楽しめる遊びや学習を取り入れてみましょう。",
-    "japanHint": "日本でも、子どもの集中力の特性を科学的に理解し、それぞれの特性に合わせた環境調整や支援が広がることを期待します。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-06T11:45:53.327Z"
   }
 ]
