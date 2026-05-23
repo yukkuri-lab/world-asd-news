@@ -1,5 +1,22 @@
 [
   {
+    "title": "Enhanced Ebola Airport Screening Begins at Washington-Dulles International Airport",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765610",
+    "pubDate": "Thu, 21 May 2026 17:40:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "Enhanced Ebola Airport Screening Begins at Washington-Dulles International Airport",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTYxMA==",
+    "summary": "TITLE: 空港検疫強化：ASDの子の不安軽減策\n- 米国ワシントン・ダレス国際空港でエボラ出血熱対策の検疫が強化されたというニュースです。\n- 空港での追加的な検査や待ち時間は、環境の変化に敏感なASDのお子さんにとって大きな不安やストレスとなる可能性があります。\n- もし飛行機での旅行を計画している場合は、お子さんが安心して過ごせるよう、事前に状況を説明したり、落ち着ける準備をしておくことが大切です。",
+    "country": "US",
+    "category": "制度・政策",
+    "reliability": "★★★",
+    "parentMeaning": "旅行時の予期せぬ状況に備え、お子さんの安心を守るヒントが得られます。",
+    "todayAction": "旅行の予定があれば、空港での流れや待ち時間を家族で話し合ってみましょう。",
+    "japanHint": "日本でも緊急時の空港対応は重要です。ASDのお子さんが戸惑わないよう、事前の情報提供や心の準備を促す支援が広がってほしいです。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-23T22:56:53.213Z"
+  },
+  {
     "title": "Statement: Update on Title 42 Order",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765618",
     "pubDate": "Fri, 22 May 2026 22:30:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "この研究のように、科学的な解明が進むことで、より個別化された支援が日本でも当たり前になる日が来ると良いですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-06T22:56:57.001Z"
-  },
-  {
-    "title": "Hippocampal Satb2 regulates the cognitive function of adult mice through pleiotrophin",
-    "link": "https://www.nature.com/articles/s41419-026-08820-z",
-    "pubDate": "Wed, 6 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0MTktMDI2LTA4ODIwLXo=",
-    "summary": "TITLE: 脳の認知機能、遺伝子が制御する新発見\n- この研究は、脳の中にある「記憶や学習の司令塔」の働きを調整する特定の遺伝子について、マウスで新しい発見があったことを伝えています。\n- 私たちの脳がどのように学び、考え、記憶するのかという大切な仕組みの、ごく基本的な部分が少しずつ明らかになってきています。\n- このような基礎的な研究の積み重ねが、将来的には、お子さんの学びや成長をサポートする新しい方法のヒントにつながる可能性があります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "将来の子どもの学びや発達支援への期待が高まる研究です。",
-    "todayAction": "お子さんの好奇心や「なぜ？」という気持ちを大切に育みましょう。",
-    "japanHint": "日本の研究機関も、このような基礎研究をさらに進め、現場で活かせる知見を期待したいです。親として応援しています。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-06T11:45:39.911Z"
   }
 ]
