@@ -1,5 +1,22 @@
 [
   {
+    "title": "Elevated microbially-derived metabolites in autism: a possible diagnostic screening test for a distinct ASD phenotype",
+    "link": "https://www.nature.com/articles/s41380-026-03620-5",
+    "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNjIwLTU=",
+    "summary": "TITLE: ASDと腸内環境：新しい診断法の可能性\n- ASDのお子さんで、特定の腸内細菌が生み出す物質が多く見つかったという、Nature誌の新しい研究です。\n- この発見が、将来的にASDのタイプを見極める、より精度の高い検査方法につながるかもしれません。\n- 腸内環境とASDとの関係がさらに明らかになり、お子さん一人ひとりに合わせた支援に役立つと期待されます。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの個性に応じた、よりパーソナルな支援のヒントになるかもしれない。",
+    "todayAction": "お子さんの食事を記録し、どんな時に体調が良さそうか観察してみましょう。",
+    "japanHint": "日本でも、腸内環境の研究が進み、お子さん一人ひとりに合ったサポートがもっと広がることを願っています。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-05-27T23:20:30.944Z"
+  },
+  {
     "title": "Defective ventral neurogenesis due to midfetal Chd8 mutation drives autistic-like behavior in mice",
     "link": "https://www.nature.com/articles/s41467-026-73416-2",
     "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、親や専門家の声をもっと研究方針に反映する機会があれば、より実用的な支援が生まれるかもしれませんね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-07T11:44:20.892Z"
-  },
-  {
-    "title": "Artificial neurons successfully communicate with living brain cells",
-    "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-    "pubDate": "Sat, 18 Apr 2026 03:32:36 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA0LzI2MDQxNzIyNTAyMC5odG0=",
-    "summary": "TITLE: 人工ニューロン、脳細胞との対話に成功\n- 人工ニューロンが、生きている脳細胞と実際に情報交換することに成功しました。\n- これは、柔軟で安価な人工デバイスが本物の脳細胞に信号を送れることを、マウスの脳組織で確認した画期的な一歩です。\n- 将来的に、脳の仕組みを深く理解し、さまざまな神経の困りごとへの新しい道を開く可能性を秘めています。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "脳の仕組み理解が進み、将来の子どもの困りごと解決に希望が持てる。",
-    "todayAction": "お子さんの「なぜ？」を大切に、身近な科学の不思議について一緒に話してみましょう。",
-    "japanHint": "日本の研究も応援し、多様な脳の可能性を広げる未来に期待しましょう。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-07T11:45:20.853Z"
   }
 ]
