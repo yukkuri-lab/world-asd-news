@@ -1,5 +1,22 @@
 [
   {
+    "title": "Bringing basic biology back to INSAR",
+    "link": "https://www.thetransmitter.org/spectrum/bringing-basic-biology-back-to-insar/",
+    "pubDate": "Thu, 28 May 2026 04:00:49 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "As the International Society for Autism Research has grown over the past two decades, basic science has become less central, Christine Wu Nordahl says. This year, she and other meeting organizers aimed to change that.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2JyaW5naW5nLWJhc2ljLWJpb2xvZ3ktYmFjay10by1pbnNhci8=",
+    "summary": "TITLE: ASD研究の深化へ、基礎生物学を再評価\n- 国際的な自閉スペクトラム症の研究学会で、これまで以上に「基礎生物学」が重視される動きがあります。\n- これは、自閉スペクトラム症のメカニズムを深く理解するための原点に立ち返る重要な変化です。\n- このような動きは、将来的に、より効果的な支援方法や理解の進展につながる可能性があります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "将来の支援や理解の進歩に期待が持てます。",
+    "todayAction": "ASDの最新研究情報を時々チェックし、希望を持ち続けましょう。",
+    "japanHint": "日本でも、もっと基礎的な研究に力を入れることで、子どもたちの未来が明るくなるヒントが見つかるかもしれませんね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-05-28T23:20:58.346Z"
+  },
+  {
     "title": "Elevated microbially-derived metabolites in autism: a possible diagnostic screening test for a distinct ASD phenotype",
     "link": "https://www.nature.com/articles/s41380-026-03620-5",
     "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、こうした幼少期の働きかけに関する研究が進み、子どもたちの発達をサポートする選択肢が増えることに期待したいです。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-07T23:03:24.397Z"
-  },
-  {
-    "title": "‘Slightly unhinged’ federal autism meeting portends unclear research priorities",
-    "link": "https://www.thetransmitter.org/spectrum/slightly-unhinged-federal-autism-meeting-portends-unclear-research-priorities/",
-    "pubDate": "Thu, 07 May 2026 04:00:19 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "The meeting last week sparked concerns about the latest Interagency Autism Coordinating Committee’s ability to perform its core function: developing a strategy to support autism research.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3NsaWdodGx5LXVuaGluZ2VkLWZlZGVyYWwtYXV0aXNtLW1lZXRpbmctcG9ydGVuZHMtdW5jbGVhci1yZXNlYXJjaC1wcmlvcml0aWVzLw==",
-    "summary": "TITLE: 米国政府の自閉症研究会議、方針に懸念。\n- アメリカ政府のASD研究会議で、将来の研究方針の策定に懸念が示されました。\n- この会議は、ASDのお子さんのための新しい支援や教育法に繋がる大切な研究の方向性を決めています。\n- 研究の道筋が明確になることで、私たち保護者も、より良い支援につながる情報を得やすくなります。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "ASDの子どもたちの未来につながる研究の方向性について考えるきっかけになります。",
-    "todayAction": "最新のASD研究情報に関心を持ち、情報を得る習慣をつけましょう。",
-    "japanHint": "日本でも、親や専門家の声をもっと研究方針に反映する機会があれば、より実用的な支援が生まれるかもしれませんね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-07T11:44:20.892Z"
   }
 ]
