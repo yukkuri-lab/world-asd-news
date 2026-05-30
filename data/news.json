@@ -1,5 +1,22 @@
 [
   {
+    "title": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765644",
+    "pubDate": "Wed, 27 May 2026 18:15:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTY0NA==",
+    "summary": "TITLE: モリンガ製品による食中毒に注意\n- アメリカ疾病対策センター（CDC）は、モリンガの葉製品に関連するサルモネラ菌による食中毒の増加を報告しています。\n- お子さんの食事に新たな食材を取り入れる際は、製品の製造元や品質情報をよく確認することが大切です。\n- 特に感覚過敏や食事の好みが強いお子さんのいるご家庭では、食品の衛生管理に一層気を配りましょう。",
+    "country": "US",
+    "category": "支援・療育",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの食品選びと衛生管理への意識が高まります。",
+    "todayAction": "ご家庭で使用中のモリンガ製品があれば、安全性情報を確認しましょう。",
+    "japanHint": "日本でも、感覚過敏や偏食のあるお子さん向けの、より詳しい食品安全情報が届くと心強いですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-05-30T11:17:44.229Z"
+  },
+  {
     "title": "Glycine-modulating Slc6a20a-ASO restores NMDA receptor function in SHANK2 and SHANK3-mutant mice and cortical organoids",
     "link": "https://www.nature.com/articles/s41467-026-73881-9",
     "pubDate": "Fri, 29 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも基礎研究がますます進み、支援現場に役立つ知見が増えることを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-05-08T23:00:28.280Z"
-  },
-  {
-    "title": "CDC Data Show Weekly ER Visits for Tick Bites Higher than Usual",
-    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765182",
-    "pubDate": "Thu, 23 Apr 2026 18:00:00 GMT",
-    "source": "CDC Autism News",
-    "contentSnippet": "Public health resources can help protect individuals and their families this tick season",
-    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTE4Mg==",
-    "summary": "TITLE: CDCからのダニ注意報、子どもの外遊びを安全に。\n- 米国CDCが、ダニ刺されによる緊急受診が増えていると発表し、注意を呼びかけています。\n- ダニの活動が活発な時期は、屋外活動時の対策が、家族の健康と安心につながります。\n- 自然の中で遊ぶ際は、虫よけや服装の工夫でダニ刺されを防ぎ、楽しい思い出を作りましょう。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの屋外活動の安全確保に役立ち、夏の健康管理に安心感をもたらします。",
-    "todayAction": "家族で屋外に出る際、虫よけ対策や服装について事前に話し合いましょう。",
-    "japanHint": "日本でも、ダニなど身近な危険への情報が、発達特性に配慮した形で発信されると安心ですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-08T11:09:49.037Z"
   }
 ]
