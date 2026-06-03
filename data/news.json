@@ -1,5 +1,22 @@
 [
   {
+    "title": "Brain scans reveal two distinct types of autism",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
+    "pubDate": "Wed, 03 Jun 2026 00:46:00 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "Scientists have uncovered evidence that autism may include at least two biologically distinct subtypes, each marked by a different pattern of brain communication. By combining brain scans from nearly 1,000 people with autism with insights from 20 genetically engineered mouse models, researchers identified a “hyperconnectivity” subtype, where brain regions communicate more than usual, and a “hypoconnectivity” subtype, where communication is reduced.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA2LzI2MDYwMjAyMTYzNC5odG0=",
+    "summary": "TITLE: 自閉スペクトラム症に2つの脳タイプ\n- 脳スキャンにより、自閉スペクトラム症に少なくとも2つの異なる脳のタイプがある可能性が示されました。\n- 脳のつながりが強すぎる「過剰連結タイプ」と、逆に弱すぎる「低連結タイプ」が見つかりました。\n- この発見は、将来的に一人ひとりに合った支援を見つける手がかりとなるかもしれません。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "わが子の特性理解や個別支援への希望につながる情報です。",
+    "todayAction": "わが子の得意なことや苦手なことを具体的に書き出してみましょう。",
+    "japanHint": "日本でも、この研究が一人ひとりの子に合った支援につながるよう期待したいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-06-03T14:25:18.596Z"
+  },
+  {
     "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
     "link": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
     "pubDate": "Tue, 02 Jun 2026 10:18:47 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "脳の多様性を理解し、個別最適な教育や支援に繋がる日本の研究も進むと良いですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-10T22:53:08.657Z"
-  },
-  {
-    "title": "Autism experts venture to set the narrative for INSAR, and more",
-    "link": "https://www.thetransmitter.org/spectrum/autism-experts-venture-to-set-the-narrative-for-insar-and-more/",
-    "pubDate": "Tue, 21 Apr 2026 04:00:17 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 20 April.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2F1dGlzbS1leHBlcnRzLXZlbnR1cmUtdG8tc2V0LXRoZS1uYXJyYXRpdmUtZm9yLWluc2FyLWFuZC1tb3JlLw==",
-    "summary": "TITLE: ASD研究とニュースの最新情報。\n- ASDに関する世界の最新の研究やニュースが毎週まとめられ、発信されています。\n- 自閉スペクトラム症の専門家たちが、この分野の理解を深めるための議論を継続的に行っています。\n- 新たな知見が共有されることで、ASDを持つお子さんの可能性を広げるヒントが見つかるかもしれません。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "世界の最新動向を知り、お子さんの可能性を信じる力になります。",
-    "todayAction": "ASDに関する前向きなニュースに目を向け、お子さんの成長を一緒に喜びましょう。",
-    "japanHint": "海外の知見が日本の教育や支援にも取り入れられ、お子さんに合った支援がもっと広がることを期待します。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-10T10:58:55.936Z"
   }
 ]
