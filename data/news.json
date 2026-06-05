@@ -1,5 +1,22 @@
 [
   {
+    "title": "‘Push-pull’ recipe for neural wiring used in multiple brain regions",
+    "link": "https://www.thetransmitter.org/spectrum/push-pull-recipe-for-neural-wiring-used-in-multiple-brain-regions/",
+    "pubDate": "Fri, 05 Jun 2026 04:00:41 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "A versatile pair of proteins steers neurons toward their targets and helps establish the brain’s sensory maps, new studies suggest.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3B1c2gtcHVsbC1yZWNpcGUtZm9yLW5ldXJhbC13aXJpbmctdXNlZC1pbi1tdWx0aXBsZS1icmFpbi1yZWdpb25zLw==",
+    "summary": "TITLE: 脳の神経配線、発達のカギが判明\n- 脳が情報をどのように受け取り、整理するかについて、新しい発見がありました。\n- 特定のタンパク質が、脳の中で神経細胞が正しくつながるのを助ける役割をしているそうです。\n- この発見は、ASDの子どもたちの感覚の感じ方の理解につながるかもしれません。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "脳の働きから子どもの感覚や行動を理解するヒント。",
+    "todayAction": "お子さんの好きな感覚や苦手な刺激を観察し記録してみる。",
+    "japanHint": "日本でも脳科学の進歩が、お子さんの感覚特性を活かす教育支援につながるよう期待したいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-06-05T12:33:36.248Z"
+  },
+  {
     "title": "When autistic kids grow up, Chapter 1: Those people",
     "link": "https://www.thetransmitter.org/when-autistic-kids-grow-up/when-autistic-kids-grow-up-chapter-1-those-people/",
     "pubDate": "Thu, 04 Jun 2026 04:00:12 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本の療育や学校教育でも、早期からの個別最適化された支援がさらに充実する未来に期待したいですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-12T11:51:55.583Z"
-  },
-  {
-    "title": "Offspring genetic diversity regulates rearing experiences that predict differential susceptibility to Chd8 haploinsufficiency",
-    "link": "https://www.nature.com/articles/s42003-026-09908-0",
-    "pubDate": "Mon, 11 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDIwMDMtMDI2LTA5OTA4LTA=",
-    "summary": "TITLE: 遺伝と育ち方、子どもの個性を育むカギ\n- お子さんの遺伝的な特性だけでなく、成長環境や日々の育て方が、その子の個性や特性の発現に大きく影響することが示唆されています。\n- これは、日々の親御さんの温かい関わり方や、家庭でのポジティブな経験がお子さんの持つ可能性を広げる大切な要素だという希望を与えてくれます。\n- それぞれの子どもが持つ多様な遺伝的背景に対して、どのように環境を整えるかが、良い成長を促すためのヒントになるでしょう。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "遺伝に加え育て方が子どもの可能性を広げることを示唆。",
-    "todayAction": "今日はお子さんとゆっくり話す時間を作り、良いところを伝えてみましょう。",
-    "japanHint": "日本でも、子ども一人ひとりの遺伝と環境の相互作用に注目した、きめ細やかな個別支援がもっと広がると嬉しいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-11T22:58:44.393Z"
   }
 ]
