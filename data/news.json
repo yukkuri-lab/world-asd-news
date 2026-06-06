@@ -1,5 +1,22 @@
 [
   {
+    "title": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765751",
+    "pubDate": "Fri, 05 Jun 2026 21:30:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTc1MQ==",
+    "summary": "TITLE: 家族を守る食の安全：リステリア菌にご注意を\n- リステリア菌による食中毒は、生乳で作られたチーズなど特定の食品から発生する可能性があります。\n- 成長期のお子さんや、免疫力が気になるご家族は、特に注意して食品を選びましょう。\n- 冷蔵庫の衛生管理や手洗いを徹底し、加熱が必要な食品は十分に調理して、食中毒を防ぎましょう。",
+    "country": "US",
+    "category": "支援・療育",
+    "reliability": "★★★",
+    "parentMeaning": "食の安全は、お子さんの健康を支え、穏やかな家庭生活を送るための大切な土台です。",
+    "todayAction": "冷蔵庫の温度設定を確認し、生乳を使った食品の表示を確認しましょう。",
+    "japanHint": "日本の食卓は安全ですが、輸入品にも目を向け、加熱殺菌表示を確認する習慣が、いざという時に家族を守ります。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-06-06T23:08:10.763Z"
+  },
+  {
     "title": "‘Push-pull’ recipe for neural wiring used in multiple brain regions",
     "link": "https://www.thetransmitter.org/spectrum/push-pull-recipe-for-neural-wiring-used-in-multiple-brain-regions/",
     "pubDate": "Fri, 05 Jun 2026 04:00:41 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、お子さん一人ひとりの社会性の特性に合わせた、きめ細やかなサポートがさらに充実すると嬉しいですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-12T11:51:37.810Z"
-  },
-  {
-    "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
-    "link": "https://www.nature.com/articles/s41586-026-10578-5",
-    "pubDate": "Mon, 11 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1ODYtMDI2LTEwNTc4LTU=",
-    "summary": "TITLE: 早期の働きかけが可能性を拓く研究\n- レト症候群（神経発達症の一つ）のマウス研究で、症状が出る前の働きかけが、その後の困難を和らげる可能性を示唆しました。\n- この結果は、お子さんの発達特性が見え始める前から、一人ひとりに合わせた丁寧な関わりが将来の可能性を広げるヒントになるかもしれません。\n- まだマウスでの研究段階ですが、早期からの環境調整や専門的なサポートの重要性を改めて示唆する、希望の持てる情報です。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "早期からの関わりが、子どもの可能性を大きく開く希望。",
-    "todayAction": "お子さんの興味に寄り添う遊びや学びを今日から始めてみましょう。",
-    "japanHint": "日本の療育や学校教育でも、早期からの個別最適化された支援がさらに充実する未来に期待したいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-12T11:51:55.583Z"
   }
 ]
