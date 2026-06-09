@@ -1,5 +1,22 @@
 [
   {
+    "title": "Cannabidiol corrects sleep deficits and reduces spontaneous seizures in Angelman syndrome model mice",
+    "link": "https://www.nature.com/articles/s41386-026-02462-7",
+    "pubDate": "Tue, 9 Jun 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODYtMDI2LTAyNDYyLTc=",
+    "summary": "TITLE: CBDが発達障害の睡眠・てんかん治療に光\n- カンナビジオール（CBD）という成分が、エンジェルマン症候群を持つモデルマウスの睡眠の質を高め、てんかん発作を減らす可能性が示されました。\n- この研究は、てんかんや睡眠の困りごとを抱える発達障害のお子さんにとって、将来的な新しい治療法につながるかもしれません。\n- まだマウスでの研究段階ですが、お子さんの困りごとに寄り添い、希望を持てるような選択肢がこれから増えていくことを示唆しています。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "てんかんや睡眠課題を持つお子さんの未来に希望をもたらす研究です。",
+    "todayAction": "お子さんの睡眠について日頃の様子を記録し、担当医に相談しましょう。",
+    "japanHint": "日本でも、睡眠やてんかん対策の研究が進み、多様な選択肢が生まれることを期待したいですね。日々の困りごとに寄り添う支援が増えるのは嬉しいです。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-06-09T23:19:04.398Z"
+  },
+  {
     "title": "Key role of interferon 1 in maternal immune activation, and more",
     "link": "https://www.thetransmitter.org/spectrum/key-role-of-interferon-1-in-maternal-immune-activation-and-more/",
     "pubDate": "Tue, 09 Jun 2026 04:00:50 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、創作活動を通して心を支える支援がもっと広がることを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-05-12T23:05:10.336Z"
-  },
-  {
-    "title": "At 25, INSAR needs to bring autism scientists together more than ever",
-    "link": "https://www.thetransmitter.org/spectrum/at-25-insar-needs-to-bring-autism-scientists-together-more-than-ever/",
-    "pubDate": "Wed, 22 Apr 2026 04:00:23 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "As the International Society for Autism Research’s annual meeting in Prague this week celebrates its quarter-century anniversary, its president reflects on the field’s past successes, current challenges and needs for the future",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2F0LTI1LWluc2FyLW5lZWRzLXRvLWJyaW5nLWF1dGlzbS1zY2llbnRpc3RzLXRvZ2V0aGVyLW1vcmUtdGhhbi1ldmVyLw==",
-    "summary": "TITLE: ASD研究の未来：国際会議が語る新たな連携\n- 国際自閉スペクトラム症研究学会（INSAR）が25周年を迎え、研究の国際的な連携強化の重要性を強調しました。\n- 世界中の専門家が協力し、自閉スペクトラム症に関する理解を深め、より良い支援を追求していくことになります。\n- 過去の成功を踏まえ、現在の課題を乗り越え、未来に向けて研究を加速させる方針が示されました。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "世界中の研究者が連携し、将来の支援に希望が持てます。",
-    "todayAction": "お子さんの成長を信じ、最新の研究動向にも注目してみましょう。",
-    "japanHint": "日本でも国際的な研究成果が早く共有され、現場の支援に活かされることを期待したいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-12T23:06:14.244Z"
   }
 ]
