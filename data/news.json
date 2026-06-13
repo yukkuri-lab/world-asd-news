@@ -1,5 +1,22 @@
 [
   {
+    "title": "Enhanced Ebola Airport Screening Expands to Atlanta",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765626",
+    "pubDate": "Sat, 23 May 2026 12:00:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "Enhanced Ebola Airport Screening Expands to Atlanta",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTYyNg==",
+    "summary": "TITLE: 空港のルールを知って、家族旅行を安心に。\n- アメリカのアトランタ空港で、感染症対策として新たな検疫体制が導入されます。\n- ASDのお子さんは、見慣れない場所やいつもと違う手続きに不安を感じやすいことがあります。\n- ご家族で旅行を計画する際は、事前に空港での流れを確認し、準備をしておくと安心です。",
+    "country": "US",
+    "category": "制度・政策",
+    "reliability": "★★★",
+    "parentMeaning": "家族での旅行や移動を計画する際の準備に役立ちます。",
+    "todayAction": "ご家族で出かける際は、交通機関や施設でのルールを事前に確認しましょう。",
+    "japanHint": "日本の空港や公共交通機関でも、お子さんに配慮した情報提供やサポートがもっと広がると嬉しいですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-06-13T23:10:10.734Z"
+  },
+  {
     "title": "Summer Safety for Autistic Children",
     "link": "https://autismawarenesscentre.com/summer-safety-for-autistic-children/",
     "pubDate": "Thu, 11 Jun 2026 11:54:08 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本の研究も、子どもの日々の困りごとに寄り添う視点が増えることを期待します。親の声が届く場が増えれば、より良い支援につながるはずです。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-14T11:49:00.323Z"
-  },
-  {
-    "title": "Heterogeneous functional state dynamics and its structural substrates in male individuals with autism spectrum disorder",
-    "link": "https://www.nature.com/articles/s41380-026-03627-y",
-    "pubDate": "Sat, 2 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNjI3LXk=",
-    "summary": "TITLE: 自閉スペクトラム症の男の子、脳の働きは一人ひとり違う\n- この研究は、ASDのある男の子たちの脳の活動の仕方が、一人ひとり異なることを示唆しています。\n- 脳の機能や構造の違いが、それぞれの個性を形作る大切な要素であることが分かってきています。\n- これにより、一人ひとりの特性に合わせたサポートを見つけるヒントになることが期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの脳の多様性を理解し、個性に合わせた支援を考えるヒントに。",
-    "todayAction": "お子さんの得意なことや心が落ち着く瞬間を観察し、メモに残しましょう。",
-    "japanHint": "日本でも脳科学の知見が学校教育に活かされ、一人ひとりに合ったサポートがもっと広がることを期待します。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-14T11:49:44.494Z"
   }
 ]
