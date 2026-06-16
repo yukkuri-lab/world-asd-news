@@ -1,5 +1,22 @@
 [
   {
+    "title": "Leucovorin saga, and more",
+    "link": "https://www.thetransmitter.org/spectrum/leucovorin-saga-and-more/",
+    "pubDate": "Tue, 16 Jun 2026 04:00:24 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 15 June.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2xldWNvdm9yaW4tc2FnYS1hbmQtbW9yZS8=",
+    "summary": "TITLE: ASD最新研究・ニュース速報\n- 毎週発表されるASDに関する最新の研究やニュースをまとめてお届けします。\n- お子さんの支援や日々の生活に役立つヒントが隠されているかもしれません。\n- 国内外の最新情報を知ることで、新たな可能性が見えてきます。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "最新情報を知り、お子さんへの理解や支援の選択肢を広げられます。",
+    "todayAction": "最新の研究トピックに関心を持ち、情報を調べてみましょう。",
+    "japanHint": "日本でも、週ごとの最新情報を気軽に得られる専門サイトが増えると嬉しいです。情報収集の手間が省けて助かりますね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-06-16T23:25:48.318Z"
+  },
+  {
     "title": "Exploring offspring behaviour after prenatal COVID-19 vaccination in mice",
     "link": "https://www.nature.com/articles/s41398-026-04147-7",
     "pubDate": "Mon, 15 Jun 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "脳の特性理解が進めば、日本の教育現場でも個別支援に役立つヒントになりそうです。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-15T22:59:15.582Z"
-  },
-  {
-    "title": "Parsing autism spectrum heterogeneity through fMRI",
-    "link": "https://www.nature.com/articles/s41593-026-02269-1",
-    "pubDate": "Fri, 15 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1OTMtMDI2LTAyMjY5LTE=",
-    "summary": "TITLE: fMRIで解き明かすASDの脳の多様性\n- この研究は、fMRIという技術を使って、自閉スペクトラム症（ASD）のお子さん一人ひとりの脳の活動パターンの違いを詳しく調べています。\n- 脳の多様性を理解することで、お子さんそれぞれの特性に合わせた、よりパーソナルで効果的な支援方法を見つける大きなヒントになると期待されています。\n- 将来、脳科学の知見に基づいて、お子さんの個性に応じた学びや生活のサポートが実現する、明るい未来への一歩となるでしょう。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "我が子の脳の個性を理解し、最適な支援を見つける未来への期待。",
-    "todayAction": "お子さんの興味や集中している時の様子を記録し、どんな時に輝くか見つけてみましょう。",
-    "japanHint": "日本でも、脳の特性に基づいた個別支援が充実し、全ての子どもたちが自分らしく輝ける社会になることを願います。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-15T11:52:46.884Z"
   }
 ]
