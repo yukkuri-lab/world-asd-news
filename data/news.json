@@ -1,5 +1,22 @@
 [
   {
+    "title": "Beyond Accommodations: Building Belonging for Autistic College Students",
+    "link": "https://autismspectrumnews.org/beyond-accommodations-building-belonging-for-autistic-college-students/",
+    "pubDate": "Wed, 17 Jun 2026 14:37:01 +0000",
+    "source": "Autism Spectrum News",
+    "contentSnippet": "Autistic students thrive when colleges go beyond accommodations to foster belonging, self-advocacy, inclusion, and campus-wide support.\nThe post Beyond Accommodations: Building Belonging for Autistic College Students appeared first on Autism Spectrum News.",
+    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2JleW9uZC1hY2NvbW1vZGF0aW9ucy1idWlsZGluZy1iZWxvbmdpbmctZm9yLWF1dGlzdGljLWNvbGxlZ2Utc3R1ZGVudHMv",
+    "summary": "TITLE: ASD大学生の居場所、支援の先へ\n- 大学では、個別の配慮だけでなく、ASDの学生が安心して「ここにいて良い」と感じる居場所づくりが大切だと示されています。\n- お子さんが自分らしくいられる環境や、心地よさを感じる場があることが、成長を促す大切な要素であると伝えています。\n- 学校全体で、子どもたちが自ら声をあげ、多様な個性を認め合える包容的な雰囲気づくりが重要だと提案しています。",
+    "country": "US",
+    "category": "学校教育",
+    "reliability": "★★",
+    "parentMeaning": "わが子が安心して学校で過ごすヒントが得られます。",
+    "todayAction": "お子さんが学校で心地よく過ごせるか、今日聞いてみましょう。",
+    "japanHint": "日本の小学校でも、配慮だけでなく、全ての子が自分らしくいられる居場所を大切にしたいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-06-17T23:42:01.888Z"
+  },
+  {
     "title": "Leucovorin saga, and more",
     "link": "https://www.thetransmitter.org/spectrum/leucovorin-saga-and-more/",
     "pubDate": "Tue, 16 Jun 2026 04:00:24 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "最先端の研究が子どもの未来を拓く希望。日本でも、研究と支援が連携し、安心して子育てできる社会が広がると嬉しいです。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-16T11:01:26.182Z"
-  },
-  {
-    "title": "E/I imbalance and internal noise cause weak neural representations and face recognition challenges in ASD",
-    "link": "https://www.nature.com/articles/s42003-026-10094-2",
-    "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDIwMDMtMDI2LTEwMDk0LTI=",
-    "summary": "TITLE: ASDの顔認識、脳の情報処理に新発見\n- ASDのお子さんが人の顔を見分けるのが少し苦手なのは、脳の中の神経細胞の情報のやり取りに特徴があるためだと分かってきました。\n- 脳内で情報が整理されにくかったり、「ノイズ」が多いと、顔の表情や特徴がはっきり伝わりにくくなることが、今回の研究で示唆されています。\n- この発見は、なぜお子さんが顔を覚えたり、表情から気持ちを読み取ったりしにくいのかを理解する手助けになり、今後のより良い支援につながる希望の光です。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの顔認識の苦手さに科学的な理由が示され、理解が進みます。",
-    "todayAction": "絵本で登場人物の顔や表情を指差し、「どんな気持ちかな？」と話してみましょう。",
-    "japanHint": "脳の特性理解が進めば、日本の教育現場でも個別支援に役立つヒントになりそうです。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-15T22:59:15.582Z"
   }
 ]
