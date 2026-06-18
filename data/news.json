@@ -1,5 +1,22 @@
 [
   {
+    "title": "Cousin comparison parses genetic effects in autism",
+    "link": "https://www.thetransmitter.org/spectrum/cousin-comparison-parses-genetic-effects-in-autism/",
+    "pubDate": "Thu, 18 Jun 2026 04:00:09 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "The approach helps reveal whether maternal genes contribute directly to autism in children or have indirect effects on the prenatal environment.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2NvdXNpbi1jb21wYXJpc29uLXBhcnNlcy1nZW5ldGljLWVmZmVjdHMtaW4tYXV0aXNtLw==",
+    "summary": "TITLE: 母親の遺伝子とASDの関係\n- 自閉スペクトラム症（ASD）の遺伝的要因を詳しく探る新しい研究が始まりました。\n- 母親の遺伝子が、お子さんのASDに直接関わるのか、それともお腹の中にいる時の環境に影響するのかを分析します。\n- この研究は、ASDのメカニズムをより深く理解し、未来の支援へと繋がる大切な一歩です。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "ASDの原因解明が進み、将来の支援に繋がる希望です。",
+    "todayAction": "お子さんの良い面に目を向け、毎日のできることを見つけて褒めましょう。",
+    "japanHint": "日本でもこのような研究が進み、お子さん一人ひとりに合った、より個別化された支援に繋がることを願っています。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-06-18T12:48:59.612Z"
+  },
+  {
     "title": "Beyond Accommodations: Building Belonging for Autistic College Students",
     "link": "https://autismspectrumnews.org/beyond-accommodations-building-belonging-for-autistic-college-students/",
     "pubDate": "Wed, 17 Jun 2026 14:37:01 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でもこの研究が応用され、一人ひとりに合った早期支援が充実することを願います。",
     "targetAge": "共通",
     "fetchedAt": "2026-05-16T22:52:26.330Z"
-  },
-  {
-    "title": "Multiomics analysis identifies VPA-induced changes in neural progenitor cells, ventricular-like regions, and cellular microenvironment in dorsal forebrain organoids",
-    "link": "https://www.nature.com/articles/s41380-026-03585-5",
-    "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNTg1LTU=",
-    "summary": "TITLE: 脳発達と特定の薬の影響を解明\n- この研究は、脳の初期発達段階で特定の薬が神経細胞にどのような影響を与えるかを詳しく調べています。\n- 将来的に、自閉スペクトラム症（ASD）の発達メカニズムを深く理解し、より良い支援や治療法につながる可能性を秘めています。\n- 脳の「ミニチュアモデル」を使って行われる基礎研究ですが、子どもの発達を深く理解するための大切な第一歩となるでしょう。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの発達の謎を解く一歩。未来の希望につながる研究です。",
-    "todayAction": "日々の成長を温かく見守り、子どもの可能性を信じましょう。",
-    "japanHint": "最先端の研究が子どもの未来を拓く希望。日本でも、研究と支援が連携し、安心して子育てできる社会が広がると嬉しいです。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-16T11:01:26.182Z"
   }
 ]
