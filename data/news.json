@@ -1,5 +1,22 @@
 [
   {
+    "title": "NeuroDev study maps previously unseen genetic variation in Africa",
+    "link": "https://www.thetransmitter.org/spectrum/neurodev-study-maps-previously-unseen-genetic-variation-in-africa/",
+    "pubDate": "Thu, 25 Jun 2026 04:00:56 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "The project is helping to fill critical gaps in the genetic underpinnings of autism and other neurodevelopmental conditions.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL25ldXJvZGV2LXN0dWR5LW1hcHMtcHJldmlvdXNseS11bnNlZW4tZ2VuZXRpYy12YXJpYXRpb24taW4tYWZyaWNhLw==",
+    "summary": "TITLE: ASDの遺伝子研究、アフリカで新発見\n- ASD（自閉スペクトラム症）の遺伝的な原因を明らかにする研究が、アフリカで進められています。\n- これまで詳しく調べられていなかった地域の遺伝情報から、新しい手がかりが見つかっています。\n- この研究は、ASDの多様な特性をより深く理解し、未来の支援方法を考える上で重要な一歩となります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "ASDの多様な原因理解へ期待が膨らむ研究です。",
+    "todayAction": "お子さんの個性を、改めてじっくり観察してみましょう。",
+    "japanHint": "日本でも、より多くの多様な遺伝子背景を持つ方々の研究が進み、個別化された支援につながることを期待します。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-06-25T23:21:50.263Z"
+  },
+  {
     "title": "When autistic kids grow up, Chapter 4: How did things unfold?",
     "link": "https://www.thetransmitter.org/when-autistic-kids-grow-up/chapter-4-how-did-things-unfold/",
     "pubDate": "Thu, 25 Jun 2026 04:00:57 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、腸内環境の研究が進み、お子さん一人ひとりに合ったサポートがもっと広がることを願っています。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-27T23:20:30.944Z"
-  },
-  {
-    "title": "Defective ventral neurogenesis due to midfetal Chd8 mutation drives autistic-like behavior in mice",
-    "link": "https://www.nature.com/articles/s41467-026-73416-2",
-    "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDI2LTczNDE2LTI=",
-    "summary": "TITLE: マウスで解明：ASDと胎児期の脳発達\n- お腹の中にいる時の特定遺伝子の変化が、脳の発達に影響し、ASDのような行動を引き起こす可能性がマウス研究で示されました。\n- この研究は、ASDがどのようにして起こるのかという謎を解き明かす大切な一歩となります。\n- 将来的には、より早い段階でASDの特性を理解したり、新しい支援方法を考えるヒントになるかもしれません。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDの原因解明につながる、希望の光となる研究です。",
-    "todayAction": "お子さんの個性や得意なことを見つめ直し、一緒に育む時間を大切にしましょう。",
-    "japanHint": "日本でもこのような基礎研究が進み、一人ひとりの子に合った支援がもっと増える未来を期待したいです。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-27T12:49:53.824Z"
   }
 ]
