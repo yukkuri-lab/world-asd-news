@@ -1,5 +1,22 @@
 [
   {
+    "title": "Towards modelling mental disorders in zebrafish. Neurexins severely modulate anxiety, affiliative social behaviour and aggression",
+    "link": "https://www.nature.com/articles/s41380-026-03721-1",
+    "pubDate": "Fri, 26 Jun 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNzIxLTE=",
+    "summary": "TITLE: ゼブラフィッシュ研究が解き明かす行動\n- 魚（ゼブラフィッシュ）の研究から、心が落ち着かない気持ちや人との関わり方のヒントが見つかりました。\n- ネウレキシンという特定の遺伝子が、不安や友だちとの仲良し行動、怒りっぽい感情を大きく変えることがわかったそうです。\n- この発見が、将来的にASDのお子さんの行動理解や、より良いサポート方法につながる可能性を秘めています。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの行動理解と未来の支援に光が見えます。",
+    "todayAction": "お子さんの行動の背景に何があるか、今日改めて観察してみましょう。",
+    "japanHint": "基礎研究の成果が、学校や家庭での具体的な支援策に早く結びついてほしいです。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-06-26T23:10:57.763Z"
+  },
+  {
     "title": "Defective ventral neurogenesis due to midfetal Chd8 mutation drives autistic-like behavior in mice",
     "link": "https://www.nature.com/articles/s41467-026-73416-2",
     "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、特性のある子が安心して学べる大学が増えると良いですね。小学校のうちから、お子さんの将来の夢を一緒に育んでいきましょう。",
     "targetAge": "小学生",
     "fetchedAt": "2026-05-29T23:19:13.155Z"
-  },
-  {
-    "title": "Bringing basic biology back to INSAR",
-    "link": "https://www.thetransmitter.org/spectrum/bringing-basic-biology-back-to-insar/",
-    "pubDate": "Thu, 28 May 2026 04:00:49 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "As the International Society for Autism Research has grown over the past two decades, basic science has become less central, Christine Wu Nordahl says. This year, she and other meeting organizers aimed to change that.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2JyaW5naW5nLWJhc2ljLWJpb2xvZ3ktYmFjay10by1pbnNhci8=",
-    "summary": "TITLE: ASD研究の深化へ、基礎生物学を再評価\n- 国際的な自閉スペクトラム症の研究学会で、これまで以上に「基礎生物学」が重視される動きがあります。\n- これは、自閉スペクトラム症のメカニズムを深く理解するための原点に立ち返る重要な変化です。\n- このような動きは、将来的に、より効果的な支援方法や理解の進展につながる可能性があります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "将来の支援や理解の進歩に期待が持てます。",
-    "todayAction": "ASDの最新研究情報を時々チェックし、希望を持ち続けましょう。",
-    "japanHint": "日本でも、もっと基礎的な研究に力を入れることで、子どもたちの未来が明るくなるヒントが見つかるかもしれませんね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-05-28T23:20:58.346Z"
   }
 ]
