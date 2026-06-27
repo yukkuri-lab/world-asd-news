@@ -1,5 +1,22 @@
 [
   {
+    "title": "Elevated microbially-derived metabolites in autism: a possible diagnostic screening test for a distinct ASD phenotype",
+    "link": "https://www.nature.com/articles/s41380-026-03620-5",
+    "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNjIwLTU=",
+    "summary": "TITLE: ASDと腸内環境：診断への期待\n- この研究は、腸内細菌が作る物質とASDとの関連を調べています。\n- 一部のASDのお子さんには、特有の腸内環境がある可能性が見えてきました。\n- 将来、血液や尿検査でASDのタイプを特定する診断法ができるかもしれません。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "わが子のASDタイプを理解し、より良い支援に繋がる希望。",
+    "todayAction": "お子さんの食事や体調の変化を記録してみましょう。",
+    "japanHint": "日本でも腸内環境とASDの研究が進み、個別化された支援が当たり前になることを期待します。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-06-27T11:25:55.497Z"
+  },
+  {
     "title": "Towards modelling mental disorders in zebrafish. Neurexins severely modulate anxiety, affiliative social behaviour and aggression",
     "link": "https://www.nature.com/articles/s41380-026-03721-1",
     "pubDate": "Fri, 26 Jun 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも当事者の声を取り入れた、使いやすい心の健康チェックツールが広がることを期待します。",
     "targetAge": "中高生",
     "fetchedAt": "2026-05-29T23:18:56.039Z"
-  },
-  {
-    "title": "Rethinking College Inclusion: Advancing Whole-Person Support in Higher Education",
-    "link": "https://autismspectrumnews.org/rethinking-college-inclusion-advancing-whole-person-support-in-higher-education/",
-    "pubDate": "Tue, 26 May 2026 12:31:18 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "Colleges must evolve to better support autistic, neurodivergent, and anxious students through inclusive campus systems.\nThe post Rethinking College Inclusion: Advancing Whole-Person Support in Higher Education appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL3JldGhpbmtpbmctY29sbGVnZS1pbmNsdXNpb24tYWR2YW5jaW5nLXdob2xlLXBlcnNvbi1zdXBwb3J0LWluLWhpZ2hlci1lZHVjYXRpb24v",
-    "summary": "TITLE: ASD大学生を「まるごと支援」する教育へ\n- 大学では、ASDのある学生たちが心も体も安心して学べるような、新しい支援の形が議論されています。\n- これからは、特性を持つ学生一人ひとりに合わせた、より包括的なサポート体制の構築が大学に求められています。\n- 小学生のお子さんを持つ親御さんにとって、将来の進路に希望が持てるような、温かい支援の動きが広がっています。",
-    "country": "US",
-    "category": "学校教育",
-    "reliability": "★★",
-    "parentMeaning": "お子さんの将来の進路に対し、大学での手厚い支援が期待できる。",
-    "todayAction": "お子さんの「好き」を見つけ、一緒に将来の夢を語り合おう。",
-    "japanHint": "日本でも、特性のある子が安心して学べる大学が増えると良いですね。小学校のうちから、お子さんの将来の夢を一緒に育んでいきましょう。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-05-29T23:19:13.155Z"
   }
 ]
