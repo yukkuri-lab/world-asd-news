@@ -1,5 +1,22 @@
 [
   {
+    "title": "Decoding the temporal dynamics of face-specific neural representations in autism",
+    "link": "https://www.nature.com/articles/s44220-026-00672-y",
+    "pubDate": "Mon, 29 Jun 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDQyMjAtMDI2LTAwNjcyLXk=",
+    "summary": "TITLE: ASDの顔認識、脳の反応を解明\n- ASDのあるお子さんの脳が、人の顔や表情をどのように認識しているか、その「タイミング」の違いを詳しく調べた研究です。\n- 表情から相手の気持ちを読み取るのが難しいお子さんがいるのは、脳での情報処理の仕方に個性があるためかもしれません。\n- この研究が進むことで、お子さん一人ひとりに合ったコミュニケーションの教え方や支援方法を見つけるヒントになります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "顔の表情理解の難しさの理由が分かり、支援に繋がる。",
+    "todayAction": "家庭で様々な表情カードを使って気持ちを話してみる。",
+    "japanHint": "日本でも、お子さんの表情理解の特性に合わせた具体的な支援方法がもっと広まると良いですね。脳科学と教育の連携に期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-06-29T23:01:23.892Z"
+  },
+  {
     "title": "Media and Information Faculty Develop More Accessible Mental Health Screening Tool for Autistic Adolescents",
     "link": "https://autismspectrumnews.org/media-and-information-faculty-develop-more-accessible-mental-health-screening-tool-for-autistic-adolescents/",
     "pubDate": "Tue, 26 May 2026 13:31:48 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、感覚過敏や偏食のあるお子さん向けの、より詳しい食品安全情報が届くと心強いですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-05-30T11:17:44.229Z"
-  },
-  {
-    "title": "Glycine-modulating Slc6a20a-ASO restores NMDA receptor function in SHANK2 and SHANK3-mutant mice and cortical organoids",
-    "link": "https://www.nature.com/articles/s41467-026-73881-9",
-    "pubDate": "Fri, 29 May 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDI2LTczODgxLTk=",
-    "summary": "TITLE: 自閉症の脳機能、改善へ新研究進む\n- 脳の働きを助けるグリシン調整という新しいアプローチが見つかりました。\n- 自閉スペクトラム症（ASD）の特性と関連する脳の機能改善が期待されます。\n- 特定の遺伝子変異を持つASDのお子さんへの、将来の治療法につながる可能性を秘めています。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDの脳機能に関する理解が進み、将来の治療法開発へ大きな希望を与えます。",
-    "todayAction": "お子さんの「できた！」をたくさん褒め、今日の成長を喜びましょう。",
-    "japanHint": "日本でもこうした最先端研究が進み、個別化された支援や治療が実現する日を心待ちにしています。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-29T23:17:54.564Z"
   }
 ]
