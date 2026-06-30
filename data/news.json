@@ -1,5 +1,22 @@
 [
   {
+    "title": "A new subtyping model for autism phenotypes late in development, and more",
+    "link": "https://www.thetransmitter.org/spectrum/a-new-subtyping-model-for-autism-phenotypes-late-in-development-and-more/",
+    "pubDate": "Tue, 30 Jun 2026 04:00:24 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 29 June.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2EtbmV3LXN1YnR5cGluZy1tb2RlbC1mb3ItYXV0aXNtLXBoZW5vdHlwZXMtbGF0ZS1pbi1kZXZlbG9wbWVudC1hbmQtbW9yZS8=",
+    "summary": "TITLE: ASD発達後期の新タイプ分類モデル\n- 自閉スペクトラム症（ASD）の特性を、より細かく、深く理解するための新しいタイプ分けモデルの研究が発表されました。\n- これは、お子さんの成長とともに見えてくる個性的な特性を、科学的にさらに詳細に分類し、理解する手助けとなる可能性があります。\n- 一人ひとりの子どもに合ったオーダーメイドのサポートを見つけるための、将来的な道しるべとなる希望に満ちた一歩と言えるでしょう。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの個性をより深く理解し、最適な支援へつながる可能性",
+    "todayAction": "お子さんの日々の言動や好きなこと、苦手なことを観察し、メモしてみる。",
+    "japanHint": "日本でも個々の特性に合わせたきめ細かな支援が、もっともっと増えることを期待したいですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-06-30T12:06:20.927Z"
+  },
+  {
     "title": "Decoding the temporal dynamics of face-specific neural representations in autism",
     "link": "https://www.nature.com/articles/s44220-026-00672-y",
     "pubDate": "Mon, 29 Jun 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、年齢を重ねるASDの方の心のケアがより手厚くなるよう、長期的な視点での支援プログラムが充実してほしいですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-06-02T13:59:33.319Z"
-  },
-  {
-    "title": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
-    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765644",
-    "pubDate": "Wed, 27 May 2026 18:15:00 GMT",
-    "source": "CDC Autism News",
-    "contentSnippet": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
-    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTY0NA==",
-    "summary": "TITLE: モリンガ製品による食中毒に注意\n- アメリカ疾病対策センター（CDC）は、モリンガの葉製品に関連するサルモネラ菌による食中毒の増加を報告しています。\n- お子さんの食事に新たな食材を取り入れる際は、製品の製造元や品質情報をよく確認することが大切です。\n- 特に感覚過敏や食事の好みが強いお子さんのいるご家庭では、食品の衛生管理に一層気を配りましょう。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの食品選びと衛生管理への意識が高まります。",
-    "todayAction": "ご家庭で使用中のモリンガ製品があれば、安全性情報を確認しましょう。",
-    "japanHint": "日本でも、感覚過敏や偏食のあるお子さん向けの、より詳しい食品安全情報が届くと心強いですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-05-30T11:17:44.229Z"
   }
 ]
