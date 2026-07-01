@@ -1,5 +1,22 @@
 [
   {
+    "title": "CMIP as a novel candidate gene for neurodevelopmental and neuropsychiatric disorders",
+    "link": "https://www.nature.com/articles/s41431-026-02169-9",
+    "pubDate": "Wed, 1 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0MzEtMDI2LTAyMTY5LTk=",
+    "summary": "TITLE: ASDに関連する新遺伝子研究\n- 新しい候補遺伝子「CMIP」が、ASDを含む神経発達症に関係している可能性が報告されました。\n- この研究は、ASDの特性がどのように生まれるのかという原因解明に繋がる第一歩となるかもしれません。\n- まだ初期段階ですが、私たちの子どもたちの特性への理解を深め、将来の支援に役立つ可能性を秘めた希望の光です。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの特性解明と未来の支援につながる可能性。",
+    "todayAction": "お子さんの「なぜ？」を前向きに考え、理解を深める機会にする。",
+    "japanHint": "日本でもこのような基礎研究が進み、一人ひとりに合った支援につながることを期待します。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-01T12:31:19.090Z"
+  },
+  {
     "title": "A new subtyping model for autism phenotypes late in development, and more",
     "link": "https://www.thetransmitter.org/spectrum/a-new-subtyping-model-for-autism-phenotypes-late-in-development-and-more/",
     "pubDate": "Tue, 30 Jun 2026 04:00:24 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、お子さんの脳の個性に合わせた、きめ細やかなサポートが広がることを期待します。",
     "targetAge": "小学生",
     "fetchedAt": "2026-06-02T13:59:17.545Z"
-  },
-  {
-    "title": "The association between autistic traits and trajectories of anxiety in middle-aged and older adults: an 8-year growth mixture model analysis",
-    "link": "https://www.nature.com/articles/s44220-026-00654-0",
-    "pubDate": "Mon, 1 Jun 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDQyMjAtMDI2LTAwNjU0LTA=",
-    "summary": "TITLE: ASD特性と不安、年齢ごとの変化研究\n- 自閉スペクトラム症（ASD）の特性を持つ方が、年齢を重ねる中でどんな不安を抱えやすいのか、その変化を長期的に調べた研究です。\n- この研究は、不安の感じ方や現れ方が、時期によって多様なパターンがあることを示唆しており、希望が持てる側面もあります。\n- お子さんが将来、心の状態を健やかに保つために、今からできることを考える上で大切なヒントになります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんが将来、不安とどう向き合うか長期的な視点で考えるきっかけになります。",
-    "todayAction": "お子さんが安心して過ごせる時間や場所を意識して作ってみましょう。",
-    "japanHint": "日本でも、年齢を重ねるASDの方の心のケアがより手厚くなるよう、長期的な視点での支援プログラムが充実してほしいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-06-02T13:59:33.319Z"
   }
 ]
