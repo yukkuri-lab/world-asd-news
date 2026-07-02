@@ -1,5 +1,22 @@
 [
   {
+    "title": "Aberrant multivariate mapping between behavioral profiles and cortical morphological brain networks in children with autism spectrum disorder",
+    "link": "https://www.nature.com/articles/s41398-026-04233-w",
+    "pubDate": "Thu, 2 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MjMzLXc=",
+    "summary": "TITLE: ASD児の脳と行動の関連性を解明\n- この研究は、自閉スペクトラム症（ASD）のお子さんたちの「行動の特徴」と「脳の構造的なつながり方」の間に、定型発達のお子さんとは異なる関連性があることを見つけました。\n- お子さんの持つ特性が、脳の個性と深く結びついている可能性を示しており、一人ひとりの脳の多様性を理解する手がかりとなります。\n- 将来的には、お子さんの脳の特性に合わせた、よりパーソナルなサポート方法を見つけるヒントになることが期待される、希望に満ちた研究です。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さん一人ひとりの脳の個性が行動に影響するとわかります。",
+    "todayAction": "お子さんの「得意」や「苦手」な行動を改めて観察し、記録してみましょう。",
+    "japanHint": "日本でも、個々の脳の特性と行動の関連が解明され、個別最適化された支援が広がる未来に希望が持てます。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-02T23:11:20.108Z"
+  },
+  {
     "title": "When autistic kids grow up, Chapter 5: The war dial",
     "link": "https://www.thetransmitter.org/when-autistic-kids-grow-up/chapter-5-the-war-dial/",
     "pubDate": "Thu, 02 Jul 2026 04:00:21 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本の研究も進み、お子さん一人ひとりに合った支援がさらに充実する未来に期待したいですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-06-02T13:58:50.678Z"
-  },
-  {
-    "title": "Estimation of direct and indirect polygenic effects and gene–environment interactions using polygenic scores in case–parent trio studies",
-    "link": "https://www.nature.com/articles/s41588-026-02601-2",
-    "pubDate": "Tue, 2 Jun 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1ODgtMDI2LTAyNjAxLTI=",
-    "summary": "TITLE: ASDの発達、遺伝と環境の関係を解明\n- ASDの発達に遺伝子がどう影響するか、新しい方法で詳しく調べている研究です。\n- 遺伝的要因だけでなく、育つ環境との組み合わせが大切だと示唆しています。\n- 親子三世代のデータを分析し、複雑な発達メカニズムを解明しようとしています。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDの発達メカニズム理解が進み、個別支援のヒントになる。",
-    "todayAction": "お子さんの好きな遊びや安心できる場所を整え、心の安定を育む。",
-    "japanHint": "日本でも遺伝と環境の相互作用研究が進み、個別支援のヒントになることを期待。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-06-02T13:59:03.609Z"
   }
 ]
