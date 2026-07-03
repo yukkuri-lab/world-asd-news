@@ -1,5 +1,22 @@
 [
   {
+    "title": "CDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765946",
+    "pubDate": "Wed, 01 Jul 2026 18:30:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "CDC: Early West Nile season brings record cases; protect against mosquito bites this holiday weekend",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTk0Ng==",
+    "summary": "TITLE: CDC、夏の蚊対策を呼びかけ\n- アメリカCDCは、夏の休暇期間中に蚊による感染症から身を守るよう呼びかけています。\n- 特に今年はウェストナイルウイルスの発生が早く、蚊に刺されない対策がとても重要です。\n- 感覚過敏のあるお子さんも、みんなで快適に夏を過ごせるよう、ご家庭で予防策を実践しましょう。",
+    "country": "US",
+    "category": "制度・政策",
+    "reliability": "★★★",
+    "parentMeaning": "子どもの夏の健康を守るために、蚊対策の重要性を再認識できます。",
+    "todayAction": "外出時には虫よけスプレーを活用し、長袖・長ズボンで肌の露出を減らしましょう。",
+    "japanHint": "日本でも夏は蚊による感染症のリスクがあるので、日頃から家族で蚊対策を意識し、安心して夏を過ごしたいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-03T12:06:25.134Z"
+  },
+  {
     "title": "Aberrant multivariate mapping between behavioral profiles and cortical morphological brain networks in children with autism spectrum disorder",
     "link": "https://www.nature.com/articles/s41398-026-04233-w",
     "pubDate": "Thu, 2 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、脳の準備段階に着目した個別の支援や、お子さんのペースを大切にする教育が広がることを期待します。",
     "targetAge": "小学生",
     "fetchedAt": "2026-06-02T13:58:37.420Z"
-  },
-  {
-    "title": "Autism-linked genes expressed in thalamus make an impact, and more",
-    "link": "https://www.thetransmitter.org/spectrum/autism-linked-genes-expressed-in-thalamus-make-an-impact-and-more/",
-    "pubDate": "Tue, 02 Jun 2026 04:00:02 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 1 June.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2F1dGlzbS1saW5rZWQtZ2VuZXMtZXhwcmVzc2VkLWluLXRoYWxhbXVzLW1ha2UtYW4taW1wYWN0LWFuZC1tb3JlLw==",
-    "summary": "TITLE: ASDと脳の遺伝子、視床の影響と新情報\n- ASDと関連するとされる特定の遺伝子が、脳の奥深くにある「視床」という部分で活発に働くことが示されました。\n- これは、ASDの特性がどのように生まれるのか、脳の仕組みを理解する上で大切な手がかりとなる研究です。\n- この他にも、ASDに関する世界中の最新の研究やニュースがまとめて発表された週報の一部です。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "お子さんの特性の科学的背景を理解する手がかりになります。",
-    "todayAction": "脳の成長を信じ、お子さんの小さな成長を日々見つけて伝えてみましょう。",
-    "japanHint": "日本の研究も進み、お子さん一人ひとりに合った支援がさらに充実する未来に期待したいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-06-02T13:58:50.678Z"
   }
 ]
