@@ -1,5 +1,22 @@
 [
   {
+    "title": "Estimation of direct and indirect polygenic effects and gene–environment interactions using polygenic scores in case–parent trio studies",
+    "link": "https://www.nature.com/articles/s41588-026-02601-2",
+    "pubDate": "Tue, 2 Jun 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1ODgtMDI2LTAyNjAxLTI=",
+    "summary": "TITLE: ASDの遺伝と環境、親子の最新研究\n- ASDの特性は、たくさんの遺伝子と育つ環境が複雑に影響し合って現れることが分かってきています。\n- この研究は、お子さんとご両親の遺伝情報を詳しく比べることで、その複雑な関わりを解き明かそうとしています。\n- 将来、一人ひとりの特性に合ったサポートを見つけるための、大切な手がかりになることが期待されています。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの特性が遺伝と環境でどう形作られるか、理解が進む期待。",
+    "todayAction": "お子さんの興味や得意を認め、安心できる環境を整えましょう。",
+    "japanHint": "日本でも遺伝と環境両面から、個々の子どもに合わせた支援が広がり、安心して相談できる場所が増えることを期待します。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-07-06T13:43:05.167Z"
+  },
+  {
     "title": "Microbiota-gut-brain axis in autism spectrum disorder: integrating brain structure, function, and transcriptomics",
     "link": "https://www.nature.com/articles/s41398-026-04158-4",
     "pubDate": "Sun, 5 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、こうした知見が支援に活かされ、お子さん一人ひとりに合ったサポートが広がることに期待します。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-06-09T12:33:47.262Z"
-  },
-  {
-    "title": "If Autism Research Requires Brain Tissue, Why Aren’t People Donating?",
-    "link": "https://autismspectrumnews.org/if-autism-research-requires-brain-tissue-why-arent-people-donating/",
-    "pubDate": "Mon, 08 Jun 2026 15:24:47 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "Brain donation is vital to autism research, yet many people misunderstand the process, eligibility, and impact on future discoveries.\nThe post If Autism Research Requires Brain Tissue, Why Aren’t People Donating? appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2lmLWF1dGlzbS1yZXNlYXJjaC1yZXF1aXJlcy1icmFpbi10aXNzdWUtd2h5LWFyZW50LXBlb3BsZS1kb25hdGluZy8=",
-    "summary": "TITLE: ASD研究の未来へ、脳組織提供の重要性\n- ASDの特性や原因を深く理解するために、脳の組織を使った研究がとても重要だとされています。\n- しかし、脳組織の提供について、やり方や誰が対象になるのか、未来の研究にどう役立つのかが、まだ十分に知られていないのが現状です。\n- 提供への理解が深まれば、ASDのメカニズム解明や、より良い支援方法の開発に繋がり、子どもたちの未来に光を当てることが期待されます。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "将来の支援や療育の発展に繋がる研究の重要性を知れる。",
-    "todayAction": "ASD研究の進捗に関するニュースに注目してみる。",
-    "japanHint": "子どもたちの未来のため、日本でも脳の研究がもっと進むよう、理解が深まるといいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-06-09T12:34:00.630Z"
   }
 ]
