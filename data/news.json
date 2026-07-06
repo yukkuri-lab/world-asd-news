@@ -1,5 +1,22 @@
 [
   {
+    "title": "Multiscale heterogeneity of atypical functional connectivity in autism",
+    "link": "https://www.nature.com/articles/s44220-026-00656-y",
+    "pubDate": "Mon, 1 Jun 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDQyMjAtMDI2LTAwNjU2LXk=",
+    "summary": "TITLE: ASD脳の多様性を紐解く研究\n- ASDのお子さんの脳のつながり方は、一人ひとり異なる複雑な多様性があることが、最新の研究で示されました。\n- この発見は、ASDの特性が非常に多様であり、「こうあるべき」という固定観念ではなく、お子さんの個性として捉える大切さを教えてくれます。\n- お子さんが持つユニークな才能や強みが、脳の複雑なつながり方の中に隠されている可能性を示唆しています。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの個性を理解し、強みを見つけるヒントになります。",
+    "todayAction": "お子さんの「得意なこと」や「興味があること」を具体的にメモしてみましょう。",
+    "japanHint": "日本でも、一人ひとりの脳の多様性を踏まえた、よりパーソナルな教育支援が広がることを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-07-06T23:12:27.591Z"
+  },
+  {
     "title": "Estimation of direct and indirect polygenic effects and gene–environment interactions using polygenic scores in case–parent trio studies",
     "link": "https://www.nature.com/articles/s41588-026-02601-2",
     "pubDate": "Tue, 2 Jun 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、睡眠やてんかん対策の研究が進み、多様な選択肢が生まれることを期待したいですね。日々の困りごとに寄り添う支援が増えるのは嬉しいです。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-06-09T23:19:04.398Z"
-  },
-  {
-    "title": "Key role of interferon 1 in maternal immune activation, and more",
-    "link": "https://www.thetransmitter.org/spectrum/key-role-of-interferon-1-in-maternal-immune-activation-and-more/",
-    "pubDate": "Tue, 09 Jun 2026 04:00:50 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 1 June.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2tleS1yb2xlLW9mLWludGVyZmVyb24tMS1pbi1tYXRlcm5hbC1pbW11bmUtYWN0aXZhdGlvbi1hbmQtbW9yZS8=",
-    "summary": "TITLE: ASDと妊娠期の免疫：最新研究速報\n- 妊娠中の体調と、お子さんのASDとの関連を調べる研究が進んでいます。\n- 特に、免疫の働きに関わる「インターフェロン1」という物質の役割に注目が集まっています。\n- これらの研究は、ASDのより深い理解や、将来の新しい支援方法につながる可能性があります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "将来の予防や個別支援への期待が高まる研究の進展です。",
-    "todayAction": "お子さんの個性を受け止め、日々の成長を喜びましょう。",
-    "japanHint": "日本でも、こうした知見が支援に活かされ、お子さん一人ひとりに合ったサポートが広がることに期待します。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-06-09T12:33:47.262Z"
   }
 ]
