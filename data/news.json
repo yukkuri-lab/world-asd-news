@@ -1,5 +1,22 @@
 [
   {
+    "title": "A consensus on the definition of profound autism, and more",
+    "link": "https://www.thetransmitter.org/spectrum/a-consensus-on-the-definition-of-profound-autism-and-more/",
+    "pubDate": "Tue, 07 Jul 2026 04:00:49 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 5 July.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2EtY29uc2Vuc3VzLW9uLXRoZS1kZWZpbml0aW9uLW9mLXByb2ZvdW5kLWF1dGlzbS1hbmQtbW9yZS8=",
+    "summary": "TITLE: 重度ASD定義に合意、最新研究まとめ\n- 重度の自閉スペクトラム症（ASD）に関する、専門家間の新たな定義の合意が進められています。\n- お子さん一人ひとりの特性に合わせた、より適切な支援や教育につながることが期待されています。\n- 自閉症に関する最新の研究やニュースが毎週まとめられており、今後の進展が注目されます。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの特性に合った支援が、より明確になる一歩です。",
+    "todayAction": "お子さんの日々の困り事や得意なことをメモに書き出してみましょう。",
+    "japanHint": "日本でも、個別の特性に応じた支援の基準がより明確になると、親御さんも安心ですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-07-07T12:24:49.723Z"
+  },
+  {
     "title": "Multiscale heterogeneity of atypical functional connectivity in autism",
     "link": "https://www.nature.com/articles/s44220-026-00656-y",
     "pubDate": "Mon, 1 Jun 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、この研究が子どもの脳の多様な発達を理解する一助となるよう期待しています。",
     "targetAge": "共通",
     "fetchedAt": "2026-06-10T23:39:06.332Z"
-  },
-  {
-    "title": "Cannabidiol corrects sleep deficits and reduces spontaneous seizures in Angelman syndrome model mice",
-    "link": "https://www.nature.com/articles/s41386-026-02462-7",
-    "pubDate": "Tue, 9 Jun 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODYtMDI2LTAyNDYyLTc=",
-    "summary": "TITLE: CBDが発達障害の睡眠・てんかん治療に光\n- カンナビジオール（CBD）という成分が、エンジェルマン症候群を持つモデルマウスの睡眠の質を高め、てんかん発作を減らす可能性が示されました。\n- この研究は、てんかんや睡眠の困りごとを抱える発達障害のお子さんにとって、将来的な新しい治療法につながるかもしれません。\n- まだマウスでの研究段階ですが、お子さんの困りごとに寄り添い、希望を持てるような選択肢がこれから増えていくことを示唆しています。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "てんかんや睡眠課題を持つお子さんの未来に希望をもたらす研究です。",
-    "todayAction": "お子さんの睡眠について日頃の様子を記録し、担当医に相談しましょう。",
-    "japanHint": "日本でも、睡眠やてんかん対策の研究が進み、多様な選択肢が生まれることを期待したいですね。日々の困りごとに寄り添う支援が増えるのは嬉しいです。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-06-09T23:19:04.398Z"
   }
 ]
