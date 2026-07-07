@@ -1,5 +1,22 @@
 [
   {
+    "title": "Cannabidiol corrects sleep deficits and reduces spontaneous seizures in Angelman syndrome model mice",
+    "link": "https://www.nature.com/articles/s41386-026-02462-7",
+    "pubDate": "Tue, 9 Jun 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODYtMDI2LTAyNDYyLTc=",
+    "summary": "TITLE: CBD、睡眠とてんかん症状が改善\n- CBD（カンナビジオール）という成分が、睡眠の課題やてんかん発作の改善に役立つ可能性が報告されました。\n- 今回の研究では、てんかん症状を持つアンジェルマン症候群のマウスモデルで、CBDが睡眠不足を改善し、発作を減らす効果が見られました。\n- この研究はまだ動物実験の段階ですが、将来的に子どもの睡眠やてんかんの悩みを和らげる手がかりになることが期待されます。\n- すぐに人間に適用できるわけではありませんが、将来的にてんかんや睡眠の悩みを抱える子どもたちの新しい選択肢につながるかもしれません。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "子どもの睡眠問題やてんかん対策に期待。",
+    "todayAction": "子どもの睡眠やてんかんの悩みはかかりつけ医に相談する。",
+    "japanHint": "日本でも、睡眠やてんかんで悩む子どものために、安全な選択肢が増えるよう研究が進むといいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-07T23:06:24.759Z"
+  },
+  {
     "title": "A consensus on the definition of profound autism, and more",
     "link": "https://www.thetransmitter.org/spectrum/a-consensus-on-the-definition-of-profound-autism-and-more/",
     "pubDate": "Tue, 07 Jul 2026 04:00:49 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "体の特徴からお子さんの発達特性を深く理解し、より良い支援に繋がる可能性を感じます。",
     "targetAge": "小学生",
     "fetchedAt": "2026-06-10T23:38:54.085Z"
-  },
-  {
-    "title": "GluD1 is localized at cholinergic synapses and is an acetylcholine receptor",
-    "link": "https://www.nature.com/articles/s41380-026-03675-4",
-    "pubDate": "Wed, 10 Jun 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNjc1LTQ=",
-    "summary": "TITLE: 脳の神経伝達に関する新発見\n- 脳の神経細胞の働きに欠かせない、大切なタンパク質の新しい役割が見つかりました。\n- この発見は、脳の中の複雑な情報伝達システムがどのように動いているかの理解を深める一歩です。\n- 将来的には、お子さんの発達に関する脳の多様なメカニズムを解明する手助けになるかもしれません。\n- この研究は、ASDの特性理解や、未来の支援につながる基礎となる可能性を秘めています。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDの脳の仕組み解明に繋がり、将来の支援に希望を持てる発見です。",
-    "todayAction": "お子さんの興味や得意なことを見つけて、一緒に深掘りしてみましょう。",
-    "japanHint": "日本でも、この研究が子どもの脳の多様な発達を理解する一助となるよう期待しています。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-06-10T23:39:06.332Z"
   }
 ]
