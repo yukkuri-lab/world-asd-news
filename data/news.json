@@ -1,5 +1,22 @@
 [
   {
+    "title": "Beyond bendy joints: number of variant connective tissue features predicts neurodivergent characteristics in hypermobile individuals with anxiety",
+    "link": "https://www.nature.com/articles/s44184-026-00214-5",
+    "pubDate": "Wed, 10 Jun 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDQxODQtMDI2LTAwMjE0LTU=",
+    "summary": "TITLE: 体の柔軟性と発達特性、不安の関係性\n- この研究は、関節がとても柔らかいお子さん（過可動性）が不安を感じやすい場合、体の様々な特徴が多いほど、発達上の特性（神経多様性）を持つ可能性と関連していることを見出したものです。\n- お子さんの体の柔軟性や特定の特徴が、発達上の特性や感じている不安と無関係ではないかもしれない、という新しい視点を示しています。\n- 身体の特徴と行動や感情の関連性を理解することは、お子さん一人ひとりに合った、よりきめ細やかなサポートを考えるヒントになるでしょう。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの体の特徴と発達、不安の関連性を知る手がかりになる。",
+    "todayAction": "お子さんの体の柔軟性や気になる点があれば、かかりつけ医に相談してみましょう。",
+    "japanHint": "日本でも、お子さんの体の特徴と発達特性、不安の関連性に着目した研究や支援が進むと嬉しいです。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-08T23:12:14.573Z"
+  },
+  {
     "title": "Diverse autism genes derail common developmental pathways",
     "link": "https://www.thetransmitter.org/spectrum/diverse-autism-genes-derail-common-developmental-pathways/",
     "pubDate": "Wed, 08 Jul 2026 04:00:53 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、個々の特性に応じた多様な進路選択と、その後の継続的な支援がもっと当たり前になると嬉しいですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-06-11T13:56:03.973Z"
-  },
-  {
-    "title": "Noncoding RNA sways core autism traits in mice",
-    "link": "https://www.thetransmitter.org/spectrum/noncoding-rna-sways-core-autism-traits-in-mice/",
-    "pubDate": "Thu, 11 Jun 2026 04:00:05 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Small deletions in an X-linked RNA alter social and repetitive behaviors in male mice without broadly affecting learning or memory.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL25vbmNvZGluZy1ybmEtc3dheXMtY29yZS1hdXRpc20tdHJhaXRzLWluLW1pY2Uv",
-    "summary": "TITLE: ASDの行動特性に関連する遺伝子研究\n- マウスの研究ですが、ASDのお子さんに見られる社会性や繰り返しの行動に関わる可能性のある遺伝子が見つかりました。\n- X染色体にあるこの遺伝子のほんの小さな違いが、マウスの行動の傾向に影響することが分かったそうです。\n- この遺伝子は、学習や記憶とは別の部分でASDの特性に関わっている可能性があり、ASDの多様な姿を理解するヒントになります。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "ASDの特性がどこから来るのか、遺伝子レベルでの理解が進む一歩です。",
-    "todayAction": "お子さんの個性や行動の背景を深く知り、その子に合った理解や関わり方を見つけましょう。",
-    "japanHint": "この遺伝子研究が日本でも進み、個々の特性に合った支援や理解が深まる未来に繋がってほしいです。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-06-11T13:56:20.052Z"
   }
 ]
