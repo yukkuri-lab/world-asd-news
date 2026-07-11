@@ -1,5 +1,22 @@
 [
   {
+    "title": "From heterogeneity to translation: data‑driven subtyping of autism in a multilevel framework",
+    "link": "https://www.nature.com/articles/s41398-026-04243-8",
+    "pubDate": "Sat, 11 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MjQzLTg=",
+    "summary": "TITLE: ASD個別化支援へ！科学的タイプ分け研究最前線\n- ASDの子どもたちの個性はそれぞれ異なり、一括りにはできないことが科学的に解明されつつあります。\n- この研究は、データに基づいた新しい分類法で、一人ひとりの特性に合わせた支援を見つける可能性を探っています。\n- 将来的には、お子さんに最も合った教育や療育を、より正確に選択できるようになるかもしれません。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さん一人ひとりに最適な支援が見つかる希望です。",
+    "todayAction": "お子さんの得意なことや苦手なことを改めて観察し記録してみましょう。",
+    "japanHint": "日本でも個別の特性に合わせた支援がさらに広がる未来に期待が膨らみます。親として、より良い支援を求めて声を上げていきましょう！",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-07-11T11:00:20.999Z"
+  },
+  {
     "title": "ASN Summer 2026 Issue",
     "link": "https://autismspectrumnews.org/asn-summer-2026-issue/",
     "pubDate": "Fri, 10 Jul 2026 13:44:34 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、子どもの行動相談時に口腔ケアの視点も加わるようになると、さらに支援が広がりそうですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-06-18T23:48:12.397Z"
-  },
-  {
-    "title": "When autistic kids grow up, Chapter 3: Would there be data?",
-    "link": "https://www.thetransmitter.org/when-autistic-kids-grow-up/chapter-3-would-there-be-data/",
-    "pubDate": "Thu, 18 Jun 2026 04:00:44 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Tempest McDonald takes a postdoctoral position at Vanderbilt University. Researching her paper accusing the National Institutes of Health of discrimination threatens everything she has built.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3doZW4tYXV0aXN0aWMta2lkcy1ncm93LXVwL2NoYXB0ZXItMy13b3VsZC10aGVyZS1iZS1kYXRhLw==",
-    "summary": "TITLE: ASD当事者の希望を拓く研究。\n- ASDの当事者である方が、大学で研究者として活躍しているという心温まるニュースです。\n- 彼女は、自閉症の人々が社会で経験する差別について、勇気を持って研究を進めているとのことです。\n- この取り組みは、ASDのある子どもたちが将来社会で活躍する可能性を広げ、より良い共生社会を築くための希望の光となるでしょう。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "お子様が社会で活躍する未来への希望を感じられます。",
-    "todayAction": "お子様の興味や得意なことを一緒に見つける時間を作りましょう。",
-    "japanHint": "日本でもASD当事者の声が届き、誰もが活躍できる社会への取り組みがもっと進むと良いですね。",
-    "targetAge": "青年期・大人",
-    "fetchedAt": "2026-06-18T23:48:28.248Z"
   }
 ]
