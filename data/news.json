@@ -1,5 +1,22 @@
 [
   {
+    "title": "Genomic landscape of rare variants in a Chinese autism cohort and discovery of novel risk genes",
+    "link": "https://www.nature.com/articles/s41380-026-03754-6",
+    "pubDate": "Thu, 16 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNzU0LTY=",
+    "summary": "TITLE: 自閉スペクトラム症の遺伝子研究進展\n- 自閉スペクトラム症（ASD）のお子さんの特性は、遺伝子が関係している場合があるという研究です。\n- 今回の研究で、新たにいくつかの遺伝子がASDと関連している可能性が見つかりました。\n- これらの研究は、お子さん一人ひとりに合ったサポートを考えていくための大切な一歩となります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの個性を理解する新たな視点と希望につながります。",
+    "todayAction": "お子さんの「好き」や得意なことを一つ見つけて共有しましょう。",
+    "japanHint": "日本でも、遺伝子研究を通じてASDの子どもたちの未来が明るくなるような、個別支援の進展に期待が膨らみます。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-16T23:00:10.521Z"
+  },
+  {
     "title": "Clinical and molecular expansion of SSR4-CDG: an adult patient and pathogenic interpretation of an in-frame variant",
     "link": "https://www.nature.com/articles/s10038-026-01493-8",
     "pubDate": "Thu, 16 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "生まれた時からの腸内環境ケアが、子どもの可能性を広げる未来を期待。",
     "targetAge": "乳幼児",
     "fetchedAt": "2026-07-05T11:28:42.505Z"
-  },
-  {
-    "title": "Your brain starts making social decisions before you do",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
-    "pubDate": "Tue, 02 Jun 2026 04:54:02 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA2LzI2MDYwMjAyMTYyOS5odG0=",
-    "summary": "TITLE: 社会性、脳が事前に準備！最新研究\n- 人と関わるための動きは、体が動くよりも先に脳の中で静かに準備されていることが、最新の研究で分かりました。\n- ゼブラフィッシュの研究では、他の魚に近づく数秒前から脳全体で連携した活動が見られ、この「脳の準備」が社会性に関わると言います。\n- 脳の特定の場所が重要な役割を果たしており、活発な神経活動を持つ魚はより社交的である傾向が見られ、社会性の不思議がまた一つ解き明かされそうです。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "子どもの社会性には、脳の「準備」がある理解に繋がります。",
-    "todayAction": "新しい人や場所で、子どもがゆっくり観察する時間を見守る。",
-    "japanHint": "脳の特性に合わせた、その子らしい社会性の育みを応援する教育が日本でも広まってほしい。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-07-04T23:01:27.675Z"
   }
 ]
