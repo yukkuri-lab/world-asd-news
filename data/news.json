@@ -1,5 +1,22 @@
 [
   {
+    "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766009",
+    "pubDate": "Wed, 15 Jul 2026 21:02:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "CDC reports fewer hospital-acquired infections in 2023, highlighting improved patient safety.",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjAwOQ==",
+    "summary": "TITLE: 病院での感染症減少は親子の安心に\n- アメリカ疾病対策センター（CDC）の報告によると、2023年には病院内でかかる感染症が減少しました。\n- これは、医療機関が感染予防対策に力を入れ、子どもたちを含む患者さんの安全性が向上したことを示しています。\n- 感覚過敏などで病院が苦手なお子さんを持つ保護者にとって、感染リスクの低減は受診への安心材料となるでしょう。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんが安心して病院に行けるようになる、明るい兆しです。",
+    "todayAction": "お子さんの受診時、病院の感染対策について尋ねてみましょう。",
+    "japanHint": "日本の病院でも、子どもたちが安心して過ごせる感染対策や環境整備が進むことを期待します。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-19T22:57:16.826Z"
+  },
+  {
     "title": "Rannasangpei and its constituent crocin-1 ameliorate valproic acid–induced autism-like behaviors accompanied by reduced oxidative stress and neuroinflammation",
     "link": "https://www.nature.com/articles/s41398-026-04283-0",
     "pubDate": "Sat, 18 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でもこのような研究が進み、お子さん一人ひとりに合った支援に繋がる日が来ることを期待したいですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-07-05T23:05:57.106Z"
-  },
-  {
-    "title": "Brain scans reveal two distinct types of autism",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
-    "pubDate": "Wed, 03 Jun 2026 00:46:00 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "Scientists have uncovered evidence that autism may include at least two biologically distinct subtypes, each marked by a different pattern of brain communication. By combining brain scans from nearly 1,000 people with autism with insights from 20 genetically engineered mouse models, researchers identified a “hyperconnectivity” subtype, where brain regions communicate more than usual, and a “hypoconnectivity” subtype, where communication is reduced.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA2LzI2MDYwMjAyMTYzNC5odG0=",
-    "summary": "TITLE: ASD、脳のつながりに2つのタイプを発見\n- 自閉スペクトラム症のお子さんの脳には、異なる特徴を持つ２つのタイプがある可能性が最新の研究で示されました。\n- 一つは脳の情報のやり取りが活発すぎる「過剰連結タイプ」、もう一つはやり取りが控えめな「低連結タイプ」です。\n- この発見は、お子さんの特性に合わせたより個別化された支援につながる希望となります。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "お子さん一人ひとりの特性に合わせた支援への期待が高まります。",
-    "todayAction": "お子さんの日々の行動を観察し、どんな時に困っているか記録してみましょう。",
-    "japanHint": "日本でもお子さんの脳タイプに合わせた個別支援が導入される未来を願っています。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-05T11:28:28.003Z"
   }
 ]
