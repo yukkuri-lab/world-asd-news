@@ -1,5 +1,22 @@
 [
   {
+    "title": "Statement on CDC Public Health Readiness & Response for the FIFA World Cup 2026(TM)",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766045",
+    "pubDate": "Sun, 19 Jul 2026 22:30:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "The FIFA World Cup 2026(TM)  brought 48 teams and millions of fans to 16 North American cities.",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjA0NQ==",
+    "summary": "TITLE: ワールドカップ安全対策と子どもの安心\n- 世界的な大規模イベントに向けて、CDCが多くの人の安全と健康を守る準備をしていることが分かりました。\n- 大勢の人が集まる場所でも、ASDの子どもたちが安心して楽しめるような配慮の重要性が感じられます。\n- イベントを安心して楽しむための情報提供や、具体的な工夫の広がりに期待が持てます。",
+    "country": "US",
+    "category": "制度・政策",
+    "reliability": "★★★",
+    "parentMeaning": "子どもが安全に社会参加できる未来への期待と、そのための準備のヒントになります。",
+    "todayAction": "将来参加したいイベントを想像し、家族で安心して楽しむためのアイデアを話し合いましょう。",
+    "japanHint": "日本でも、大きなイベントの際にASDの子どもたちが心地よく過ごせるための工夫や情報提供が進むと嬉しいです。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-20T12:13:55.753Z"
+  },
+  {
     "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766009",
     "pubDate": "Wed, 15 Jul 2026 21:02:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "腸の健康から子どもの発達を支える研究が日本でも進み、支援につながると良いですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-05T23:04:54.225Z"
-  },
-  {
-    "title": "Efficacy of pharmacological and microbiota-based therapies in preclinical models of autism spectrum disorder: a systematic review",
-    "link": "https://www.nature.com/articles/s41380-026-03663-8",
-    "pubDate": "Thu, 4 Jun 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNjYzLTg=",
-    "summary": "TITLE: ASDと薬・腸内細菌療法の研究レビュー\n- 自閉スペクトラム症（ASD）の特性改善に、薬や腸内細菌のバランスを整えるアプローチの可能性をまとめた研究です。\n- まだ動物実験などの初期段階ですが、将来、お子さんのための新しい支援方法が生まれる期待が持たれています。\n- 腸内環境と脳の働きには深い関係があると言われており、この分野の今後の研究進展に注目が集まっています。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの将来の支援選択肢に、希望が持てる可能性を示す情報です。",
-    "todayAction": "ヨーグルトや納豆など、腸に良い食品を食卓に取り入れてみましょう。",
-    "japanHint": "日本でもこのような研究が進み、お子さん一人ひとりに合った支援に繋がる日が来ることを期待したいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-05T23:05:57.106Z"
   }
 ]
