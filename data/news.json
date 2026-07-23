@@ -1,5 +1,22 @@
 [
   {
+    "title": "Study questions DSM-5’s combining of autism traits",
+    "link": "https://www.thetransmitter.org/spectrum/study-questions-dsm-5s-combining-of-autism-traits/",
+    "pubDate": "Thu, 23 Jul 2026 04:00:52 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Sensory traits and restricted and repetitive behaviors are best understood as distinct but related characteristics, the new work suggests.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3N0dWR5LXF1ZXN0aW9ucy1kc20tNXMtY29tYmluaW5nLW9mLWF1dGlzbS10cmFpdHMv",
+    "summary": "TITLE: 「ASD特性」理解が深まる新たな視点\n- ASDのお子さんの「感覚特性」と「こだわり行動」は、別々のものとして捉えると良い、という研究が発表されました。\n- これまでは一括りにされることが多かったこれらの特性も、それぞれを分けて理解することで、お子さんへのサポートのヒントになります。\n- ただし、これらは全く無関係ではなく、お互いに影響し合っている可能性も示されており、両方の視点から見守ることが大切です。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの感覚と行動、それぞれへの具体的な支援が見つけやすくなります。",
+    "todayAction": "お子さんの「感覚」と「こだわり」を分けて観察し、記録してみましょう。",
+    "japanHint": "日本でも、お子さんの特性をより細分化して捉え、個別の支援に役立てる動きが広がると嬉しいです。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-07-23T22:59:14.157Z"
+  },
+  {
     "title": "Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model",
     "link": "https://www.nature.com/articles/s41467-026-74958-1",
     "pubDate": "Thu, 23 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも早期診断だけでなく、大人になってからの自己理解支援がもっと増えると良いですね。親も子どもの特性理解を深めるきっかけに。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-07-09T23:15:09.924Z"
-  },
-  {
-    "title": "Building Functional Communication: Empowering Families Through Evidence-Based Caregiver Intervention",
-    "link": "https://autismspectrumnews.org/building-functional-communication-empowering-families-through-evidence-based-caregiver-intervention/",
-    "pubDate": "Thu, 09 Jul 2026 18:27:49 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "Learn how caregiver training and AAC tools help nonspeaking autistic children build communication and self-advocacy skills.\nThe post Building Functional Communication: Empowering Families Through Evidence-Based Caregiver Intervention appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2J1aWxkaW5nLWZ1bmN0aW9uYWwtY29tbXVuaWNhdGlvbi1lbXBvd2VyaW5nLWZhbWlsaWVzLXRocm91Z2gtZXZpZGVuY2UtYmFzZWQtY2FyZWdpdmVyLWludGVydmVudGlvbi8=",
-    "summary": "TITLE: 非発語の子のコミュニケーションを育む\n- 保護者向けのトレーニングを受けることで、発語のないお子さんのコミュニケーション能力を育むことができます。\n- AAC（代替・補助コミュニケーション）ツールは、お子さんが自分の意思や考えを伝える強力な手段になります。\n- お子さんがコミュニケーションスキルを身につけることは、自己主張の力を高め、自信に繋がります。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★",
-    "parentMeaning": "発語がなくても、お子さんとのコミュニケーションは必ず築けます。",
-    "todayAction": "お子さんが「伝えたい」と示している小さなサインを見逃さずに応答してみましょう。",
-    "japanHint": "日本でも、保護者が学べるコミュニケーション支援プログラムがもっと身近になるといいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-09T23:15:23.379Z"
   }
 ]
