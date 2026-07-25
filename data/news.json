@@ -1,5 +1,22 @@
 [
   {
+    "title": "Multi-omic data integration improves the resolution of the molecular etiology of autism in a mouse model",
+    "link": "https://www.nature.com/articles/s41380-026-03772-4",
+    "pubDate": "Sat, 25 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNzcyLTQ=",
+    "summary": "TITLE: ASDの根本解明、未来への光\n- マウスを使った最新の研究で、ASD（自閉スペクトラム症）がなぜ起こるのか、その根本的な原因を細胞や遺伝子のレベルで、これまで以上に詳しく調べることができました。\n- 複数の遺伝子や体の仕組みの情報を統合して分析する新しい方法によって、ASDの複雑なメカニズムをより深く、はっきりと理解する道が開かれました。\n- この研究はまだマウスでの段階ですが、将来、お子さん一人ひとりに合わせた、より効果的な診断法や、きめ細やかなサポート方法を開発するための大きな希望につながるものです。",
+    "country": "UK",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの根本理解が進み、個別化された支援や治療への期待が高まります。",
+    "todayAction": "今日の研究成果に希望を感じ、お子さんとの日々の関わりを大切にしましょう。",
+    "japanHint": "日本でも、国際的な基礎研究の成果を早く現場に還元し、未来の支援に活かせるよう期待したいですね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-07-25T11:06:20.213Z"
+  },
+  {
     "title": "Shredded iceberg lettuce served at Taco Bell locations is source of cyclosporiasis infections in five states",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766028",
     "pubDate": "Fri, 17 Jul 2026 08:00:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、お子さん本人の気持ちや親御さんの経験が、科学的な支援と同じくらい尊重される日が来ることを願います。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-10T12:23:40.183Z"
-  },
-  {
-    "title": "A 30-Year Journey From Skepticism to Acceptance: Reconsidering the Authenticity of Assisted Communication of Nonspeakers",
-    "link": "https://autismspectrumnews.org/a-30-year-journey-from-skepticism-to-acceptance-reconsidering-the-authenticity-of-assisted-communication-of-nonspeakers/",
-    "pubDate": "Thu, 09 Jul 2026 18:28:09 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "Autism expert Barry Prizant explores assisted communication, challenging assumptions about nonspeakers and the path to authentic expression.\nThe post A 30-Year Journey From Skepticism to Acceptance: Reconsidering the Authenticity of Assisted Communication of Nonspeakers appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2EtMzAteWVhci1qb3VybmV5LWZyb20tc2tlcHRpY2lzbS10by1hY2NlcHRhbmNlLXJlY29uc2lkZXJpbmctdGhlLWF1dGhlbnRpY2l0eS1vZi1hc3Npc3RlZC1jb21tdW5pY2F0aW9uLW9mLW5vbnNwZWFrZXJzLw==",
-    "summary": "TITLE: 言葉のない子の声、信じる道筋\n- 専門家が、言葉で表現しにくいお子さんの「補助付きコミュニケーション」の真実性を30年かけ再検討したニュースです。\n- これまで懐疑的な見方もあった中、お子さんの意思を尊重し、その表現を受け入れることの重要性が改めて強調されています。\n- 言葉がなくても、お子さんが豊かな心を持ち、伝えたい思いがあることを信じる大切さを伝えています。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "言葉が出にくい子どもの気持ちを信じ、理解するヒントになります。",
-    "todayAction": "お子さんの言葉以外の表現に、今日一つだけ丁寧に耳を傾けてみましょう。",
-    "japanHint": "日本でも、言葉が出にくい子の豊かな心を信じ、多様な表現を温かく受け入れる社会がもっと広がることを願います。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-07-09T23:14:58.075Z"
   }
 ]
