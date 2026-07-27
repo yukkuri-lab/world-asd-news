@@ -1,5 +1,22 @@
 [
   {
+    "title": "The sodium channel SCN2A regulates cortical excitatory and inhibitory neurogenesis",
+    "link": "https://www.nature.com/articles/s41467-026-75751-w",
+    "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDI2LTc1NzUxLXc=",
+    "summary": "TITLE: ASDと脳神経の発達研究、新たな一歩\n- この研究は、自閉スペクトラム症（ASD）と関係の深い脳の遺伝子が、神経細胞の誕生や脳のつながり方に深く関わっていることを示しています。\n- 脳の中では、情報を進める役割と落ち着かせる役割の神経がバランス良く働くことが重要で、この研究はそのバランスがどう作られるのかを探っています。\n- 将来的には、ASDのあるお子さんの脳の特性をさらに理解し、一人ひとりに合わせた具体的な支援や新たな治療法につながる可能性を秘めています。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの脳の特性理解と、未来の支援につながる研究です。",
+    "todayAction": "お子さんの興味や得意なことを見つけ、一緒に楽しむ時間を作りましょう。",
+    "japanHint": "基礎研究の成果が、日本の教育現場や支援に生かされることを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-07-27T23:05:56.465Z"
+  },
+  {
     "title": "Autism with social anxiety is associated with acquiescent behaviors and enlarged amygdala volume",
     "link": "https://www.nature.com/articles/s41398-026-04179-z",
     "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "血液検査で子どもの特性がもっとわかるようになれば、日本でも個別の支援選びに役立つと嬉しいですね。",
     "targetAge": "共通",
     "fetchedAt": "2026-07-10T12:22:41.250Z"
-  },
-  {
-    "title": "Studying Understanding Without Speech: Neuroimaging Minimally Speaking Autistic Individuals",
-    "link": "https://autismspectrumnews.org/studying-understanding-without-speech-neuroimaging-minimally-speaking-autistic-individuals/",
-    "pubDate": "Thu, 09 Jul 2026 18:27:18 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "New brain imaging research challenges assumptions about minimally speaking autism and reveals hidden language understanding.\nThe post Studying Understanding Without Speech: Neuroimaging Minimally Speaking Autistic Individuals appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL3N0dWR5aW5nLXVuZGVyc3RhbmRpbmctd2l0aG91dC1zcGVlY2gtbmV1cm9pbWFnaW5nLW1pbmltYWxseS1zcGVha2luZy1hdXRpc3RpYy1pbmRpdmlkdWFscy8=",
-    "summary": "TITLE: 話せない子も理解してる？脳研究の新発見\n- 話すことが少ない、あるいは全く話さないASDのお子さんも、脳の働きで言葉を理解している可能性が明らかになりました。\n- これまでの「話せないから理解も難しい」という思い込みが、科学的に見直されるきっかけになる発見です。\n- お子さんの隠れた能力を信じ、多様なコミュニケーション方法を試すことの大切さが改めて示されました。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "お子さんの隠れた力を信じるきっかけになります。",
-    "todayAction": "お子さんの小さなサインに丁寧に耳を傾けてみましょう。",
-    "japanHint": "日本でも、話せないお子さんの可能性を引き出す研究や支援がもっと広がり、パパ・ママの希望が増えるといいですね。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-10T12:22:52.500Z"
   }
 ]
