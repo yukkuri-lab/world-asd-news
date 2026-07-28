@@ -1,5 +1,22 @@
 [
   {
+    "title": "Federal advisory panel extends comment period, and more",
+    "link": "https://www.thetransmitter.org/spectrum/federal-advisory-panel-extends-comment-period-and-more/",
+    "pubDate": "Tue, 28 Jul 2026 04:00:38 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 27 July.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2ZlZGVyYWwtYWR2aXNvcnktcGFuZWwtZXh0ZW5kcy1jb21tZW50LXBlcmlvZC1hbmQtbW9yZS8=",
+    "summary": "TITLE: ASD支援の最新動向と研究速報\n- ASDの子どもたちを支える国の政策の動きが報じられました。\n- 自閉スペクトラム症に関する最新の研究成果も紹介されています。\n- お子さんの未来を考えるヒントになる多様な情報が満載です。",
+    "country": "US",
+    "category": "制度・政策",
+    "reliability": "★★",
+    "parentMeaning": "お子さんへの支援の未来を考え、今日の子育てに役立つヒントを見つけられます。",
+    "todayAction": "国や専門機関が発信するASD関連の最新情報を確認してみましょう。",
+    "japanHint": "海外の動向を参考に、日本でも保護者の声が政策に届く機会が増えるといいですね。一緒に未来を考えましょう。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-07-28T11:53:58.829Z"
+  },
+  {
     "title": "The sodium channel SCN2A regulates cortical excitatory and inhibitory neurogenesis",
     "link": "https://www.nature.com/articles/s41467-026-75751-w",
     "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、言葉以外のコミュニケーション支援がもっと当たり前になることを願います。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-10T23:01:21.498Z"
-  },
-  {
-    "title": "Circulating neuronal proteins are elevated in severe autism and associated with patient-specific neuronal dysfunction and behavioral deficits",
-    "link": "https://www.nature.com/articles/s41398-026-04261-6",
-    "pubDate": "Fri, 10 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MjYxLTY=",
-    "summary": "TITLE: 重度ASDと血液中タンパク質の関連研究\n- 重度のASDのお子さんでは、血液中に特定の神経に関わるタンパク質が多く見つかることが、新しい研究でわかりました。\n- このタンパク質の変化は、お子さん一人ひとりの神経の働き方や、日常生活での行動の困りごとと関連している可能性があります。\n- 将来的に、個々のお子さんに合わせたよりきめ細やかなサポートや、状態を深く理解するための新しい手がかりになることが期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの特性理解と個別支援の可能性を広げる研究。",
-    "todayAction": "子どもの困り事だけでなく、得意なことや良い点も具体的に褒めてみましょう。",
-    "japanHint": "血液検査で子どもの特性がもっとわかるようになれば、日本でも個別の支援選びに役立つと嬉しいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-07-10T12:22:41.250Z"
   }
 ]
