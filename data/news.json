@@ -1,5 +1,22 @@
 [
   {
+    "title": "Circulating neuronal proteins are elevated in severe autism and associated with patient-specific neuronal dysfunction and behavioral deficits",
+    "link": "https://www.nature.com/articles/s41398-026-04261-6",
+    "pubDate": "Fri, 10 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MjYxLTY=",
+    "summary": "TITLE: 重度ASDと神経タンパク質の新発見\n- 重度のASDのお子さんで、血液中に特定の神経タンパク質が増えていることが、最新の研究で分かりました。\n- このタンパク質は、お子さん一人ひとりの神経の働きや行動の困難と深く関連があることが示されています。\n- 将来的に、血液検査によってお子さんに合わせた個別支援を見つけたり、診断の手助けになる可能性があり、大きな期待が寄せられています。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの個別化支援や早期発見の可能性を示す研究。",
+    "todayAction": "お子さんの個性や特性を改めて観察してみましょう。",
+    "japanHint": "日本でも、血液検査を通じてお子さん一人ひとりに最適な支援が受けられる未来に期待が膨らみますね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-07-28T23:03:51.654Z"
+  },
+  {
     "title": "Federal advisory panel extends comment period, and more",
     "link": "https://www.thetransmitter.org/spectrum/federal-advisory-panel-extends-comment-period-and-more/",
     "pubDate": "Tue, 28 Jul 2026 04:00:38 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも個別の特性に合わせた支援がさらに広がる未来に期待が膨らみます。親として、より良い支援を求めて声を上げていきましょう！",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-07-11T11:00:20.999Z"
-  },
-  {
-    "title": "ASN Summer 2026 Issue",
-    "link": "https://autismspectrumnews.org/asn-summer-2026-issue/",
-    "pubDate": "Fri, 10 Jul 2026 13:44:34 +0000",
-    "source": "Autism Spectrum News",
-    "contentSnippet": "“Giving Voice to Nonspeakers: Communication, Advocacy, and Inclusion Across Life”\nThe post ASN Summer 2026 Issue appeared first on Autism Spectrum News.",
-    "id": "aHR0cHM6Ly9hdXRpc21zcGVjdHJ1bW5ld3Mub3JnL2Fzbi1zdW1tZXItMjAyNi1pc3N1ZS8=",
-    "summary": "TITLE: 話せない子どもの声、届けよう\n- 言葉がなくても、子どもが気持ちを伝えられる多様なコミュニケーション方法を支援する大切さが強調されています。\n- 子ども自身の意思や声を社会が尊重し、その子が自分らしくいられる環境を整えることの重要性が示唆されています。\n- 乳幼児期から大人になるまで、生涯にわたって途切れることのないサポートを通じて社会参加を促す視点が提案されています。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★",
-    "parentMeaning": "話せないわが子の『声』を見つけるヒントになります。",
-    "todayAction": "子どもの伝えたいサインを、改めて注意深く観察してみましょう。",
-    "japanHint": "日本でも、言葉以外のコミュニケーション支援がもっと当たり前になることを願います。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-07-10T23:01:21.498Z"
   }
 ]
