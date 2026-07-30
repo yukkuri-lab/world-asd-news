@@ -1,5 +1,22 @@
 [
   {
+    "title": "Cortical territories compete in developmental space race",
+    "link": "https://www.thetransmitter.org/spectrum/cortical-territories-compete-in-developmental-space-race/",
+    "pubDate": "Thu, 30 Jul 2026 04:00:32 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Sensory and association regions are established through a reciprocal process, according to a new model of cortical development.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2NvcnRpY2FsLXRlcnJpdG9yaWVzLWNvbXBldGUtaW4tZGV2ZWxvcG1lbnRhbC1zcGFjZS1yYWNlLw==",
+    "summary": "TITLE: 脳の発達：感覚と連合理論の新モデル\n- 脳の感覚や思考を司る部分が、成長の過程で互いに協力し合って作られるという新しい考え方が発表されました。\n- この研究は、脳の異なる領域がどのように発達し、それぞれが大切な役割を果たすかを深く理解するための一歩となります。\n- 将来的には、発達に特性のあるお子さんの脳がどのように機能しているか、より詳しく知る手がかりになるかもしれません。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの脳の成長の仕組みを理解する、未来への第一歩です。",
+    "todayAction": "お子さんの好奇心を刺激する遊びを、ぜひ一緒に見つけてみてください。",
+    "japanHint": "日本でもこのような基礎研究が進み、一人ひとりに合ったより良い支援につながる日が楽しみですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-07-30T11:48:47.522Z"
+  },
+  {
     "title": "Circulating neuronal proteins are elevated in severe autism and associated with patient-specific neuronal dysfunction and behavioral deficits",
     "link": "https://www.nature.com/articles/s41398-026-04261-6",
     "pubDate": "Fri, 10 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、障がいを持つ方が研究や社会変革のリーダーになれるよう、支援が広がることを期待したいですね。未来を信じましょう。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-11T22:55:16.998Z"
-  },
-  {
-    "title": "From heterogeneity to translation: data‑driven subtyping of autism in a multilevel framework",
-    "link": "https://www.nature.com/articles/s41398-026-04243-8",
-    "pubDate": "Sat, 11 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MjQzLTg=",
-    "summary": "TITLE: ASD個別化支援へ！科学的タイプ分け研究最前線\n- ASDの子どもたちの個性はそれぞれ異なり、一括りにはできないことが科学的に解明されつつあります。\n- この研究は、データに基づいた新しい分類法で、一人ひとりの特性に合わせた支援を見つける可能性を探っています。\n- 将来的には、お子さんに最も合った教育や療育を、より正確に選択できるようになるかもしれません。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さん一人ひとりに最適な支援が見つかる希望です。",
-    "todayAction": "お子さんの得意なことや苦手なことを改めて観察し記録してみましょう。",
-    "japanHint": "日本でも個別の特性に合わせた支援がさらに広がる未来に期待が膨らみます。親として、より良い支援を求めて声を上げていきましょう！",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-11T11:00:20.999Z"
   }
 ]
