@@ -1,5 +1,22 @@
 [
   {
+    "title": "Single-nucleus transcriptomics reveals disrupted pathways in the prefrontal cortex of Scn2a-deficient mice",
+    "link": "https://www.nature.com/articles/s41398-026-04348-0",
+    "pubDate": "Fri, 31 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MzQ4LTA=",
+    "summary": "TITLE: ASD特性、脳の仕組みから解き明かす一歩\n- ASDのお子さんの特性と関係するとされる「Scn2a遺伝子」が、脳の成長にどう関わるかを示す研究です。\n- この研究は、脳の「前頭前野」という、考える力や社会性に大切な部分で、情報伝達の経路がスムーズでない可能性を指摘しています。\n- なぜASDの特性が現れるのか、その根本的なメカニズムを解明する手がかりになる、希望の光のような研究と言えます。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの特性理解と未来の支援に繋がる大切な研究です。",
+    "todayAction": "お子さんの「できた！」をたくさん見つけ、言葉で褒めてあげましょう。",
+    "japanHint": "脳の仕組みが解明されれば、お子さん一人ひとりに合ったサポートが日本でももっと広がるでしょう。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-08-01T11:13:32.082Z"
+  },
+  {
     "title": "From heterogeneity to translation: data‑driven subtyping of autism in a multilevel framework",
     "link": "https://www.nature.com/articles/s41398-026-04243-8",
     "pubDate": "Sat, 11 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、感染症など緊急時にASDの子どもたちに特化した情報提供や心理的サポートが、さらに充実すると安心ですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-11T22:54:15.490Z"
-  },
-  {
-    "title": "CDC warns of <em>E. coli</em> outbreak linked to frozen blueberries.",
-    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=765973",
-    "pubDate": "Tue, 07 Jul 2026 19:47:00 GMT",
-    "source": "CDC Autism News",
-    "contentSnippet": "CDC alert: Recall of frozen blueberries linked to E. coli outbreak; do not eat recalled product.",
-    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NTk3Mw==",
-    "summary": "TITLE: 冷凍ブルーベリーに食中毒菌、CDCが注意喚起！\n- 米国疾病対策センター（CDC）が、一部の冷凍ブルーベリー製品に食中毒の原因となる大腸菌O157が検出されたと発表しました。\n- お子さんの健康を守るため、リコール対象となっている製品を購入した場合は食べずに、速やかに返品または廃棄してください。\n- ASDのお子さんは食事に偏りがあったり、特定の食品を好む傾向がある場合もありますので、日頃から食品の安全情報には注目しましょう。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの食の安全を守るための緊急情報です。",
-    "todayAction": "自宅の冷凍庫にあるブルーベリーがリコール対象か確認しましょう。",
-    "japanHint": "日本でも食品リコールは発生します。最新情報を確認し、お子さんの食卓を安全に保つ習慣をつけましょう。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-07-11T22:54:37.157Z"
   }
 ]
