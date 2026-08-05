@@ -1,5 +1,22 @@
 [
   {
+    "title": "Scientists discover the brain cells that keep you motivated",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
+    "pubDate": "Wed, 05 Aug 2026 08:09:48 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target for understanding why people sometimes struggle to sustain goal-directed behavior.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA4LzI2MDgwNDAzNDYyMi5odG0=",
+    "summary": "TITLE: やる気を維持する脳細胞を発見\n- 「オレキシン神経細胞」という脳の細胞が、難しい課題にも挑戦し続ける「やる気」を支えていることが分かってきました。\n- この細胞の働きが弱まると、目標に向かって頑張り続ける力が低下する可能性があることが、ラットの研究で示されました。\n- この発見は、困難に直面した時に「もっと頑張りたい」という気持ちをサポートする新しい方法を見つける手がかりになるかもしれません。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの「やる気」のメカニズム解明に繋がる可能性。",
+    "todayAction": "お子さんが達成した小さな成功を具体的に褒め、承認を伝えましょう。",
+    "japanHint": "日本でも、子どもたちの「やる気」を引き出す脳の研究が進み、個別支援に活かされることを期待します。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-08-05T23:03:27.295Z"
+  },
+  {
     "title": "Using antisense oligos to plumb rare genetic conditions, and more",
     "link": "https://www.thetransmitter.org/spectrum/using-antisense-oligonucleotides-to-plumb-rare-genetic-conditions-and-more/",
     "pubDate": "Tue, 04 Aug 2026 04:00:30 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、重い困り事を抱える子と家族に、新しい支援や治療の選択肢がもっと増えることを願います。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-12T22:55:01.662Z"
-  },
-  {
-    "title": "Multimodal predictors of spoken vocabulary development in autism: the role of early childhood brain and behavior",
-    "link": "https://www.nature.com/articles/s41398-026-04168-2",
-    "pubDate": "Fri, 19 Jun 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MTY4LTI=",
-    "summary": "TITLE: ASD児の言葉の発達予測因子\n- ASDのお子さんの言葉の発達を、幼い頃の脳の働きや行動の特徴から予測できる可能性を示す研究です。\n- この研究は、お子さん一人ひとりに合わせた言葉のサポートを早期から考える手がかりとなるかもしれません。\n- お子さんの強みや得意なことを見つけ、成長を促すためのヒントとして役立つことが期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの言葉の育ちを早く理解し、適切な支援に繋がる可能性。",
-    "todayAction": "お子さんの興味に合わせた言葉がけで会話の機会を増やしましょう。",
-    "japanHint": "日本でも早期の脳科学研究と行動観察を組み合わせた個別支援の進展に期待が持てます。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-12T11:08:03.278Z"
   }
 ]
