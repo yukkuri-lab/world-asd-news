@@ -1,5 +1,22 @@
 [
   {
+    "title": "Three models, three routes to altered auditory processing, and more",
+    "link": "https://www.thetransmitter.org/spectrum/three-models-three-routes-to-altered-auditory-processing-and-more/",
+    "pubDate": "Tue, 11 Aug 2026 04:00:41 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 10 August.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3RocmVlLW1vZGVscy10aHJlZS1yb3V0ZXMtdG8tYWx0ZXJlZC1hdWRpdG9yeS1wcm9jZXNzaW5nLWFuZC1tb3JlLw==",
+    "summary": "TITLE: ASDの聴覚処理に関する新情報\n- ASDのお子さんには、音の感じ方に特徴があることが知られています。\n- 最新の研究では、その音の感じ方の違いに複数のタイプがある可能性が示唆されています。\n- お子さんの聴覚特性を理解することは、より適切なサポートにつながります。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの音の感じ方が独特な理由と対応のヒントが見つかるかも。",
+    "todayAction": "お子さんが苦手な音、好きな音、興味のある音をメモしてみましょう。",
+    "japanHint": "日本でも、お子さん一人ひとりの聴覚特性に合わせた支援が広がることを期待します。個別の特性理解が重要ですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-08-11T10:46:26.105Z"
+  },
+  {
     "title": "New autism therapy shows surprising benefits even in adult mice",
     "link": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
     "pubDate": "Fri, 07 Aug 2026 08:38:30 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、多様な背景を持つ人々の遺伝子情報を集め、よりきめ細やかなサポート開発が進むと良いですね。",
     "targetAge": "共通",
     "fetchedAt": "2026-07-13T22:58:50.156Z"
-  },
-  {
-    "title": "Disrupted cortex-wide dynamics impair motor planning in Shank3-mutant mice",
-    "link": "https://www.nature.com/articles/s42003-026-10660-8",
-    "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDIwMDMtMDI2LTEwNjYwLTg=",
-    "summary": "TITLE: ASD関連遺伝子と運動計画\n- ASDと関連が深いShank3遺伝子に変異があるマウスでは、脳全体の活動パターンに乱れがあることが分かりました。\n- この脳の活動の乱れが、体を動かす前の「運動の段取り（計画）」をうまく立てられない原因になっている可能性が示唆されました。\n- 本研究は、ASDのお子さんが時に見せる体のぎこちなさや不器用さの背景にある脳の仕組みを解明する重要な手がかりとなるかもしれません。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDのお子さんの運動のぎこちなさが、脳の仕組みと関係する可能性を示唆します。",
-    "todayAction": "お子さんが楽しめる簡単な体を動かす遊びや、動きの練習を一緒にしてみましょう。",
-    "japanHint": "日本でもASDのお子さんの運動の支援について、脳科学の知見に基づいた新しいアプローチが生まれることを期待したいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-07-13T12:28:32.252Z"
   }
 ]
