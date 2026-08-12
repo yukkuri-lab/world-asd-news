@@ -1,5 +1,22 @@
 [
   {
+    "title": "Neuropsychiatric MRI brain signatures fail reproducibility test",
+    "link": "https://www.thetransmitter.org/spectrum/neuropsychiatric-mri-brain-signatures-fail-reproducibility-test/",
+    "pubDate": "Wed, 12 Aug 2026 04:00:59 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Small neuroimaging studies are unlikely to capture consistent anatomical changes related to conditions such as autism, schizophrenia and mood disorders, according to a new “wake-up call” study.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL25ldXJvcHN5Y2hpYXRyaWMtbXJpLWJyYWluLXNpZ25hdHVyZXMtZmFpbC1yZXByb2R1Y2liaWxpdHktdGVzdC8=",
+    "summary": "TITLE: ASD脳画像研究、再現性の難しさ\n- ASD（自閉スペクトラム症）のお子さんの脳の特性を理解するため、世界中でMRIを使った研究が進められています。\n- 今回の研究は、ごく少数のデータだけでは、ASDに特有の脳の変化を確実に見つけ出すのが難しいかもしれない、という大切な視点を教えてくれます。\n- この気づきは、将来もっとたくさんのお子さんのデータを集め、研究を深めることで、より正確な理解や個々に合ったサポートへとつながる大きな一歩となるでしょう。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "脳の特性に関する研究結果を慎重に見る視点が得られ、安心できます。",
+    "todayAction": "お子さんの得意なことや苦手なことを、普段の生活の中で改めて観察してみましょう。",
+    "japanHint": "日本でも、もっと多くの子どもたちのデータを集めた大規模な研究が進み、個に合った支援につながることを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-08-12T10:57:21.459Z"
+  },
+  {
     "title": "HHS Secretary Kennedy's Remarks Honoring David Rose - August 7, 2026",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766212",
     "pubDate": "Tue, 11 Aug 2026 14:06:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でもこの研究が進み、お子さん一人ひとりに最適な教育や支援が生まれることを願っています。",
     "targetAge": "共通",
     "fetchedAt": "2026-07-14T11:24:36.540Z"
-  },
-  {
-    "title": "Mapping lncRNAs onto multilevel mRNA co‑expression modules in autism",
-    "link": "https://www.nature.com/articles/s41398-026-04275-0",
-    "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0Mjc1LTA=",
-    "summary": "TITLE: ASDの遺伝子と脳機能の新たな関連\n- 自閉スペクトラム症（ASD）のお子さんの特性の背景には、遺伝子の働き方の微妙な違いが関係していることが分かってきました。\n- この研究は、体の中の設計図である遺伝子の働きを調整する、大切な役割を持つ物質に注目しています。\n- 将来、ASDのお子さん一人ひとりに合った、より個別化されたサポート方法を見つけるヒントになる可能性があります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "将来の個別支援や理解の深化に希望が見えます。",
-    "todayAction": "お子さんの個性や特性を改めて観察してみましょう。",
-    "japanHint": "日本でも、このような最先端の遺伝子研究が進み、一人ひとりに合った支援が開発されることを期待したいですね。保護者も希望を持てます。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-07-13T22:58:02.645Z"
   }
 ]
