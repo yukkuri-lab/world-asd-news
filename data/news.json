@@ -1,5 +1,22 @@
 [
   {
+    "title": "Human brain cells are far more powerful than scientists thought",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260812015216.htm",
+    "pubDate": "Thu, 13 Aug 2026 01:40:38 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A single human brain cell may be far more powerful than scientists once realized. Researchers found that cortical neurons can perform remarkably complex computations, giving them capabilities more like tiny biological computers than simple on-off switches. This could help explain why the human brain supports abilities such as language, imagination, and mathematics.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA4LzI2MDgxMjAxNTIxNi5odG0=",
+    "summary": "TITLE: 人間の脳細胞、秘められた高性能が明らかに\n- 私たちの脳にある一つ一つの細胞が、これまで考えられていたよりもずっと賢く、複雑な計算ができることが分かりました。\n- まるで小さなコンピューターのように、脳細胞が高度な働きをしている可能性が示されたのです。\n- この発見は、言葉を話したり、想像したり、算数をしたりする私たちの素晴らしい能力の秘密を解き明かす手がかりになります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "脳の可能性を知り、お子さんの学びの多様性を肯定的に見つめるきっかけに。",
+    "todayAction": "お子さんの「なぜ？」や独自の興味を温かく見守り、応援しましょう。",
+    "japanHint": "日本でも脳の多様な働きを理解し、一人ひとりの子どもに合わせた学び方や才能を伸ばす教育がもっと広がることを願います。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-08-14T22:26:42.012Z"
+  },
+  {
     "title": "Prenatal targeted maternal pregnancy metabolomic profiles, child emotional and behavioral problems, and autism related traits in the NYU CHES cohort",
     "link": "https://www.nature.com/articles/s41380-026-03823-w",
     "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも成長段階に応じた柔軟な支援システムの構築がさらに進むことを期待します。家庭でも地域と連携し、お子さんに合ったサポートを見つけましょう。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-15T23:00:39.302Z"
-  },
-  {
-    "title": "CMIP as a novel candidate gene for neurodevelopmental and neuropsychiatric disorders",
-    "link": "https://www.nature.com/articles/s41431-026-02169-9",
-    "pubDate": "Wed, 1 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0MzEtMDI2LTAyMTY5LTk=",
-    "summary": "TITLE: ASD理解を深める新遺伝子CMIP\n- 新しい遺伝子「CMIP」が、ASD（自閉スペクトラム症）を含む神経発達の特性に関わる可能性が示されました。\n- この研究は、お子さんの発達に関する脳の仕組みを深く理解するための大切な手がかりになるかもしれません。\n- 将来的には、一人ひとりの特性に合わせたより具体的な支援方法を見つけるヒントになることが期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDのメカニズム解明に一歩近づき、未来の支援に希望が持てる。",
-    "todayAction": "最新の研究動向に期待し、お子さんの良い特性に目を向けましょう。",
-    "japanHint": "日本でも遺伝子研究が進み、一人ひとりの特性に応じた個別支援が早く実現すると嬉しいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-07-15T11:26:24.566Z"
   }
 ]
