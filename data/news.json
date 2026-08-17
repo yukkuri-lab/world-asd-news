@@ -1,5 +1,22 @@
 [
   {
+    "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766260",
+    "pubDate": "Mon, 17 Aug 2026 18:10:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "CDC data show kindergarten vaccination rates remain high, with a slight 0.1% decline in coverage.",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjI2MA==",
+    "summary": "TITLE: 米国CDC発表：幼稚園の予防接種率、高水準を維持\n- アメリカの公衆衛生機関CDCが発表した最新データで、幼稚園での予防接種率が高い水準を保っていることが分かりました。\n- わずかな減少はあったものの、ほとんどのお子さんが必要な予防接種を受けている状況です。\n- これは、お子さんたちが集団生活を送る上で、感染症から守られる安心な環境が維持されていることを示しています。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんが学校や園で安心して過ごせる、感染症に強い環境の目安になります。",
+    "todayAction": "お子さんの予防接種記録を確認し、かかりつけ医に相談してみましょう。",
+    "japanHint": "日本でも、安心して子育てできるよう予防接種の大切さや正確な情報が伝わると良いですね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-08-17T22:27:44.561Z"
+  },
+  {
     "title": "Neurabin I haploinsufficiency disrupts ion channel regulation and synaptic maturation in human cortical neurons in neurodevelopmental disorders",
     "link": "https://www.nature.com/articles/s41380-026-03818-7",
     "pubDate": "Sat, 15 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本では、乳幼児健診の際に発達の専門家がもっと詳しく関わる機会が増えると安心ですね。",
     "targetAge": "乳幼児・幼児・小学生",
     "fetchedAt": "2026-07-16T11:37:14.072Z"
-  },
-  {
-    "title": "Aberrant multivariate mapping between behavioral profiles and cortical morphological brain networks in children with autism spectrum disorder",
-    "link": "https://www.nature.com/articles/s41398-026-04233-w",
-    "pubDate": "Thu, 2 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MjMzLXc=",
-    "summary": "TITLE: ASDの子どもの脳の形と行動の関連性\n- ASDの子どもたちの「行動の特徴」と「脳の構造」の間に、どのような関係があるかを探る研究です。\n- 一人ひとりの行動プロファイルに対応する、脳の形やネットワークの「個性的なつながり」があることがわかりました。\n- この発見は、ASDの子どもたちの個性を理解し、それぞれに最適なサポートを考えていく上で大切な一歩となります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの行動の背景にある脳の個性を理解し、個別支援のヒントになります。",
-    "todayAction": "子どもの行動や反応を日誌に記録し、専門家と共有しましょう。",
-    "japanHint": "日本でも、子どもの行動と脳の個性を結びつける研究が進み、学校や家庭での個別支援がもっと充実することを期待します。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-07-16T11:37:41.960Z"
   }
 ]
