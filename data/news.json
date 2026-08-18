@@ -1,5 +1,22 @@
 [
   {
+    "title": "Links between tuberous sclerosis complex and autism, and more",
+    "link": "https://www.thetransmitter.org/spectrum/links-between-tuberous-sclerosis-complex-and-autism-and-more/",
+    "pubDate": "Tue, 18 Aug 2026 04:00:30 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 17 August.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2xpbmtzLWJldHdlZW4tdHViZXJvdXMtc2NsZXJvc2lzLWNvbXBsZXgtYW5kLWF1dGlzbS1hbmQtbW9yZS8=",
+    "summary": "TITLE: ASDと合併症の最新研究まとめ\n- 自閉スペクトラム症（ASD）に関する世界中の最新研究やニュースが毎週まとめられています。\n- 特に、ASDと併発しやすい特定の症状や病気について、詳しい研究が進められていることが示唆されています。\n- これらの研究は、お子さんの特性をより深く理解し、一人ひとりに合ったサポートを考える上で大切なヒントになります。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの特性や合併症への理解が深まるヒントが得られます。",
+    "todayAction": "お子さんの気になる特性や健康面をメモしてみましょう。",
+    "japanHint": "海外の最新研究が、日本の医療や教育の現場にも早く役立つことを期待します。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-08-18T10:23:29.833Z"
+  },
+  {
     "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766260",
     "pubDate": "Mon, 17 Aug 2026 18:10:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも遺伝子研究が進み、一人ひとりの子どもに合わせた、より丁寧な支援や理解が広がることを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-07-16T11:36:43.440Z"
-  },
-  {
-    "title": "Factors associated with abnormal screening for autism spectrum disorder among Extremely Preterm Children",
-    "link": "https://www.nature.com/articles/s41372-026-02693-y",
-    "pubDate": "Wed, 15 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzNzItMDI2LTAyNjkzLXk=",
-    "summary": "TITLE: 超早産児のASDスクリーニング研究\n- 超早産で生まれたお子さんのASD（自閉スペクトラム症）スクリーニングの結果と、それに影響する要因を調べた最新の研究です。\n- 特定の要因が、超早産児においてASDの兆候が見られやすいことと関連している可能性が示されました。\n- 子どもの発達を注意深く見守り、気になることがあれば早期に専門家に相談することの大切さが改めて示唆されています。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "超早産児でなくても、子どもの発達に気づくヒントに。",
-    "todayAction": "子どもの日々の行動や関わり方を改めて観察してみましょう。",
-    "japanHint": "日本では、乳幼児健診の際に発達の専門家がもっと詳しく関わる機会が増えると安心ですね。",
-    "targetAge": "乳幼児・幼児・小学生",
-    "fetchedAt": "2026-07-16T11:37:14.072Z"
   }
 ]
