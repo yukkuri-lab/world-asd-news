@@ -1,5 +1,22 @@
 [
   {
+    "title": "Factors associated with abnormal screening for autism spectrum disorder among Extremely Preterm Children",
+    "link": "https://www.nature.com/articles/s41372-026-02693-y",
+    "pubDate": "Wed, 15 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzNzItMDI2LTAyNjkzLXk=",
+    "summary": "TITLE: 早く生まれたお子さんとASD、大切な視点\n- 新しい研究が、早く生まれたお子さんがASDのスクリーニングで注意が必要なケースがあることを示唆しています。\n- 特に、出生時の体重が極めて低かったり、特定の状況があったりするお子さんは、早期に専門家と相談するきっかけになるかもしれません。\n- これは心配を煽るものではなく、お子さんの成長と発達をより深く理解し、必要に応じて適切なサポートを早期に見つけるための大切な情報です。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "早く生まれたお子さんの発達を温かく見守るヒントが得られます。",
+    "todayAction": "お子さんの成長に気になる点があれば、地域の相談窓口に気軽に相談してみましょう。",
+    "japanHint": "日本でも、早産で生まれたお子さんへの早期支援や情報提供がさらに充実することを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-08-18T22:27:26.853Z"
+  },
+  {
     "title": "Links between tuberous sclerosis complex and autism, and more",
     "link": "https://www.thetransmitter.org/spectrum/links-between-tuberous-sclerosis-complex-and-autism-and-more/",
     "pubDate": "Tue, 18 Aug 2026 04:00:30 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、遺伝子研究を通じてASDの子どもたちの未来が明るくなるような、個別支援の進展に期待が膨らみます。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-16T23:00:10.521Z"
-  },
-  {
-    "title": "Clinical and molecular expansion of SSR4-CDG: an adult patient and pathogenic interpretation of an in-frame variant",
-    "link": "https://www.nature.com/articles/s10038-026-01493-8",
-    "pubDate": "Thu, 16 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zMTAwMzgtMDI2LTAxNDkzLTg=",
-    "summary": "TITLE: 難病の遺伝子研究、新たな発見\n- 先天性糖鎖形成異常症（CDG）という、子どもの発達にも影響を与える可能性のある病気の原因遺伝子について、新しい発見があった研究です。\n- 特定の遺伝子（SSR4）の変異がどのように病気を引き起こすのか、その複雑な仕組みがこれまでよりも詳しく解明されました。\n- このような遺伝子レベルの研究の進展は、将来、子どもの多様な発達特性を深く理解し、一人ひとりに合わせた最適なサポートを考える大切な手がかりとなります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "難病の遺伝子理解が深まり、将来の個別支援の可能性に希望が持てます。",
-    "todayAction": "子どもの発達で気になることがあれば、いつでも専門家へ相談してみましょう。",
-    "japanHint": "日本でも遺伝子研究が進み、一人ひとりの子どもに合わせた、より丁寧な支援や理解が広がることを期待します。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-07-16T11:36:43.440Z"
   }
 ]
