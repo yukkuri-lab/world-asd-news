@@ -1,5 +1,22 @@
 [
   {
+    "title": "Individualized antisense oligonucleotides for SCN2A-related developmental epileptic encephalopathy",
+    "link": "https://www.nature.com/articles/s41591-026-04527-y",
+    "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1OTEtMDI2LTA0NTI3LXk=",
+    "summary": "TITLE: 難病に光！個別遺伝子治療がてんかん脳症に希望\n- 特定の遺伝子（SCN2A）の異常が原因で起こる、てんかんと発達の遅れを伴う重い病気に対して、一人ひとりに合わせた新しい治療法の研究が進んでいます。\n- この研究では、問題のある遺伝子の働きを調整する薬が、てんかんの発作を減らし、お子さんの発達を助ける可能性が期待されています。\n- まだ研究段階ですが、これまで治療が難しかったお子さんたちに、個々の状態に寄り添った希望の光をもたらす未来の医療です。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "難病や重い発達障害の子の未来に希望が見える。",
+    "todayAction": "もしお子さんに重い症状があれば、主治医に相談する。",
+    "japanHint": "日本でも難病や発達障害の子どもたちに、個別化された最新医療が届くことを願う。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-08-21T22:29:19.204Z"
+  },
+  {
     "title": "A serotonergic mechanism is involved in the pro-cognitive effect of AM6545 treatment in a mouse model of fragile X syndrome",
     "link": "https://www.nature.com/articles/s41398-026-04360-4",
     "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、子どもたち一人ひとりに寄り添った支援がもっと広がることを期待したいですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-21T23:00:53.053Z"
-  },
-  {
-    "title": "Separate neuronal pathways mediate social, attentional behaviors",
-    "link": "https://www.thetransmitter.org/spectrum/separate-neuronal-pathways-mediate-social-attentional-behaviors/",
-    "pubDate": "Tue, 21 Jul 2026 04:00:30 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 20 July.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3NlcGFyYXRlLW5ldXJvbmFsLXBhdGh3YXlzLW1lZGlhdGUtc29jaWFsLWF0dGVudGlvbmFsLWJlaGF2aW9ycy8=",
-    "summary": "TITLE: ASDの社会性と注意、脳の異なる経路\n- ASDの子どもたちの「社会的なふるまい」と「集中力」は、脳の中でそれぞれ異なる仕組みで動いている可能性が示されました。\n- この研究は、子どもの特性を理解し、より一人ひとりに合った支援を考えるための大切な手がかりになるかもしれません。\n- それぞれの特性を脳の仕組みから理解することで、得意なことを伸ばし、苦手なことをサポートする方法が見つかる希望が持てます。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "子どもの行動の背景にある脳の仕組みが分かり、理解を深める手がかりになります。",
-    "todayAction": "お子さんが興味があることに深く集中できる様子を観察してみましょう。",
-    "japanHint": "脳の特性理解が進めば、日本の教育現場でも個別支援がさらに進化しそうです。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-21T11:44:24.723Z"
   }
 ]
