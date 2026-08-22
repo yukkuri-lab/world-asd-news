@@ -1,5 +1,22 @@
 [
   {
+    "title": "CDC warns of <em>Salmonella</em> outbreak linked to jalapeños",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766165",
+    "pubDate": "Wed, 05 Aug 2026 08:00:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "A CDC food safety alert regarding a multistate outbreak of Salmonella linked to jalapeños",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjE2NQ==",
+    "summary": "TITLE: ハラペーニョ関連の食中毒に注意\n- 米国CDCが、ハラペーニョに関連するサルモネラ菌の集団食中毒について注意喚起しました。\n- サルモネラ菌は、発熱や腹痛、下痢などの症状を引き起こし、特に子どもや高齢者は重症化する可能性があります。\n- 食中毒予防のため、食品をよく洗い、適切な温度で保存・調理することが大切です。",
+    "country": "US",
+    "category": "支援・療育",
+    "reliability": "★★★",
+    "parentMeaning": "子どもの健康を守るための食中毒予防の重要性。",
+    "todayAction": "今日から、食事の前に親子で石鹸を使って丁寧に手洗いをしてみましょう。",
+    "japanHint": "日本でも食中毒は季節を問わず発生します。日頃から新鮮な食材を選び、十分に加熱するなどの予防策を家庭で習慣にできると安心ですね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-08-22T10:18:39.560Z"
+  },
+  {
     "title": "Individualized antisense oligonucleotides for SCN2A-related developmental epileptic encephalopathy",
     "link": "https://www.nature.com/articles/s41591-026-04527-y",
     "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも早期の脳発達研究が進み、お子さん一人ひとりに合ったサポートが早く届く社会になることを期待します。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-07-22T23:08:42.743Z"
-  },
-  {
-    "title": "A consensus on the definition of profound autism, and more",
-    "link": "https://www.thetransmitter.org/spectrum/a-consensus-on-the-definition-of-profound-autism-and-more/",
-    "pubDate": "Tue, 07 Jul 2026 04:00:49 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 5 July.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2EtY29uc2Vuc3VzLW9uLXRoZS1kZWZpbml0aW9uLW9mLXByb2ZvdW5kLWF1dGlzbS1hbmQtbW9yZS8=",
-    "summary": "TITLE: 重度ASDの新しい考え方\n- 重度ASD（自閉スペクトラム症）の定義について、専門家間で新しい合意形成が進められています。\n- この新しい定義は、お子さんの特性に合わせた、より適切な支援や教育の計画に役立つ可能性があります。\n- ASDに関する最新の研究やニュースがまとめられており、今後の支援の方向性を知るヒントが得られます。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの特性に合った支援が受けやすくなるかもしれません。",
-    "todayAction": "お子さんの得意なことや苦手なことを改めて振り返り、観察してみましょう。",
-    "japanHint": "日本でも、子どもたち一人ひとりに寄り添った支援がもっと広がることを期待したいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-07-21T23:00:53.053Z"
   }
 ]
