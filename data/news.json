@@ -1,5 +1,22 @@
 [
   {
+    "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766009",
+    "pubDate": "Wed, 15 Jul 2026 21:02:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "CDC reports fewer hospital-acquired infections in 2023, highlighting improved patient safety.",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjAwOQ==",
+    "summary": "TITLE: 院内感染が減少、通院の安心感アップ\n- アメリカCDCの最新データで、2023年に病院内で感染する病気が減少したことが報告されました。\n- これは、お子さんが医療機関を利用する際の安全性が向上していることを示しています。\n- 病院が苦手なお子さんや、定期的な通院が必要なお子さんを持つご家族にとって、安心して医療を受けられる良いニュースです。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんが安心して医療を受けられる環境が整い始めている安心材料。",
+    "todayAction": "かかりつけ医と、お子さんの医療における感染症対策について話してみましょう。",
+    "japanHint": "日本でも子どもたちが安心して病院に行けるよう、感染対策の工夫や情報提供が進むといいですね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-08-22T22:26:29.407Z"
+  },
+  {
     "title": "CDC warns of <em>Salmonella</em> outbreak linked to jalapeños",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766165",
     "pubDate": "Wed, 05 Aug 2026 08:00:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも脳科学の進展が、お子さん一人ひとりに合った支援につながると良いですね。日々の小さな成長を信じて見守りましょう。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-07-22T23:08:29.496Z"
-  },
-  {
-    "title": "Observational in vivo axon development during early childhood in autism spectrum disorder and developmental disability using MRI",
-    "link": "https://www.nature.com/articles/s43856-026-01785-2",
-    "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDM4NTYtMDI2LTAxNzg1LTI=",
-    "summary": "TITLE: 早期ASD児の脳神経発達をMRIで観察\n- 幼いASDのお子さんの脳の中で、神経のつながり（軸索）がどのように育っていくかをMRIという検査で観察した研究です。\n- 生まれたばかりの脳が、一人ひとりどのように成長していくのかを、リアルタイムで詳しく調べられる可能性を示しています。\n- この研究が進むことで、将来、お子さんの発達特性をより早く理解し、個性に合ったサポートを考えるヒントが見つかるかもしれません。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの特性を早く理解し、適切なサポートにつなげる希望に。",
-    "todayAction": "お子さんの成長を温かく見守り、気になることは専門家へ相談しましょう。",
-    "japanHint": "日本でも早期の脳発達研究が進み、お子さん一人ひとりに合ったサポートが早く届く社会になることを期待します。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-22T23:08:42.743Z"
   }
 ]
