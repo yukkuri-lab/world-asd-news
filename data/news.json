@@ -1,5 +1,22 @@
 [
   {
+    "title": "Multi-omic data integration improves the resolution of the molecular etiology of autism in a mouse model",
+    "link": "https://www.nature.com/articles/s41380-026-03772-4",
+    "pubDate": "Sat, 25 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzNzcyLTQ=",
+    "summary": "TITLE: ASDの原因解明、新たな発見\n- 自閉スペクトラム症（ASD）がなぜ起こるのか、その根本的な原因を分子レベルで深く探る研究が進んでいます。\n- 複数の科学データを統合して詳しく解析することで、今まで見えにくかったASDの仕組みが少しずつ明らかになってきました。\n- この研究はまだマウスでの段階ですが、将来的にASDのより良い理解や、より効果的な支援方法の開発につながる希望の光です。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの根本原因理解が進み、将来の支援に繋がる希望。",
+    "todayAction": "ASDに関する前向きな情報を、家族で話し合う時間を作りましょう。",
+    "japanHint": "日本でも、もっとこのような先端研究が進み、個々の子どもに合った支援方法が見つかると嬉しいですね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-08-24T10:33:30.488Z"
+  },
+  {
     "title": "Study questions DSM-5’s combining of autism traits",
     "link": "https://www.thetransmitter.org/spectrum/study-questions-dsm-5s-combining-of-autism-traits/",
     "pubDate": "Thu, 23 Jul 2026 04:00:52 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも脳の特性に基づいた個別支援や、安心できる環境づくりがさらに進むことを期待します。お子さんが安心して自己表現できる社会を。",
     "targetAge": "小学生",
     "fetchedAt": "2026-07-27T12:53:27.851Z"
-  },
-  {
-    "title": "A single dose reversed autism-like symptoms in adult mice within hours",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
-    "pubDate": "Sat, 25 Jul 2026 11:09:37 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA3LzI2MDcyNDA2MTQzNi5odG0=",
-    "summary": "TITLE: マウス研究：ASD様症状、一時改善の光\n- 妊娠中の軽い体調不良が、マウスの赤ちゃんに自閉スペクトラム症（ASD）に似た症状を引き起こす可能性が分かりました。\n- ある薬剤（ラパマイシン）を一度投与したところ、マウスのASDに似た行動が一時的に、しかも数時間で改善したと報告されています。\n- この発見は、大人になった脳でも柔軟性があり、様々な方法で改善できる可能性を示唆しています。\n- この研究は、将来的にASD症状の根本原因解明や、新しい治療法開発への希望の光となります。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "将来のASD症状緩和や治療法開発に期待が持てます。",
-    "todayAction": "子どもの今を大切に、可能性を信じて温かく見守りましょう。",
-    "japanHint": "日本でも将来、脳の柔軟性を活かした新しい支援や治療が生まれる日を期待します。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-07-25T22:57:41.917Z"
   }
 ]
