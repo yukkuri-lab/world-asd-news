@@ -1,5 +1,22 @@
 [
   {
+    "title": "The sodium channel SCN2A regulates cortical excitatory and inhibitory neurogenesis",
+    "link": "https://www.nature.com/articles/s41467-026-75751-w",
+    "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDI2LTc1NzUxLXc=",
+    "summary": "TITLE: 脳発達遺伝子SCN2Aの役割解明\n- この研究は、脳の成長に大切な「SCN2A」という遺伝子の働きについて、新しい発見があったことを伝えています。\n- 脳の中には、情報を伝えたり抑えたりする大切な神経細胞があり、この遺伝子がそのバランスを整えていることが分かりました。\n- 将来的に、この遺伝子の働きを深く理解することで、ASDのあるお子さんの特性をより良く理解し、サポートに繋がる可能性があります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの特性の背景にある脳の仕組みへの理解を深める手がかりです。",
+    "todayAction": "最新の研究に希望を持ち、お子さんの得意なことを一緒に探しましょう。",
+    "japanHint": "日本でも、脳科学研究が個別支援に繋がり、子どもたちの未来がもっと明るくなることを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-09-03T23:59:04.972Z"
+  },
+  {
     "title": "Estimating differing causal roles of glutamate and GABA genes on brain and behavior in autism",
     "link": "https://www.nature.com/articles/s41398-026-04361-3",
     "pubDate": "Mon, 24 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でもこのような研究がさらに進み、早期診断や個別の支援に繋がる日が来ることを願いますね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-08-25T10:27:05.628Z"
-  },
-  {
-    "title": "Competition in the brain: a conserved principle with lifespan consequences",
-    "link": "https://www.nature.com/articles/s42003-026-10834-4",
-    "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDIwMDMtMDI2LTEwODM0LTQ=",
-    "summary": "TITLE: 脳の競争原理と生涯の影響\n- 脳の中では、さまざまな機能が成長と共に発達し、時には競い合いながら調整されている、という研究報告です。\n- この脳の働きは、お子さんの成長過程を通じて個性や特性として現れることがある、という可能性を示唆しています。\n- お子さん一人ひとりの発達のペースや得意なことを見守り、その子の素晴らしい力を信じて応援していくことが大切だと教えてくれます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "脳の個性や発達の多様性を理解するきっかけになります。",
-    "todayAction": "お子さんの「得意」や「好き」なことを見つけ、一緒に喜びを分かち合いましょう。",
-    "japanHint": "日本でも脳科学研究が進み、個々の発達に合わせた支援がもっと充実すると、子育てがより楽しくなるでしょう。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-08-25T10:27:19.751Z"
   }
 ]
