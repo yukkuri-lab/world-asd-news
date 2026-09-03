@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/world-asd-news/_next/static/chunks/9ed307bb5a556525.js"],"default"]
 3:I[37457,["/world-asd-news/_next/static/chunks/9ed307bb5a556525.js"],"default"]
-0:{"buildId":"69not8Hi74I7ozPJCi7RK","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"V-qz4vAwKq_m0I4CSEznx","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
