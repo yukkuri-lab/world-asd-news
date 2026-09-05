@@ -1,5 +1,22 @@
 [
   {
+    "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+    "pubDate": "Fri, 04 Sep 2026 08:29:06 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA5LzI2MDkwMjIzNDUxOC5odG0=",
+    "summary": "TITLE: 海のホヤ成分、脳機能向上に期待！\n- 海のホヤに含まれる特別な成分が、高齢マウスの記憶力や学習能力を高める可能性が示されました。\n- この成分は、脳の細胞間のつながりを強くし、脳の炎症を和らげる働きも確認されています。\n- すぐにASDの子どもたちに直接役立つわけではありませんが、将来の脳機能サポートへの期待が高まる研究です。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "子どもの学習や記憶力サポートにつながる脳機能改善への明るい希望です。",
+    "todayAction": "脳の健康に良い食事や生活習慣について、ご家庭で話し合うきっかけにしましょう。",
+    "japanHint": "日本の豊かな海の幸からも、子どもの脳の発達を支える新たな発見があることを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-09-05T23:38:28.508Z"
+  },
+  {
     "title": "Single-nucleus transcriptomics reveals disrupted pathways in the prefrontal cortex of Scn2a-deficient mice",
     "link": "https://www.nature.com/articles/s41398-026-04348-0",
     "pubDate": "Fri, 31 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でもこの研究を元に、お子さんの「やる気」を育む具体的な教育支援や療育プログラムが生まれることに期待が膨らみます。",
     "targetAge": "小学生",
     "fetchedAt": "2026-08-26T10:30:50.686Z"
-  },
-  {
-    "title": "Using antisense oligos to plumb rare genetic conditions, and more",
-    "link": "https://www.thetransmitter.org/spectrum/using-antisense-oligonucleotides-to-plumb-rare-genetic-conditions-and-more/",
-    "pubDate": "Tue, 04 Aug 2026 04:00:30 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 3 August.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3VzaW5nLWFudGlzZW5zZS1vbGlnb251Y2xlb3RpZGVzLXRvLXBsdW1iLXJhcmUtZ2VuZXRpYy1jb25kaXRpb25zLWFuZC1tb3JlLw==",
-    "summary": "TITLE: ASD最新情報：遺伝と支援のまとめ\n- 自閉スペクトラム症（ASD）に関する最新の研究やニュースがまとめて紹介されています。\n- 遺伝的な要因を探る新しいアプローチについての情報も含まれているようです。\n- 様々な角度からASDの理解を深め、より良い支援につながる希望を感じる内容です。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "最新の研究動向を知り、お子さんの未来への希望が持てます。",
-    "todayAction": "信頼できる情報源のASD最新情報を確認してみましょう。",
-    "japanHint": "海外の最新研究が、日本の教育や支援にも早く取り入れられると嬉しいですね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-08-26T10:31:03.327Z"
   }
 ]
