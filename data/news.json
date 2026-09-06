@@ -1,5 +1,22 @@
 [
   {
+    "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
+    "pubDate": "Mon, 20 Jul 2026 01:28:48 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings also revealed a possible drug target that could help control harmful activity in supporting brain cells.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA3LzI2MDcxODAxMDE0MC5odG0=",
+    "summary": "TITLE: 脳を守るタンパク質「SORLA」の発見\n- アルツハイマー病の進行を防ぐ可能性のある「SORLA」という大切なタンパク質が新しく発見されました。\n- このタンパク質を増やすと、脳のダメージが減り、神経のつながりが健康に保たれることがマウスの実験で明らかになりました。\n- 今回の発見は、脳の健康を守るための新しい治療法や薬の開発に繋がり、将来的には幅広い脳の疾患に応用される希望を秘めています。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "脳の健康と保護に関わる、将来の希望につながる基礎研究です。",
+    "todayAction": "お子さんの脳の健康のため、日々の栄養バランスと質の良い睡眠を意識しましょう。",
+    "japanHint": "まだ先の話かもしれませんが、脳を守る研究が日本でも進み、すべての子どもの脳の健康に役立つ日が来ることを願います。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-09-06T23:38:07.574Z"
+  },
+  {
     "title": "Stanford scientists discover a seafood that can reverse signs of aging",
     "link": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
     "pubDate": "Fri, 04 Sep 2026 08:29:06 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "将来、お母さんの健康と子どもの発達の関連について、日本でも研究が進み、より具体的な情報が得られることを期待します。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-08-27T03:01:58.247Z"
-  },
-  {
-    "title": "Scientists discover the brain cells that keep you motivated",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
-    "pubDate": "Wed, 05 Aug 2026 08:09:48 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target for understanding why people sometimes struggle to sustain goal-directed behavior.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA4LzI2MDgwNDAzNDYyMi5odG0=",
-    "summary": "TITLE: やる気を生む脳細胞を発見\n- 頑張りが報われにくい時でも、諦めずに努力を続ける「やる気の源」となる脳の細胞が見つかりました。\n- この細胞の働きが鈍ると、目標に向かう意欲が弱まる可能性があることが、ラットを使った研究で分かりました。\n- なぜお子さんが時にやる気を維持しにくいのか、その理由を深く理解し、未来のサポート方法を見つける大切な手がかりとなるでしょう。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "子どもの「頑張る力」の謎を脳科学で解き明かし、将来の支援に繋がる発見です。",
-    "todayAction": "お子さんが小さな成功を積み重ねられるよう、寄り添って励まし、達成感を育みましょう。",
-    "japanHint": "日本でもこの研究を元に、お子さんの「やる気」を育む具体的な教育支援や療育プログラムが生まれることに期待が膨らみます。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-08-26T10:30:50.686Z"
   }
 ]
