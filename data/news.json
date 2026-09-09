@@ -1,5 +1,22 @@
 [
   {
+    "title": "Autism in adolescence and adulthood",
+    "link": "https://www.nature.com/articles/s41598-026-53442-2",
+    "pubDate": "Fri, 7 Aug 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1OTgtMDI2LTUzNDQyLTI=",
+    "summary": "TITLE: ASDの思春期と成人期を考える\n- 自閉スペクトラム症のあるお子さんは、思春期から成人期にかけても自分らしく成長し続けます。\n- 思春期や成人期には、個々のお子さんの強みや興味を活かしたサポートが重要になります。\n- お子さんが将来、自分らしい充実した生活を送るための計画を、早い段階から少しずつ考えていきましょう。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの将来の成長を長期的に見通す希望のヒントになります。",
+    "todayAction": "お子さんの「好き」や「得意」なことを、改めて一緒に見つけてみましょう。",
+    "japanHint": "日本でも、学齢期から成人期への切れ目のない支援体制が、もっと充実していくと安心ですね。",
+    "targetAge": "青年期・大人",
+    "fetchedAt": "2026-09-09T23:55:52.755Z"
+  },
+  {
     "title": "In vivo imaging of synaptic density in psychotropic-free adults with autism spectrum disorder: a [¹¹C]UCB-J PET study",
     "link": "https://www.nature.com/articles/s41380-026-03812-z",
     "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、妊娠期からの健康と子どもの発達に関する研究が進み、サポートが充実することを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-08-29T03:34:44.848Z"
-  },
-  {
-    "title": "HHS Secretary Kennedy's Remarks Honoring David Rose - August 7, 2026",
-    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766212",
-    "pubDate": "Tue, 11 Aug 2026 14:06:00 GMT",
-    "source": "CDC Autism News",
-    "contentSnippet": "Secretary Kennedy honors Officer David Rose's courage, sacrifice, and service at the CDC.",
-    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjIxMg==",
-    "summary": "TITLE: ASD支援者の輝かしい功績を称える\n- 米国CDCの長官が、ASDのある方々を支えるために尽力されたデイビッド・ローズ氏の功績を高く評価しました。\n- 彼の勇気ある行動と献身的な奉仕が、私たちの子どもたちがより良い社会で生きる希望を与えてくれます。\n- このような地道な努力が、日々の生活や教育現場での理解と支援の向上に繋がる大切な一歩となります。",
-    "country": "US",
-    "category": "支援・療育",
-    "reliability": "★★★",
-    "parentMeaning": "子どもを支える努力が社会から認められ、希望が持てる。",
-    "todayAction": "日頃の支援に感謝し、子どもとの時間をもっと大切にする。",
-    "japanHint": "日本でも、支援者への感謝を形にし、子どもたちの未来を社会全体で応援する機運を高めたいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-08-29T03:35:04.211Z"
   }
 ]
