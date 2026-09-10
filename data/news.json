@@ -1,5 +1,22 @@
 [
   {
+    "title": "CDC warns of <em>Salmonella</em> outbreak linked to jalapeños",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766165",
+    "pubDate": "Wed, 05 Aug 2026 08:00:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "A CDC food safety alert regarding a multistate outbreak of Salmonella linked to jalapeños",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjE2NQ==",
+    "summary": "TITLE: CDCが食品安全警告：食中毒から子どもを守る\n- アメリカのCDC（疾病予防管理センター）から、サルモネラ菌による食中毒の集団発生と、ハラペーニョとの関連についての注意喚起がありました。\n- 特に小さなお子さんや、消化器系が敏感なお子さんは、食中毒にかかると重症化しやすいので、日々の食事の準備にはいつも以上の注意が必要です。\n- 食材をきれいに洗い、適切に調理し、食事の前後には手洗いを徹底することで、ご家庭の食卓を安全に保ち、お子さんの健康を守ることができます。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "食の安全はすべての子どもに大切。ASDのお子さんの食への配慮と安心につながります。",
+    "todayAction": "食事の準備前には石鹸で丁寧に手洗いし、野菜も流水でしっかり洗いましょう。",
+    "japanHint": "日本の食品安全基準は世界トップレベルですが、家庭での衛生管理も大切と再認識しました。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-09-10T14:02:37.200Z"
+  },
+  {
     "title": "Autism in adolescence and adulthood",
     "link": "https://www.nature.com/articles/s41598-026-53442-2",
     "pubDate": "Fri, 7 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、子どもたちの脳の発達を支える研究基盤がさらに充実し、未来の希望が広がると良いですね。",
     "targetAge": "共通",
     "fetchedAt": "2026-08-29T03:34:29.932Z"
-  },
-  {
-    "title": "Prenatal targeted maternal pregnancy metabolomic profiles, child emotional and behavioral problems, and autism related traits in the NYU CHES cohort",
-    "link": "https://www.nature.com/articles/s41380-026-03823-w",
-    "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzODIzLXc=",
-    "summary": "TITLE: 妊娠中のママの体と子どもの発達\n- この研究は、お母さんが妊娠中にどのような体の状態だったか（体内の物質など）と、生まれてくるお子さんの情緒や行動、ASD関連の特性との関連を調べています。\n- 特に、お母さんの妊娠中の健康状態が、お子さんの発達にどのような影響を与える可能性があるのか、そのメカニズムについて詳しく研究を進めている段階です。\n- 将来的には、お子さんがより健やかに成長できるよう、妊娠中からの新しいサポート方法や予防策を見つける手がかりになることが期待されています。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "妊娠中のママの健康が子どもの発達と関連する可能性。",
-    "todayAction": "家族の健康的な食生活や生活習慣について話し合ってみましょう。",
-    "japanHint": "日本でも、妊娠期からの健康と子どもの発達に関する研究が進み、サポートが充実することを期待します。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-08-29T03:34:44.848Z"
   }
 ]
