@@ -1,5 +1,22 @@
 [
   {
+    "title": "Human brain cells are far more powerful than scientists thought",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260812015216.htm",
+    "pubDate": "Thu, 13 Aug 2026 01:40:38 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A single human brain cell may be far more powerful than scientists once realized. Researchers found that cortical neurons can perform remarkably complex computations, giving them capabilities more like tiny biological computers than simple on-off switches. This could help explain why the human brain supports abilities such as language, imagination, and mathematics.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA4LzI2MDgxMjAxNTIxNi5odG0=",
+    "summary": "TITLE: 脳細胞の秘めた力、新たな発見\n- 私たちの脳の細胞一つ一つに、これまで知られていた以上の素晴らしい力が秘められていることが最新研究で分かりました。\n- 脳の神経細胞は、簡単なスイッチではなく、小さなコンピューターのように複雑な情報を処理していることが明らかになりました。\n- この発見は、子どもたちの持つ言語や想像力、考える力などが、どのように育まれるのかを理解する手がかりになります。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの脳の持つ無限の可能性を感じられる希望の光です。",
+    "todayAction": "お子さんが得意なことや興味を示すことに対し、積極的に関心を向け、応援しましょう。",
+    "japanHint": "脳の奥深さが解明されれば、一人ひとりに合った教育や支援が、日本でももっと個別化・最適化される未来に期待が膨らみます。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-09-11T14:02:13.532Z"
+  },
+  {
     "title": "Twenty-Five Years After 9/11 - Lessons from the World Trade Center Health Program",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766407",
     "pubDate": "Thu, 10 Sep 2026 08:00:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、この研究が子どもの特性理解を深め、個別支援がもっと充実することを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-08-29T23:59:05.049Z"
-  },
-  {
-    "title": "Links between tuberous sclerosis complex and autism, and more",
-    "link": "https://www.thetransmitter.org/spectrum/links-between-tuberous-sclerosis-complex-and-autism-and-more/",
-    "pubDate": "Tue, 18 Aug 2026 04:00:30 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "Here is a roundup of autism-related news and research spotted around the web for the week of 17 August.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL2xpbmtzLWJldHdlZW4tdHViZXJvdXMtc2NsZXJvc2lzLWNvbXBsZXgtYW5kLWF1dGlzbS1hbmQtbW9yZS8=",
-    "summary": "TITLE: 結節性硬化症とASD、最新情報まとめ\n- 特定の病気「結節性硬化症」とASD（自閉スペクトラム症）には関連があることが、最新の研究で報告されています。\n- この研究は、二つの状態のつながりを深く理解し、それぞれの特性を持つ子どもたちへのより良い支援を模索するものです。\n- 将来的に、このような研究が早期発見や、お子さんに合わせた個別のサポート方法を見つけるヒントにつながる可能性があります。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "結節性硬化症とASDの関連を知り、子どもの理解に役立つ。",
-    "todayAction": "もし気になる場合、かかりつけ医に相談してみましょう。",
-    "japanHint": "日本でもこのような専門的な知見が広く共有され、早期からの丁寧な支援につながることを願います。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-08-29T14:54:56.406Z"
   }
 ]
