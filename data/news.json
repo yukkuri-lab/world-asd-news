@@ -1,5 +1,22 @@
 [
   {
+    "title": "Individualized antisense oligonucleotides for SCN2A-related developmental epileptic encephalopathy",
+    "link": "https://www.nature.com/articles/s41591-026-04527-y",
+    "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1OTEtMDI2LTA0NTI3LXk=",
+    "summary": "TITLE: 遺伝子治療、てんかんと発達症に新たな光\n- SCN2Aという遺伝子変異が原因で起こる、重いてんかんや発達の遅れを持つお子さんのための新しい治療法の研究が進んでいます。\n- この治療は「アンチセンスオリゴヌクレオチド」と呼ばれる、体の中の遺伝子に直接働きかける、一人ひとりに合わせたオーダーメイド医療の可能性を秘めています。\n- まだ研究段階ですが、将来、お子さん一人ひとりの特性に合わせた、より根本的な治療法が見つかるかもしれないという希望につながります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "重い発達てんかんやASDを持つ子の治療の選択肢が増える希望。",
+    "todayAction": "お子さんの主治医に、最新治療研究について質問してみる。",
+    "japanHint": "日本でも個別化医療の研究が加速し、一人ひとりの子どもに合った治療や支援が広がることを願っています。",
+    "targetAge": "乳幼児・幼児・小学生",
+    "fetchedAt": "2026-09-13T14:03:22.418Z"
+  },
+  {
     "title": "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals",
     "link": "https://www.nature.com/articles/s41380-026-03880-1",
     "pubDate": "Sat, 12 Sep 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、この研究が個別支援や療育プログラムの進化に繋がり、より多くの子どもたちが笑顔で過ごせる未来に期待。",
     "targetAge": "共通",
     "fetchedAt": "2026-08-31T17:22:12.723Z"
-  },
-  {
-    "title": "Organoid intelligence: a promising paradigm for autism spectrum disorder research",
-    "link": "https://www.nature.com/articles/s41380-026-03850-7",
-    "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzODUwLTc=",
-    "summary": "TITLE: 脳のミニチュアでASD研究進展へ\n- 私たちの脳の小さな模型（オルガノイド）を使う新しい研究が、ASDの原因解明に役立つと期待されています。\n- この最先端技術は、ASDの特性がなぜ生じるのかを深く理解し、将来の診断や支援法、治療薬の開発につながる可能性を秘めています。\n- まだ基礎研究の段階ですが、お子さんの困りごとが科学的に解明され、一人ひとりに合ったサポートが届く未来に希望が持てます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "将来的なASDの原因解明や、より良い支援・治療法の開発に期待が持てます。",
-    "todayAction": "お子さんの日々の変化や得意なこと、苦手なことを記録してみましょう。",
-    "japanHint": "日本でもこうした最先端研究が進み、子どもたちの未来がより豊かになるよう期待したいです。研究者と保護者の連携も深まると良いですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-08-31T17:22:24.585Z"
   }
 ]
