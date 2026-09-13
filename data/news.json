@@ -1,5 +1,22 @@
 [
   {
+    "title": "A serotonergic mechanism is involved in the pro-cognitive effect of AM6545 treatment in a mouse model of fragile X syndrome",
+    "link": "https://www.nature.com/articles/s41398-026-04360-4",
+    "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MzYwLTQ=",
+    "summary": "TITLE: フラジャイルX症候群の脳機能、新薬で改善か\n- ASD（自閉スペクトラム症）の原因の一つであるフラジャイルX症候群に関する重要な研究です。\n- マウスを用いた実験で、特定の薬（AM6545）が脳の記憶や学習といった認知機能を改善する可能性が示されました。\n- この成果は、将来的にASDなど発達の特性を持つお子さんの学びをサポートする新しい治療法開発への希望につながります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの学びを助ける新たな薬が生まれる希望を示す研究。",
+    "todayAction": "お子さんが「できた！」ことを具体的に褒め、成功体験を積み重ねましょう。",
+    "japanHint": "日本でも、このような最先端の研究が、早く子育て現場に役立つことを期待したいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-09-13T23:58:15.246Z"
+  },
+  {
     "title": "Individualized antisense oligonucleotides for SCN2A-related developmental epileptic encephalopathy",
     "link": "https://www.nature.com/articles/s41591-026-04527-y",
     "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、子どもたちの心身の健康データを収集し、一人ひとりに合わせた支援が広がることに期待したいです。",
     "targetAge": "青年期・大人",
     "fetchedAt": "2026-09-01T14:29:28.535Z"
-  },
-  {
-    "title": "Autistic neural ‘shiftability’: the distinct pharmacological landscape of the autistic brain",
-    "link": "https://www.nature.com/articles/s41398-026-04371-1",
-    "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MzcxLTE=",
-    "summary": "TITLE: ASDの脳は薬にどう反応する？新発見\n- ASDのあるお子さんの脳は、一般的な脳とは少し異なり、薬に対する反応の仕方も独特である可能性が研究で示されました。\n- この発見は、将来、お子さん一人ひとりの脳の特性に合わせた、より効果的な薬や支援方法を見つけるヒントになるかもしれません。\n- お子さんの個性や行動の背景には、脳の働き方の違いがあることを、科学的な視点から理解を深めるきっかけとなります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんに合う個別支援や薬物療法の未来に希望が持てます。",
-    "todayAction": "お子さんの行動特性や困りごとについて、専門家と改めて話し合ってみる。",
-    "japanHint": "日本でも、この研究が個別支援や療育プログラムの進化に繋がり、より多くの子どもたちが笑顔で過ごせる未来に期待。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-08-31T17:22:12.723Z"
   }
 ]
