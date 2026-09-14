@@ -1,5 +1,22 @@
 [
   {
+    "title": "Organoid intelligence: a promising paradigm for autism spectrum disorder research",
+    "link": "https://www.nature.com/articles/s41380-026-03850-7",
+    "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzODUwLTc=",
+    "summary": "TITLE: 脳のミニ臓器でASD研究に新たな希望\n- ASDの理解や支援の発展に、これまでとは違う新しい研究方法が注目されています。\n- 私たちの脳の特徴を小さく再現した「ミニ脳」を使い、ASDの複雑なメカニズムを詳しく調べようとしています。\n- この最先端の研究が、未来のASD支援や治療法開発の大きな一歩になると期待されています。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "子どものASDの解明や支援の発展に明るい希望が見える研究です。",
+    "todayAction": "子どもの得意なことや苦手なことを注意深く観察し、理解を深めましょう。",
+    "japanHint": "日本でも国際的な研究連携を期待。未来の個別支援に繋がる発見を応援します。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-09-14T16:08:40.893Z"
+  },
+  {
     "title": "A serotonergic mechanism is involved in the pro-cognitive effect of AM6545 treatment in a mouse model of fragile X syndrome",
     "link": "https://www.nature.com/articles/s41398-026-04360-4",
     "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本では早くできるようになることを求めがちですが、この研究は一人ひとりのペースを大切にする教育のヒントになりますね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-09-01T14:29:09.600Z"
-  },
-  {
-    "title": "CDC Launches New Overdose Prevention Data Channel",
-    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766345",
-    "pubDate": "Mon, 31 Aug 2026 08:00:00 GMT",
-    "source": "CDC Autism News",
-    "contentSnippet": "CDC launches a central data channel to track overdose trends and strengthen prevention nationwide.",
-    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjM0NQ==",
-    "summary": "TITLE: 過剰摂取防止データ、新たな分析チャンネル開設\n- アメリカのCDCが、心身の健康に関わる「過剰摂取」に関するデータを集める新しい仕組みをスタートさせました。\n- このデータ分析は、将来的に子どもたちが直面するかもしれない様々な心の問題への予防策を、国全体で強化することを目的としています。\n- ASDを持つ子どもたちは、成長の過程で心に負担を抱えることもあるため、将来を見据えた支援の土台作りに繋がる希望が見えます。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "将来的な子どもの心身の健康と安全を守る土台となる。",
-    "todayAction": "子どもの不安やストレスのサインに日頃から気づく練習をする。",
-    "japanHint": "日本でも、子どもたちの心身の健康データを収集し、一人ひとりに合わせた支援が広がることに期待したいです。",
-    "targetAge": "青年期・大人",
-    "fetchedAt": "2026-09-01T14:29:28.535Z"
   }
 ]
