@@ -1,5 +1,22 @@
 [
   {
+    "title": "Scientists discover the brain cells that keep you motivated",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
+    "pubDate": "Wed, 05 Aug 2026 08:09:48 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target for understanding why people sometimes struggle to sustain goal-directed behavior.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA4LzI2MDgwNDAzNDYyMi5odG0=",
+    "summary": "TITLE: やる気を維持する脳細胞の秘密\n- 脳の中にある「オレキシン神経細胞」という部分が、目標が難しくなっても頑張り続ける力を生み出していることが、新しい研究でわかってきました。\n- この神経細胞の働きが弱まると、やる気がなくなり途中で諦めてしまうことが、マウスを使った実験で明らかになりました。\n- この発見は、ASDのお子さんが特定の行動や学習を続けるのが難しい時に、なぜそうなってしまうのかを理解する手がかりになるかもしれません。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "ASDのお子さんの「やり抜く力」を科学的に理解する手がかりです。",
+    "todayAction": "子どもが頑張った過程を具体的に言葉で褒め、達成感を共有しましょう。",
+    "japanHint": "日本でも、お子さんのやる気を科学的に分析し、一人ひとりに合った学習や生活支援がもっと充実すると良いですね。希望が膨らみます。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-09-19T23:58:46.788Z"
+  },
+  {
     "title": "Biomarkers for autism, and more",
     "link": "https://www.thetransmitter.org/spectrum/biomarkers-for-autism-and-more/",
     "pubDate": "Tue, 25 Aug 2026 04:00:20 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でもこの知見が広がり、安心して妊娠・出産できる環境がさらに整うことを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-09-08T00:05:00.790Z"
-  },
-  {
-    "title": "Spatial transcriptional signatures linked to brain activity patterns in MECP2 transgenic monkeys and human autism spectrum disorder",
-    "link": "https://www.nature.com/articles/s41398-026-04424-5",
-    "pubDate": "Mon, 7 Sep 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0NDI0LTU=",
-    "summary": "TITLE: ASD脳の遺伝子と活動パターン新発見\n- 自閉スペクトラム症（ASD）の脳の仕組みを深く理解するため、特定の遺伝子を持つサルで研究が進められました。\n- この研究は、脳のどこで遺伝子が活動し、それが脳の働きにどう影響するかを明らかにするものです。\n- 将来的に、ASDを持つお子さん一人ひとりに合わせた、より効果的なサポートや治療法の開発につながる大きな一歩となる可能性があります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDの脳の仕組み解明へ一歩、希望を感じる研究です。",
-    "todayAction": "お子さんの「好き」や「得意」を一緒に深掘りしてみましょう。",
-    "japanHint": "日本でも、最新研究を基にした、子ども一人ひとりの脳の特性に合わせた支援が広がることを願います。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-09-07T15:28:41.546Z"
   }
 ]
