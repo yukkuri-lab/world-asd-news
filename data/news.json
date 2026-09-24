@@ -1,5 +1,22 @@
 [
   {
+    "title": "Neurabin I haploinsufficiency disrupts ion channel regulation and synaptic maturation in human cortical neurons in neurodevelopmental disorders",
+    "link": "https://www.nature.com/articles/s41380-026-03818-7",
+    "pubDate": "Sat, 15 Aug 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzODE4LTc=",
+    "summary": "TITLE: ASDの脳発達に関わる遺伝子の研究成果。\n- ASDなど脳の発達に関わる特性を持つお子さんの脳で、特定の遺伝子が神経細胞の働きに影響を与える仕組みが分かり始めました。\n- この研究は、脳の神経細胞が電気信号を伝えたり、他の細胞とつながったりする大切な働きが、なぜASDと関係するのかを明らかにするものです。\n- お子さんの行動や特性の背景にある、脳の繊細な発達メカニズムへの理解を深めることで、より良い支援につながる希望の光となります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDのお子さんの脳の個性を科学的に理解する手がかり。",
+    "todayAction": "お子さんのユニークな脳の発達を応援する気持ちを大切にしましょう。",
+    "japanHint": "脳の個性を生かす教育や支援が、日本でもさらに進化する未来に期待大です。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-09-24T00:19:29.637Z"
+  },
+  {
     "title": "Sensory over-responsivity tied to autism, anxiety but not other conditions",
     "link": "https://www.thetransmitter.org/spectrum/sensory-over-responsivity-tied-to-autism-anxiety-but-not-other-conditions/",
     "pubDate": "Thu, 10 Sep 2026 04:00:51 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも脳のメカニズム解明研究が進み、子どもたち一人ひとりに合った支援がもっと広がることを期待します。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-09-12T13:19:50.400Z"
-  },
-  {
-    "title": "Long-read proteogenomic atlas of human neuronal differentiation reveals isoform diversity informing neurodevelopmental risk mechanisms",
-    "link": "https://www.nature.com/articles/s41467-026-76675-1",
-    "pubDate": "Wed, 19 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDI2LTc2Njc1LTE=",
-    "summary": "TITLE: ASD解明へ一歩！脳の発達プロセス研究\n- この研究は、私たちの脳がどのように成長し、それぞれの神経細胞が機能するかの仕組みを深く調べています。\n- ASDのような神経発達の多様性を持つお子さんの「なぜ？」を解き明かすための、大切な基礎研究の一つです。\n- 将来的には、一人ひとりに合ったサポートや、より効果的な介入方法を見つける手助けになる可能性があります。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "ASDの原因解明に繋がり、将来の支援に役立つ兆しです。",
-    "todayAction": "お子さんのユニークな特性を認め、小さな成長を一緒に喜びましょう。",
-    "japanHint": "日本でも、脳の個性や発達の多様性に着目した研究が、より深く進むことに期待します。新しい視点から子どもたちの可能性を引き出すヒントが見つかるかもしれません。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-09-12T13:20:40.801Z"
   }
 ]
