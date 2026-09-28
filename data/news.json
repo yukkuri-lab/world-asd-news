@@ -1,5 +1,22 @@
 [
   {
+    "title": "Reimagining Mexico’s brain bank",
+    "link": "https://www.thetransmitter.org/the-state-of-neuroscience-in-latin-america/reimagining-mexicos-brain-bank/",
+    "pubDate": "Fri, 28 Aug 2026 13:01:57 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Since Alzheimer’s disease researcher José Luna-Muñoz assumed leadership of the facility—Latin America’s oldest—in 2011, he has been acquiring additional tissue types and is working to expand donor recruitment to rural areas.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3RoZS1zdGF0ZS1vZi1uZXVyb3NjaWVuY2UtaW4tbGF0aW4tYW1lcmljYS9yZWltYWdpbmluZy1tZXhpY29zLWJyYWluLWJhbmsv",
+    "summary": "TITLE: メキシコ脳バンク進化が示すASD研究の希望\n- 脳バンクは、脳の仕組みやさまざまな特性、病気を深く理解するための、かけがえのない研究施設です。\n- メキシコで最も古いこの脳バンクが、アルツハイマー病研究者のリーダーシップのもと、収集する脳組織の種類や協力者の募集範囲を広げ、大きく進化しています。\n- この国際的な取り組みは、将来的に自閉スペクトラム症（ASD）を含む、脳の多様な発達や特性の解明に繋がり、より良い支援方法を見つける希望の光となるでしょう。",
+    "country": "MX",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "脳の研究が進むことで、将来的にASDへの理解が深まり、より良い支援に繋がる可能性。",
+    "todayAction": "お子さんの興味や「好き」を一緒に深掘りし、脳を豊かに育む体験を大切にしましょう。",
+    "japanHint": "日本でもこのような脳バンク研究が進むことで、ASDの子どもたちの未来を明るくする支援や教育が発展するはずと期待します。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-09-28T17:58:06.027Z"
+  },
+  {
     "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
     "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
     "pubDate": "Sun, 27 Sep 2026 09:53:39 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも脳の多様性を理解し、一人ひとりに合った支援がもっと広がることを願います。未来の治療法に期待し、希望を持ちましょう。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-09-18T14:04:53.242Z"
-  },
-  {
-    "title": "Sylvia Fogel, reshaping U.S. autism research strategy",
-    "link": "https://www.thetransmitter.org/spectrum/sylvia-fogel-reshaping-u-s-autism-research-strategy/",
-    "pubDate": "Thu, 17 Sep 2026 04:00:21 +0000",
-    "source": "Spectrum News",
-    "contentSnippet": "In a wide-ranging and provocative interview, the chair of the federal Interagency Autism Coordinating Committee shares her views on vaccines, regression, neuroimmune conditions and more.",
-    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3N5bHZpYS1mb2dlbC1yZXNoYXBpbmctdS1zLWF1dGlzbS1yZXNlYXJjaC1zdHJhdGVneS8=",
-    "summary": "TITLE: 米国ASD研究、戦略トップが語る未来\n- 米国の連邦自閉症調整委員会のトップが、今後の自閉症研究の方向性について最新の見解を語っています。\n- 自閉症と関連が議論されるワクチン、発達の退行現象、そして脳と免疫系の関係など、多岐にわたるテーマが議論されました。\n- この議論は、将来のASDの理解を深め、より効果的な支援や療育の開発に繋がる大切な一歩となるでしょう。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "将来のASD支援や療育が、どのように進化するかを知る手がかり。",
-    "todayAction": "最新のASD研究に少し関心を向け、未来に希望を持ちましょう。",
-    "japanHint": "日本でも、国を挙げたASD研究戦略の議論が活発になり、私たち保護者の声が届くことを期待したいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-09-17T14:37:47.033Z"
   }
 ]
