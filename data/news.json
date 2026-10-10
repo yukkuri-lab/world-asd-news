@@ -1,5 +1,22 @@
 [
   {
+    "title": "Neurabin I haploinsufficiency disrupts ion channel regulation and synaptic maturation in human cortical neurons in neurodevelopmental disorders",
+    "link": "https://www.nature.com/articles/s41380-026-03818-7",
+    "pubDate": "Sat, 15 Aug 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzODE4LTc=",
+    "summary": "TITLE: ASDの脳機能、遺伝子研究で新発見\n- 「ニューラビンI」という遺伝子が、脳の神経細胞の成長や情報伝達に影響を与えている可能性が示されました。\n- この研究は、ASD（自閉スペクトラム症）のお子さんの脳の特性を理解する大切な手がかりになると期待されています。\n- 将来的に、一人ひとりのお子さんに合った、より効果的なサポートや新しいアプローチが生まれるかもしれません。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "ASDの脳の特性を科学的に理解する手がかりです。",
+    "todayAction": "お子さんの「得意」や「好き」を再発見し、一緒に楽しむ時間を作りましょう。",
+    "japanHint": "日本でも、脳の特性を深く理解した個別支援や、その可能性を広げる研究に期待が膨らみます。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-10-10T01:35:56.141Z"
+  },
+  {
     "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
     "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
     "pubDate": "Sun, 27 Sep 2026 09:53:39 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、脳の働きを理解した個別の支援が広がり、お子さん一人ひとりの可能性をもっと引き出せる日が来るのが楽しみです。",
     "targetAge": "小学生",
     "fetchedAt": "2026-09-29T16:19:11.148Z"
-  },
-  {
-    "title": "Scientists found a surprising driver of Alzheimer’s outside the brain",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260925093150.htm",
-    "pubDate": "Sun, 27 Sep 2026 22:39:28 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "Scientists found that immune cells contributing to Alzheimer’s-related brain damage may be activated in lymph nodes outside the brain before traveling into the nervous system. Blocking this pathway in mice dramatically reduced neurodegeneration and preserved cognitive abilities, pointing to a potentially more accessible treatment target.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA5LzI2MDkyNTA5MzE1MC5odG0=",
-    "summary": "TITLE: 脳と免疫の新しい関係性！未来の治療に光\n- 脳の病気は脳だけでなく、体の免疫システムも深く関わっていることが分かってきました。\n- 脳の外にあるリンパ節で活性化した免疫細胞が、脳の健康に影響を与える新しい経路が発見されました。\n- この発見は、将来的にさまざまな神経の病気の原因解明や、より優しい治療法につながる希望の光です。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "脳と体のつながりを理解し、子どもの全体的な健康を考えるきっかけになります。",
-    "todayAction": "お子さんの健康的な生活習慣（食事、睡眠、適度な運動）を家族みんなで意識してみましょう。",
-    "japanHint": "脳と体の関係性の研究は、日本の特別支援教育や発達支援でも、子ども一人ひとりの支援を考えるヒントになるはず。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-09-29T01:36:28.701Z"
   }
 ]
