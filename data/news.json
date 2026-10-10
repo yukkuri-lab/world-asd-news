@@ -1,5 +1,22 @@
 [
   {
+    "title": "Sylvia Fogel, reshaping U.S. autism research strategy",
+    "link": "https://www.thetransmitter.org/spectrum/sylvia-fogel-reshaping-u-s-autism-research-strategy/",
+    "pubDate": "Thu, 17 Sep 2026 04:00:21 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "In a wide-ranging and provocative interview, the chair of the federal Interagency Autism Coordinating Committee shares her views on vaccines, regression, neuroimmune conditions and more.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3N5bHZpYS1mb2dlbC1yZXNoYXBpbmctdS1zLWF1dGlzbS1yZXNlYXJjaC1zdHJhdGVneS8=",
+    "summary": "TITLE: 米国の自閉症研究、新戦略へ\n- アメリカの自閉症研究の方向性を決める重要な委員会のトップが、今後の研究課題について語りました。\n- ワクチンとの関連、発達の退行現象、体内の炎症との関係など、親御さんが抱く多くの疑問がテーマに含まれています。\n- この対談は、自閉症の当事者やご家族の生活をより良くするための研究が進む希望を示しています。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "自閉症研究が、親御さんの日々の疑問や不安に応える方向へ進む兆しです。",
+    "todayAction": "お子さんの発達で気になることは、遠慮なく専門家と共有する機会を持ちましょう。",
+    "japanHint": "日本でも、国として自閉症研究の優先順位を議論し、親が抱える疑問や不安に答える研究がもっと進むと良いですね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-10-10T15:40:57.834Z"
+  },
+  {
     "title": "Neurabin I haploinsufficiency disrupts ion channel regulation and synaptic maturation in human cortical neurons in neurodevelopmental disorders",
     "link": "https://www.nature.com/articles/s41380-026-03818-7",
     "pubDate": "Sat, 15 Aug 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "海外の研究が日本の支援現場にも早く届き、個別化されたサポートが実現することを願います。",
     "targetAge": "共通",
     "fetchedAt": "2026-09-29T16:18:48.334Z"
-  },
-  {
-    "title": "Estimating differing causal roles of glutamate and GABA genes on brain and behavior in autism",
-    "link": "https://www.nature.com/articles/s41398-026-04361-3",
-    "pubDate": "Mon, 24 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0MzYxLTM=",
-    "summary": "TITLE: ASDの脳機能と行動、遺伝子の関係\n- ASDのお子さんの脳の働きと、その行動や特性に、特定の遺伝子が関わっている可能性が示されました。\n- 脳の中で心や体のバランスを保つ「司令塔」のような物質（グルタミン酸とGABA）を作る遺伝子が、それぞれ異なる影響を与えていることが分かってきています。\n- この研究は、将来的に一人ひとりの特性に合わせた、よりきめ細やかなサポート方法を見つけるための大切な一歩となるかもしれません。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの特性理解と個別支援のヒントに繋がる。",
-    "todayAction": "お子さんの行動の背景にある特性を改めて考えてみましょう。",
-    "japanHint": "日本でも、脳の働きを理解した個別の支援が広がり、お子さん一人ひとりの可能性をもっと引き出せる日が来るのが楽しみです。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-09-29T16:19:11.148Z"
   }
 ]
