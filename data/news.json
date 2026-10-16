@@ -1,5 +1,22 @@
 [
   {
+    "title": "New autism therapy shows surprising benefits even in adult mice",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
+    "pubDate": "Fri, 07 Aug 2026 08:38:30 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain more treatable later in life than previously thought.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA4LzI2MDgwNTA4MjUwOC5odG0=",
+    "summary": "TITLE: ASDの新しい治療法、大人でも効果の可能性\n- ASDの行動特性が改善する新しい治療法が、マウスの実験で見つかりました。\n- この治療法は、人間の脳の細胞モデルや大人のマウスでも効果があり、改善が長く続くことも分かりました。\n- これにより、ASDの脳はこれまで考えられていたよりも、大人になってからでも変化しやすかもしれないという希望が見えてきました。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "将来の治療法の可能性に光を当て、希望を与えます。",
+    "todayAction": "お子さんの「できること」を認め、成長を喜びましょう。",
+    "japanHint": "日本でも、この研究が早く進み、新しい支援や治療に繋がることを期待します。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-10-16T14:30:17.857Z"
+  },
+  {
     "title": "CDC Data Show Encouraging Progress in Youth Health",
     "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766493",
     "pubDate": "Mon, 21 Sep 2026 16:00:00 GMT",
@@ -831,22 +848,5 @@
     "japanHint": "妊娠中のママの健康を多角的にサポートする、きめ細やかな仕組みが日本でももっと進むと良いですね。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-10-04T15:07:33.326Z"
-  },
-  {
-    "title": "In vivo imaging of synaptic density in psychotropic-free adults with autism spectrum disorder: a [¹¹C]UCB-J PET study",
-    "link": "https://www.nature.com/articles/s41380-026-03812-z",
-    "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzODEyLXo=",
-    "summary": "TITLE: ASDの脳のつながり、最新研究で明らかに\n- ASD（自閉スペクトラム症）の成人の脳について、薬の影響がない状態で精密な画像検査が行われました。\n- この研究は、脳の神経細胞のつながり（シナプス密度）がASDの方々でどのように異なっているかを、特殊なPET検査で調べたものです。\n- 脳の仕組みを深く理解することで、将来、一人ひとりに合ったサポートや、より良い支援につながる可能性を秘めています。\n- 今回の研究では、ASDの脳の一部でシナプスの密度が異なることが示唆され、さらなる研究が期待されます。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "子どもの脳の特性理解が進み、より良い支援に繋がる可能性。",
-    "todayAction": "子どもの好きなことや得意なことをたくさん見つけて褒めてあげましょう。",
-    "japanHint": "日本でも、最新の脳科学の知見が、子どもたちの成長を支える個別支援に繋がってほしいと願います。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-10-04T00:24:41.043Z"
   }
 ]
