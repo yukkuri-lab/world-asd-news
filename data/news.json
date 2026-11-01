@@ -1,5 +1,22 @@
 [
   {
+    "title": "What is dyspraxia and how does it affect autistic individuals?",
+    "link": "https://autismawarenesscentre.com/what-is-dyspraxia-and-how-does-it-affect-autistic-individuals/",
+    "pubDate": "Mon, 14 Sep 2026 16:25:57 +0000",
+    "source": "Autism Awareness Centre",
+    "contentSnippet": "Dyspraxia, also known as Developmental Coordination Disorder (DCD), is a neurodevelopmental condition that affects the planning and execution of physical movements. The brain has difficulty coordinating the body to carry out intended actions smoothly and accurately. Some of the characteristics are difficulties in motor skills such as balance, fine motor control, and spatial awareness. Tumi Sotire, adult with dyspraxia, says:…\nThe post What is dyspraxia and how does it affect autistic individuals? appeared first on Autism Awareness.",
+    "id": "aHR0cHM6Ly9hdXRpc21hd2FyZW5lc3NjZW50cmUuY29tL3doYXQtaXMtZHlzcHJheGlhLWFuZC1ob3ctZG9lcy1pdC1hZmZlY3QtYXV0aXN0aWMtaW5kaXZpZHVhbHMv",
+    "summary": "TITLE: ASDの子の運動のぎこちなさの理解\n- 発達性協調運動症（DCD）は、体の動きを計画し実行するのが難しい特性です。\n- ASDのお子さんの中には、このDCDを併せ持つケースが少なくないと言われています。\n- バランス感覚や手先の器用さ、空間認識に難しさが見られることがあります。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの運動のぎこちなさの理由を知るヒントに。",
+    "todayAction": "お子さんの運動の様子を優しく観察し、メモしてみましょう。",
+    "japanHint": "日本でも、ASDと運動の特性の関係がもっと理解され、遊びや運動の場で一人ひとりに合ったサポートが広がると嬉しいですね。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-11-01T16:33:43.613Z"
+  },
+  {
     "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
     "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
     "pubDate": "Thu, 22 Oct 2026 06:10:23 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも脳科学研究が進み、一人ひとりに合った支援が開発されることを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-10-24T13:48:59.132Z"
-  },
-  {
-    "title": "Scientists found a surprising driver of Alzheimer’s outside the brain",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260925093150.htm",
-    "pubDate": "Sun, 27 Sep 2026 22:39:28 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "Scientists found that immune cells contributing to Alzheimer’s-related brain damage may be activated in lymph nodes outside the brain before traveling into the nervous system. Blocking this pathway in mice dramatically reduced neurodegeneration and preserved cognitive abilities, pointing to a potentially more accessible treatment target.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA5LzI2MDkyNTA5MzE1MC5odG0=",
-    "summary": "TITLE: 脳の健康を守るヒント？免疫細胞の新しい発見。\n- 脳の病気は、実は脳の外にある免疫細胞の働きが関係していることが分かってきました。\n- マウスの実験では、この免疫細胞の動きを抑えることで、脳のダメージを減らし、記憶や学習能力を保てたそうです。\n- まだ研究段階ですが、将来、脳の多様な働きをサポートする新しい方法が見つかるかもしれないと期待されています。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "子どもの脳の健康に繋がる新たな可能性への期待。",
-    "todayAction": "バランスの取れた食事や十分な睡眠で、免疫力を保ちましょう。",
-    "japanHint": "脳の健康は全身のケアから。日本でも、この研究が幅広い脳の特性の理解につながると良いですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-10-24T13:49:12.713Z"
   }
 ]
