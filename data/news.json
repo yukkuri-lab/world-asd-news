@@ -1,5 +1,22 @@
 [
   {
+    "title": "Autism research involving monkeys contends with uphill battle",
+    "link": "https://www.thetransmitter.org/what-if-nonhuman-primate-research-goes-away/autism-research-involving-monkeys-contends-with-uphill-battle/",
+    "pubDate": "Mon, 02 Nov 2026 05:00:30 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Macaques and marmosets recapitulate the condition’s core traits better than mice can, but funding uncertainty and challenges at primate centers in the United States could make this work difficult to continue.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3doYXQtaWYtbm9uaHVtYW4tcHJpbWF0ZS1yZXNlYXJjaC1nb2VzLWF3YXkvYXV0aXNtLXJlc2VhcmNoLWludm9sdmluZy1tb25rZXlzLWNvbnRlbmRzLXdpdGgtdXBoaWxsLWJhdHRsZS8=",
+    "summary": "TITLE: 自閉スペクトラム症研究、サルモデルの挑戦\n- サルを使った自閉スペクトラム症の研究は、マウスよりも人間の特性をよく捉え、より効果的な支援方法を見つけるための重要な手がかりとなる可能性があります。\n- しかし、この大切な研究は、資金不足や研究施設の維持といった課題に直面しており、研究の継続が危ぶまれています。\n- 私たちは、将来の子どもたちのために、このような基礎研究が安定して続けられるよう、社会全体で関心を持つことが大切だと考えます。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "より良い支援につながる基礎研究の重要性を知る機会。",
+    "todayAction": "ASD研究のニュースに関心を持ち、情報を共有してみる。",
+    "japanHint": "日本でも、子どもたちの未来のために基礎研究への理解と支援がもっと広がると嬉しいですね。",
+    "targetAge": "共通",
+    "fetchedAt": "2026-11-02T19:57:20.786Z"
+  },
+  {
     "title": "Scientists discover a hidden messaging system deep inside the brain",
     "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
     "pubDate": "Fri, 23 Oct 2026 04:28:22 EDT",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、グループ学習での視覚的な指示や役割分担の工夫がもっと広がると、全ての子どもが安心して学べますね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-10-25T00:06:37.014Z"
-  },
-  {
-    "title": "CDC Launches New Overdose Prevention Data Channel",
-    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766345",
-    "pubDate": "Mon, 31 Aug 2026 08:00:00 GMT",
-    "source": "CDC Autism News",
-    "contentSnippet": "CDC launches a central data channel to track overdose trends and strengthen prevention nationwide.",
-    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjM0NQ==",
-    "summary": "TITLE: CDC、子どもたちの未来を守るデータ活用\n- アメリカのCDCが、データを使って社会全体の健康課題を予防する新しい仕組みをスタートさせました。\n- これにより、様々な健康問題に対して、より科学的根拠に基づいた対策が立てられるようになります。\n- 国がデータで人々の健康を守ろうとする姿勢は、私たちの子どもたちが安心して成長できる社会づくりへの希望です。",
-    "country": "US",
-    "category": "制度・政策",
-    "reliability": "★★★",
-    "parentMeaning": "データに基づく国の予防策強化が、将来の子どもの健康と安全につながる。",
-    "todayAction": "子どもの心と体の変化に気づけるよう、日々のコミュニケーションを大切にしましょう。",
-    "japanHint": "日本でも、子どもの発達や健康に関するデータ活用が進み、きめ細やかなサポートが充実すると嬉しいです。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-10-25T00:06:53.048Z"
   }
 ]
