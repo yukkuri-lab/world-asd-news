@@ -1,5 +1,22 @@
 [
   {
+    "title": "Twenty-Five Years After 9/11 - Lessons from the World Trade Center Health Program",
+    "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766407",
+    "pubDate": "Thu, 10 Sep 2026 08:00:00 GMT",
+    "source": "CDC Autism News",
+    "contentSnippet": "Paper examines 9/11-related health outcomes and lessons learned since the disaster.",
+    "id": "aHR0cHM6Ly90b29scy5jZGMuZ292L2FwaS9lbWJlZC9kb3dubG9hZGVyL2Rvd25sb2FkLmFzcD9tPTEzMjYwOCZjPTc2NjQwNw==",
+    "summary": "TITLE: 9/11から25年：ASDと災害後のケア\n- 大災害を経験した後、子どもたちがどのように心と体の変化を経験するか、長期的な視点での支援の重要性が示唆されています。\n- 特にASDのお子さんは、環境の変化やストレスに敏感なため、継続的で丁寧な心のケアと健康観察が欠かせないことが分かります。\n- 非常事態の直後だけでなく、その後の長い期間にわたって、お子さんの安心を守るためのサポートを続ける大切さを教えてくれます。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "災害時や環境変化に、ASDの子の心身をどう守るか学べます。",
+    "todayAction": "子どもが安心できる日課や居場所を再確認しましょう。",
+    "japanHint": "日本でも災害時のASD支援プログラムが、長期的な視点を持って進むことを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-11-03T03:22:52.130Z"
+  },
+  {
     "title": "Autism research involving monkeys contends with uphill battle",
     "link": "https://www.thetransmitter.org/what-if-nonhuman-primate-research-goes-away/autism-research-involving-monkeys-contends-with-uphill-battle/",
     "pubDate": "Mon, 02 Nov 2026 05:00:30 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、この研究が子どもの個性に応じた支援のヒントになると嬉しいですね。",
     "targetAge": "小学生",
     "fetchedAt": "2026-10-25T00:06:11.780Z"
-  },
-  {
-    "title": "Supporting Autistic Students with Group Work",
-    "link": "https://autismawarenesscentre.com/supporting-autistic-students-with-group-work/",
-    "pubDate": "Fri, 04 Sep 2026 11:51:42 +0000",
-    "source": "Autism Awareness Centre",
-    "contentSnippet": "Group work is an important part of learning and classroom education; however, working in groups can be challenging for autistic students. They may have difficulty with: processing oral information following multistep directions the assignment or instructions may be on one sheet for the group to share; the autistic student may not ask to see it unspoken social rules understanding expectations…\nThe post Supporting Autistic Students with Group Work appeared first on Autism Awareness.",
-    "id": "aHR0cHM6Ly9hdXRpc21hd2FyZW5lc3NjZW50cmUuY29tL3N1cHBvcnRpbmctYXV0aXN0aWMtc3R1ZGVudHMtd2l0aC1ncm91cC13b3JrLw==",
-    "summary": "TITLE: ASDの子のグループ学習を支えるヒント\n- グループ学習は学校で大切な学びの場ですが、ASDの子どもたちにとっては特別な配慮が必要な場合があります。\n- 口頭での複雑な指示の理解や、目に見えない社会のルールを読み取ることが難しく、戸惑うことも少なくありません。\n- 先生や周りの少しの工夫があれば、ASDの子どもたちもグループ活動に安心して参加し、学びを深めることができます。",
-    "country": "CA",
-    "category": "学校教育",
-    "reliability": "★★",
-    "parentMeaning": "学校でのグループ学習の苦手さへの理解が深まる。",
-    "todayAction": "担任の先生に、具体的な困り事を共有して相談する。",
-    "japanHint": "日本でも、グループ学習での視覚的な指示や役割分担の工夫がもっと広がると、全ての子どもが安心して学べますね。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-10-25T00:06:37.014Z"
   }
 ]
