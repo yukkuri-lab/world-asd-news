@@ -1,5 +1,22 @@
 [
   {
+    "title": "Bioinformatic investigation of convergent proteins and cellular functions downstream of autism-associated genes",
+    "link": "https://www.nature.com/articles/s41380-026-03940-6",
+    "pubDate": "Wed, 4 Nov 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzODAtMDI2LTAzOTQwLTY=",
+    "summary": "TITLE: ASDの多様な特性に共通点？\n- ASDのお子さんの行動や感じ方の多様性には、実は脳の細胞レベルで共通するメカニズムがあるかもしれない、という研究です。\n- この研究は、多くの異なるASDの特性が、脳の中で共通の場所や働きに関わっている可能性を示唆しています。\n- 将来、ASDのお子さん一人ひとりに合わせた、より効果的なサポート方法を見つけるヒントになることが期待されます。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの多様性と脳の共通点を理解し、将来の支援に繋がる可能性",
+    "todayAction": "お子さんの個性や「らしさ」を大切に受け止める時間を持ちましょう。",
+    "japanHint": "世界中の研究が進み、日本でもすべてのお子さんが自分らしく輝ける社会になることを願っています。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-11-05T02:02:19.166Z"
+  },
+  {
     "title": "Transcriptomic convergence and the female protective effect in autism",
     "link": "https://www.nature.com/articles/s41586-026-11236-6",
     "pubDate": "Wed, 4 Nov 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、お子さんの個性を深く理解し、その子にぴったりの支援を届ける研究や体制がもっと進んでほしいと願います。",
     "targetAge": "幼児・小学生",
     "fetchedAt": "2026-10-25T23:57:48.370Z"
-  },
-  {
-    "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-    "pubDate": "Fri, 04 Sep 2026 08:29:06 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA5LzI2MDkwMjIzNDUxOC5odG0=",
-    "summary": "TITLE: ホヤに脳活性化の可能性、学習能力向上へ期待\n- スタンフォード大学の研究で、ホヤ由来の成分が高齢マウスの記憶力や学習能力を向上させることが分かりました。\n- この成分は脳細胞のつながりを強化し、脳の炎症を抑える可能性が示されています。\n- 今後の研究次第では、脳の再生や神経細胞の保護につながり、認知機能サポートの新たなヒントとなるかもしれません。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "子どもの学習能力向上や脳の発達をサポートする研究に、新たな希望を与えるでしょう。",
-    "todayAction": "脳の健康を意識したバランスの良い食事について、家族で話し合う良い機会になるでしょう。",
-    "japanHint": "日本でも身近な海産物ホヤの研究進展は、未来の子どもたちの可能性を広げる期待につながります。",
-    "targetAge": "小学生",
-    "fetchedAt": "2026-10-25T23:58:12.586Z"
   }
 ]
