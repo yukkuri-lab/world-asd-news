@@ -1,5 +1,22 @@
 [
   {
+    "title": "Spatial transcriptional signatures linked to brain activity patterns in MECP2 transgenic monkeys and human autism spectrum disorder",
+    "link": "https://www.nature.com/articles/s41398-026-04424-5",
+    "pubDate": "Mon, 7 Sep 2026 00:00:00 +0000",
+    "source": "Nature",
+    "contentSnippet": "",
+    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0NDI0LTU=",
+    "summary": "TITLE: ASD脳活動と遺伝子の関連発見\n- 自閉スペクトラム症（ASD）のお子さんの脳の活動パターンと、特定の遺伝子の働きに新しい関係性が見つかりました。\n- この発見は、脳の仕組みをより深く理解し、一人ひとりの特性に合ったサポートを考える上で貴重なヒントになります。\n- 今は難しい研究段階ですが、将来、お子さんの『なぜ？』を解き明かし、可能性を広げる明るい一歩と期待できます。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★★",
+    "parentMeaning": "お子さんの脳の仕組みが分かり、個別支援に繋がる希望。",
+    "todayAction": "お子さんの好きなことや得意なことを、改めて見つけてみましょう。",
+    "japanHint": "日本でもこの研究から、お子さん一人ひとりの特性を理解し、その子にぴったりの教育や支援が広がることを期待します。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-11-06T02:05:08.968Z"
+  },
+  {
     "title": "Acetaminophen effects on developing brain organoids; and more",
     "link": "https://www.thetransmitter.org/spectrum/acetaminophen-effects-on-developing-brain-organoids-and-more/",
     "pubDate": "Tue, 13 Oct 2026 04:00:21 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも脳の多様性を理解し、一人ひとりの可能性を広げる研究や支援がもっと広がると嬉しいですね。",
     "targetAge": "共通",
     "fetchedAt": "2026-10-26T16:26:25.525Z"
-  },
-  {
-    "title": "Psilocybin enhances sociability only in altered behavioural state and does not need an awake experience to be effective",
-    "link": "https://www.nature.com/articles/s41467-026-77238-0",
-    "pubDate": "Thu, 27 Aug 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDI2LTc3MjM4LTA=",
-    "summary": "TITLE: 新しい心のつながり方を探る脳科学研究\n- 心がとてもリラックスした特別な状態で、他者とつながる社会性が高まる可能性が示されました。\n- 意識がはっきりしていなくても、脳が社会性を育む重要な働きをするかもしれないという発見です。\n- この研究は、将来、お子さんの社会性を育む新しい支援法につながる明るい光となるでしょう。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの心のつながり方を理解し、支援する新たなヒントになるかも。",
-    "todayAction": "お子さんが安心できる環境で、共に心地よい時間を過ごす工夫をしてみましょう。",
-    "japanHint": "日本でも、安心できる環境で社会性を育むための脳科学研究が進むことを願います。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-10-26T16:26:57.167Z"
   }
 ]
