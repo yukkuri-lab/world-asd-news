@@ -1,5 +1,22 @@
 [
   {
+    "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+    "pubDate": "Fri, 04 Sep 2026 08:29:06 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA5LzI2MDkwMjIzNDUxOC5odG0=",
+    "summary": "TITLE: スタンフォード大、ホヤで老化対策新発見！\n- ホヤから見つかった特別な成分が、脳の働きを良くする可能性が期待されています。\n- この成分は、記憶力や学習能力の向上、脳の細胞同士のつながりを強くすることに役立つかもしれません。\n- 将来的に、子どもたちの脳の発達や、学びの力をサポートするヒントになる可能性も秘めています。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "脳の機能や学習能力を高める新たな可能性を示唆します。",
+    "todayAction": "脳の働きを支える健康的な食生活について改めて考えてみましょう。",
+    "japanHint": "日本でも海の幸は豊富！身近な食材が未来の脳科学に繋がり、子どもの健やかな成長を支えるヒントになるかもしれませんね。",
+    "targetAge": "幼児・小学生",
+    "fetchedAt": "2026-11-07T01:44:21.661Z"
+  },
+  {
     "title": "Spatial transcriptional signatures linked to brain activity patterns in MECP2 transgenic monkeys and human autism spectrum disorder",
     "link": "https://www.nature.com/articles/s41398-026-04424-5",
     "pubDate": "Mon, 7 Sep 2026 00:00:00 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、この研究が個別支援のヒントとなり、子どもの特性を深く理解する教育が進むことを期待します。",
     "targetAge": "共通",
     "fetchedAt": "2026-10-26T16:26:10.648Z"
-  },
-  {
-    "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
-    "pubDate": "Thu, 01 Oct 2026 00:45:26 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experiments, revealing promising new targets for Alzheimer’s, Parkinson’s, and other neurodegenerative diseases.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzA5LzI2MDkzMDIyNTQ1MC5odG0=",
-    "summary": "TITLE: 脳の健康と遺伝子：未来への希望\n- 脳の働きに関わる遺伝子の中には、その影響を変えられる可能性があることが新しい研究で示されました。\n- これは、脳の機能が少しずつ変化していくような困りごとに対して、将来、新しいアプローチが見つかるかもしれないという希望につながります。\n- すぐにASDのお子さんに当てはまる話ではありませんが、脳の健康に関する研究の進展は、すべての子どもたちの未来に役立つ可能性があります。",
-    "country": "US",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "脳の健康を守る研究が進むことで、将来の支援に繋がる可能性を感じられます。",
-    "todayAction": "お子さんと一緒に、脳を活性化するような楽しい遊びや体験を日常に取り入れてみましょう。",
-    "japanHint": "日本でも脳の多様性を理解し、一人ひとりの可能性を広げる研究や支援がもっと広がると嬉しいですね。",
-    "targetAge": "共通",
-    "fetchedAt": "2026-10-26T16:26:25.525Z"
   }
 ]
