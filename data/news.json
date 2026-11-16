@@ -1,5 +1,22 @@
 [
   {
+    "title": "Private initiative makes ‘historic’ investment in autism research",
+    "link": "https://www.thetransmitter.org/spectrum/private-initiative-makes-historic-investment-in-autism-research/",
+    "pubDate": "Tue, 13 Oct 2026 04:00:09 +0000",
+    "source": "Spectrum News",
+    "contentSnippet": "Aligning Research to Impact Autism has committed more than $450 million to build a new multidisciplinary research network to uncover the roots of profound autism and develop treatments.",
+    "id": "aHR0cHM6Ly93d3cudGhldHJhbnNtaXR0ZXIub3JnL3NwZWN0cnVtL3ByaXZhdGUtaW5pdGlhdGl2ZS1tYWtlcy1oaXN0b3JpYy1pbnZlc3RtZW50LWluLWF1dGlzbS1yZXNlYXJjaC8=",
+    "summary": "TITLE: 自閉スペクトラム症研究に巨額投資\n- ASD（自閉スペクトラム症）の特性をより深く理解し、その原因や支援方法を探るための大規模な研究が始まります。\n- 特に、日々の生活で大きな困難を抱えるお子さんのための、新しいケアや支援方法の開発に力が注がれます。\n- この取り組みは、未来の子どもたちがより自分らしく輝ける社会を作るための、大きな一歩となるでしょう。",
+    "country": "国際",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "お子さんの未来に希望が持てる、画期的な研究投資です。",
+    "todayAction": "お子さんの「良いところ」や「困っていること」をメモして、専門家と共有準備をしましょう。",
+    "japanHint": "日本でも、もっと企業や団体が連携して、子どもたちの未来のための研究や支援に投資する動きが広がると嬉しいです。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-11-16T01:40:10.755Z"
+  },
+  {
     "title": "Acetaminophen effects on developing brain organoids; and more",
     "link": "https://www.thetransmitter.org/spectrum/acetaminophen-effects-on-developing-brain-organoids-and-more/",
     "pubDate": "Tue, 13 Oct 2026 04:00:21 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でもこの研究が発展し、子どもたちの個性を尊重した、きめ細やかな支援が広がることを願います。",
     "targetAge": "共通",
     "fetchedAt": "2026-11-08T01:11:41.908Z"
-  },
-  {
-    "title": "Network analysis of autistic traits in children with autism and their parents: validation through follow-up data and eye-tracking technology",
-    "link": "https://www.nature.com/articles/s41398-026-04432-5",
-    "pubDate": "Fri, 4 Sep 2026 00:00:00 +0000",
-    "source": "Nature",
-    "contentSnippet": "",
-    "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDEzOTgtMDI2LTA0NDMyLTU=",
-    "summary": "TITLE: ASD親子特性の関連性研究\n- ASDのお子さんと親御さんの間に見られる特性（個性）のつながりを科学的に分析した研究です。\n- 視線の動きを測る最新技術や、お子さんの成長を長期間見守るデータで、そのつながりを客観的に確かめました。\n- この研究は、お子さんへの理解をさらに深め、将来、一人ひとりに合わせたサポートを考えるための大切な一歩となるでしょう。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★★",
-    "parentMeaning": "お子さんの特性理解が深まり、より良い関わりのヒントに。",
-    "todayAction": "お子さんの反応や興味を改めて注意深く観察してみましょう。",
-    "japanHint": "日本でも、親子それぞれの特性に合った個別支援がより充実することを期待します。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-11-08T01:13:24.358Z"
   }
 ]
