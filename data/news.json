@@ -1,5 +1,22 @@
 [
   {
+    "title": "Scientists find a youth protein that helps aging brain cells act young again",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm",
+    "pubDate": "Sat, 17 Oct 2026 23:27:40 EDT",
+    "source": "ScienceDaily",
+    "contentSnippet": "Scientists have discovered that a protein linked to youth helps protect the brain’s immune cells from age-related decline. Restoring the protein in older mice improved the cells’ ability to clear debris and reduced signs of inflammation, raising hopes for future treatments targeting brain aging and Alzheimer’s disease.",
+    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzEwLzI2MTAxNjA3MDY0Ni5odG0=",
+    "summary": "TITLE: 脳を活性化するタンパク質発見\n- 私たちの脳には、まるで時間を巻き戻すかのように、細胞を若々しく保つ特別なタンパク質があることが分かってきました。\n- このタンパク質は、脳の免疫細胞が老廃物をきれいにしたり、炎症を抑えたりする働きを助ける効果が期待されています。\n- この研究が進めば、将来、脳の機能をより良く保つ新しい方法が見つかり、ASDのお子さんの脳の発達をサポートするヒントにもなるかもしれません。",
+    "country": "US",
+    "category": "研究",
+    "reliability": "★★",
+    "parentMeaning": "脳の健康に関する新たな発見が、将来的なASDの子どもたちの支援につながる希望を持てます。",
+    "todayAction": "お子さんと一緒に、適度な運動や新しい体験を通じて脳の健康を育む時間を持ちましょう。",
+    "japanHint": "日本でも脳科学の進歩が、ASDの子どもたちの健やかな発達や学習をサポートする新たな方法につながるよう期待したいです。",
+    "targetAge": "小学生",
+    "fetchedAt": "2026-11-20T02:53:53.470Z"
+  },
+  {
     "title": "Loss of Angelman-linked UBE3A gene triggers stress response in neurons",
     "link": "https://www.thetransmitter.org/spectrum/loss-of-angelman-linked-ube3a-gene-triggers-stress-response-in-neurons/",
     "pubDate": "Thu, 19 Nov 2026 05:00:27 +0000",
@@ -831,22 +848,5 @@
     "japanHint": "日本でも、もっと気軽に乳幼児期からの言葉の発達相談ができると安心ですね。",
     "targetAge": "乳幼児",
     "fetchedAt": "2026-11-10T17:26:58.987Z"
-  },
-  {
-    "title": "The autistic brain processes faces differently than scientists thought",
-    "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
-    "pubDate": "Tue, 27 Oct 2026 23:02:38 EDT",
-    "source": "ScienceDaily",
-    "contentSnippet": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but show much less change in autistic children. The discovery could help explain why some autistic people have difficulty recognizing faces and reading emotions.",
-    "id": "aHR0cHM6Ly93d3cuc2NpZW5jZWRhaWx5LmNvbS9yZWxlYXNlcy8yMDI2LzEwLzI2MTAyNzA2MzgyNC5odG0=",
-    "summary": "TITLE: ASD児の脳、顔の認識プロセスに新発見\n- ASD（自閉スペクトラム症）のお子さんの脳が、顔を見る時に少し異なる働きをしていることが、新しい研究で分かりました。\n- この顔の認識における脳の働きの違いは、これまで考えられていたよりも早い時期から見られる可能性があることが示唆されています。\n- 今回の発見は、お子さんが顔の認識や表情の読み取りに難しさを感じる理由の一つを理解する大きな手がかりになるかもしれません。",
-    "country": "国際",
-    "category": "研究",
-    "reliability": "★★",
-    "parentMeaning": "お子さんの顔認識の特性を理解するヒントになります。",
-    "todayAction": "会話中に表情を言葉で表現し、感情と繋げて伝えてみましょう。",
-    "japanHint": "日本でも、この研究をヒントに個別支援や学校での顔の認識を助ける工夫が広がることを期待します。",
-    "targetAge": "幼児・小学生",
-    "fetchedAt": "2026-11-10T17:27:11.007Z"
   }
 ]
